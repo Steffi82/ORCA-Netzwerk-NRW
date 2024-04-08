@@ -8,12 +8,12 @@ This is a template for open and freely licensed texts that delivers appealing, a
 
 With every save (commit) the documents are generated and available via:
 
-* [landing page](https://tibhannover.github.io/markdown-documents-template/)
+* [landing page](https://Steffi82.github.io/ORCA-Netzwerk-NRW/)
 
 or directly 
-* [Ebook](https://tibhannover.github.io/markdown-documents-template/document.epub)
-* [PDF](https://tibhannover.github.io/markdown-documents-template/document.pdf)
-* [HTML](https://tibhannover.github.io/markdown-documents-template/document.html)
+* [Ebook](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.epub)
+* [PDF](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.pdf)
+* [HTML](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.html)
 
 # Use this template
 
