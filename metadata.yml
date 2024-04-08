@@ -1,0 +1,21 @@
+---
+name: "My OER Course"
+creator:
+  - givenName: "Max"
+    familyName: "Mustermann"
+  - givenName: "Maxi"
+    familyName: "Mustermann"
+publisher:
+  givenName: "Max"
+  familyName: "Mustermann"
+keywords:
+  - "Geometry"
+  - "Pythagoras"
+  - "Mathematics"
+description: "Draft for a course"
+inLanguage: "en"
+version: 1.0
+license: "https://creativecommons.org/publicdomain/zero/1.0/"
+thumbnailUrl: http://placehold.it/100x100
+learningResourceType: "Course"
+creativeWorkStatus: "Draft" # Incomplete, Draft, Published
