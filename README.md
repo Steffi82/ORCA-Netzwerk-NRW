@@ -22,6 +22,15 @@ Einleitungstext
 
 Material-Darstellung 
 Gallery?
+<!-- style="display: block; margin: auto; width: 60%;" -->
+@slider
+  ![Bild 1](pfad/zu/bild1.jpg)
+  ![Bild 2](pfad/zu/bild2.jpg)
+  ![Bild 3](pfad/zu/bild3.jpg)
+  ![Bild 4](pfad/zu/bild4.jpg)
+  ![Bild 5](pfad/zu/bild5.jpg)
+
+
 Accordion?
 
 ## OER herstellen
