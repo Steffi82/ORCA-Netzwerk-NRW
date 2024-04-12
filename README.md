@@ -18,7 +18,11 @@ or directly
 * [HTML](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.html)
 
 ## OER finden
-abc
+Einleitungstext
+
+Material-Darstellung 
+Gallery?
+Accordion?
 
 ## OER herstellen
 abc
