@@ -317,13 +317,13 @@ __Niveaustufe__
 
 __Praxiskategorie__
 
-@[button(mouth.terminal,OER finden)](img/_button/mouth/terminal.png)
-@[button(mouth.superior,OER herstellen)](img/_button/mouth/superior.png)
-@[button(mouth.inferior,Mit OER lernen)](img/_button/mouth/inferior.png)
-@[button(mouth.elongated,Mit OER lehren)](img/_button/mouth/elongated.png) 
-@[button(mouth.elongated,OER einführen)](img/_button/mouth/elongated.png)
-@[button(mouth.superior,OER managen)](img/_button/mouth/superior.png)
-@[button(mouth.inferior,unterständig)](img/_button/mouth/inferior.png)
+@[button(mouth.terminal,OER finden)](img/_button/absent.png)
+@[button(mouth.superior,OER herstellen)](img/_button/absent.png)
+@[button(mouth.inferior,Mit OER lernen)](img/_button/absent.png)
+@[button(mouth.elongated,Mit OER lehren)](img/_button/absent.png) 
+@[button(mouth.elongated,OER einführen)](img/_button/absent.png)
+@[button(mouth.superior,OER managen)](img/_button/absent.png)
+@[button(mouth.inferior,unterständig)](img/_button/absent.png)
 
 </details>
 
