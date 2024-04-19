@@ -337,21 +337,21 @@ __Medienart__
 <div id="results"></div>
 
 
-![](Bilder/Header.png)          
+![](Bilder/Header.png)        
+
 *das ist erstmal ein Platzhalter. Ich würde  den wie unten auf 1200px verbreitern, wenn die Darstellung konstistent gut ist, die Medientypen in der Farbigkeit der Hintergründe weiter unten spezifisch aufgreifen und eine kleine Hommage an OER und Oder ORCA einbauen. Wobei, letzters könnte ja ins Impressum durch einen "gefördert von" Abbinder.*
 
 Für Inspiration einfach entlang der Seitenleiste durchklicken.
 
 
 
-# Inspirationen im Content-Buffet-Style
-
+---
 
 ## OER finden
 Einleitungstext
 
 Material-Darstellung 
-Gallery?
+Gallery? Mal ja, mal nein, woran liegts?
 <!-- style="display: block; margin: auto; width: 60%;" -->
 
 ![](Bilder/Dummy_300x300px.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")![](Bilder/Dummy_300x300px.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")   ![](Bilder/Dummy_300x300px.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")   ![](Bilder/Dummy_300x300px.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")   
