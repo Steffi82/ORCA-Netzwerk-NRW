@@ -302,9 +302,9 @@ persistent: true
 
 __Niveaustufe__
 
-@[button(body.typical,Einsteiger)](img/_button/body/long.png)
-@[button(body.long,Praktiker)](img/_button/body/long.png)
-@[button(body.flattened,Experte)](img/_button/body/flattened.png)
+@[button(body.typical,Einsteiger)](img/_buttons/absent.png)
+@[button(body.long,Praktiker)](img/_buttons/absent.png)
+@[button(body.flattened,Experte)](img/_buttons/absent.png)
 
 
 </details>
