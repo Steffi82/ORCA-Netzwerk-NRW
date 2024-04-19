@@ -297,32 +297,37 @@ persistent: true
 
 <details>
 
-<summary> Niveaustufe </summary>
+<summary> OER-Material-Sieb </summary>
 
 __Level__
 
 @[button(body.typical,Einsteiger)](Bilder/L-Einsteiger.png)
-@[button(body.long,Praktiker)](Bilder/L-Praktiker.png)
+@[button(body.long,Praktiker)](Bilder/L_Praktiker.png)
 @[button(body.flattened,Experte)](Bilder/L-Experte.png)
-
-
-</details>
 
 ---
 
-<details>
-
-<summary> Praxiskategorie </summary>
-
 __Praxiskategorie__
 
-@[button(mouth.terminal,OER finden)](img/_button/absent.png)
-@[button(mouth.superior,OER herstellen)](img/_button/absent.png)
-@[button(mouth.inferior,Mit OER lernen)](img/_button/absent.png)
-@[button(mouth.elongated,Mit OER lehren)](img/_button/absent.png) 
-@[button(mouth.elongated,OER einführen)](img/_button/absent.png)
-@[button(mouth.superior,OER managen)](img/_button/absent.png)
-@[button(mouth.inferior,unterständig)](img/_button/absent.png)
+@[button(mouth.terminal,OER finden)](Bilder/B-1)
+@[button(mouth.superior,OER herstellen)](Bilder/B-2)
+@[button(mouth.inferior,Mit OER lernen)](Bilder/B-3)
+@[button(mouth.elongated,Mit OER lehren)](Bilder/B-4)) 
+@[button(mouth.elongated,OER einführen)](Bilder/B-5)
+@[button(mouth.superior,OER managen)](Bilder/B-6)
+
+---
+
+
+__Medienart__
+
+@[button(mouth.terminal,Audio)](Bilder/B-1)
+@[button(mouth.superior,Video)](Bilder/B-1)
+@[button(mouth.inferior,Text)](Bilder/B-1)
+@[button(mouth.elongated,H5P)](Bilder/B-1) 
+@[button(mouth.elongated,Kurs)](Bilder/B-1)
+
+
 
 </details>
 
