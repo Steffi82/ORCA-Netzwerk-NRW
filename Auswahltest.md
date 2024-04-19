@@ -282,15 +282,14 @@ Papa.parse(CSV, {
 
 
 # Netzwerk ORCA.nrw 
-a) Contentbuffet: Praxiskategorien 
-c) Level
-c) Medienart, 
 
+Herzlich willkommen auf dieser Seite, die sich im Moment noch im Dummy-Status befindet.
+Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.
+Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das ORCA-Netzwerk zusammengetragen hat. 
+Für Inspiration: Entlang der Seitenleiste durchklicken
+Für spezifisches kann man hier filtern:
 
-
-* [landing page](https://Steffi82.github.io/ORCA-Netzwerk-NRW/)
-
-abc 
+---
 
 <!--
 persistent: true
@@ -300,11 +299,11 @@ persistent: true
 
 <summary> Niveaustufe </summary>
 
-__Niveaustufe__
+__Level__
 
-@[button(body.typical,Einsteiger)](Bilder/Dummy_300x300px.png)
-@[button(body.long,Praktiker)](Bilder/Dummy_300x300px.png)
-@[button(body.flattened,Experte)](Bilder/Dummy_300x300px.png)
+@[button(body.typical,Einsteiger)](Bilder/L-Einsteiger.png)
+@[button(body.long,Praktiker)](Bilder/L-Praktiker.png)
+@[button(body.flattened,Experte)](Bilder/L-Experte.png)
 
 
 </details>
