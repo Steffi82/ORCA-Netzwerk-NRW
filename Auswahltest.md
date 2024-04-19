@@ -370,7 +370,7 @@ _Veröffentlichungsdatum_
 _Lizenz;_
 _Hinweis bei Weiterverwendung_
 
-![](Bilder/Dummy_300x300px.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
+![](Bilder/M_0X_Jamal.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
 
 Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
  
