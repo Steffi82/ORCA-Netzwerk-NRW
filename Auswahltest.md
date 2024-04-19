@@ -309,23 +309,23 @@ __Level__
 
 __Praxiskategorie__
 
-@[button(mouth.terminal,OER finden)](Bilder/B-1)
-@[button(mouth.superior,OER herstellen)](Bilder/B-2)
-@[button(mouth.inferior,Mit OER lernen)](Bilder/B-3)
-@[button(mouth.elongated,Mit OER lehren)](Bilder/B-4)) 
-@[button(mouth.elongated,OER einführen)](Bilder/B-5)
-@[button(mouth.superior,OER managen)](Bilder/B-6)
+@[button(mouth.terminal,OER finden)](Bilder/B-1.png)
+@[button(mouth.superior,OER herstellen)](Bilder/B-2.png)
+@[button(mouth.inferior,Mit OER lernen)](Bilder/B-3.png)
+@[button(mouth.elongated,Mit OER lehren)](Bilder/B-4.png) 
+@[button(mouth.elongated,OER einführen)](Bilder/B-5.png)
+@[button(mouth.superior,OER managen)](Bilder/B-6.png)
 
 ---
 
 
 __Medienart__
 
-@[button(mouth.terminal,Audio)](Bilder/B-1)
-@[button(mouth.superior,Video)](Bilder/B-1)
-@[button(mouth.inferior,Text)](Bilder/B-1)
-@[button(mouth.elongated,H5P)](Bilder/B-1) 
-@[button(mouth.elongated,Kurs)](Bilder/B-1)
+@[button(mouth.terminal,Audio)](Bilder/B-1.png)
+@[button(mouth.superior,Video)](Bilder/B-1.png)
+@[button(mouth.inferior,Text)](Bilder/B-1.png)
+@[button(mouth.elongated,H5P)](Bilder/M-5.png) 
+@[button(mouth.elongated,Kurs)](Bilder/M-6.png)
 
 
 
