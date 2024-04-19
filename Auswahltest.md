@@ -315,7 +315,7 @@ __Praxiskategorie__
 @[button(mouth.elongated,Mit OER lehren)](Bilder/B-4.png) 
 @[button(mouth.elongated,OER einführen)](Bilder/B-5.png)
 @[button(mouth.superior,OER managen)](Bilder/B-6.png)
-
+@[button(mouth.superior,über OER forschen)](Bilder/B-6.png)
 ---
 
 
