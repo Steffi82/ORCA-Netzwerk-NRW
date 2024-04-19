@@ -303,7 +303,7 @@ persistent: true
 __Level__
 
 @[button(body.typical,Einsteiger)](Bilder/L-Einsteiger.png)
-@[button(body.long,Praktiker)](Bilder/L_Praktiker.png)
+@[button(body.long,Praktiker)](Bilder/L-Praktiker.png)
 @[button(body.flattened,Experte)](Bilder/L-Experte.png)
 
 ---
