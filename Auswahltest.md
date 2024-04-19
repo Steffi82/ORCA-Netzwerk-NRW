@@ -435,11 +435,6 @@ Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien l
 
 <article class="main-info">
 
-_Urheber:innen & Mitarbeiter:innen: abc, def, ghi;_
-_Veröffentlichungsdatum_
-_Lizenz;_
-_Hinweis bei Weiterverwendung_
-
 ![](Bilder/M_0X_Jamal.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
 
 </article>
