@@ -328,23 +328,13 @@ __Praxiskategorie__
 
 ---
 
-<details>
-<summary> Medienart/-typ </summary>
-
-__Barteln__
-
-@[button(barbel.one,Video)](img/_button/barbel/one.png)
-@[button(barbel.several,Audio)](img/_button/barbel/several.png)
-@[button(barbel.absent,PDF)](img/_button/barbel/absent.png)
-
-
-
-</details>
 
 <div id="results"></div>
 
 
 
+
+# Inspirationen im Content-Buffet-Style
 
 
 ## OER finden
