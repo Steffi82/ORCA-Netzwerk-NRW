@@ -1,17 +1,58 @@
-# Pythagorean theorem
+# Einleitung
 
-## Representation
+- Hallo, 
+- OER Einleitung
 
-![Representation of the Pythagorean Theorem](https://upload.wikimedia.org/wikipedia/commons/d/d1/01-Rechtwinkliges_Dreieck-Pythagoras.svg)  
+# "Fischbestimmer" : nach 
+a) Contentbuffet: Praxiskategorien 
+c) Level
+c) Medienart, 
 
-![Tree at the lake](https://upload.wikimedia.org/wikipedia/commons/c/c1/Regnitz-Baum-1012073.jpg)
 
-![Petri net](https://upload.wikimedia.org/wikipedia/commons/0/08/PetriNetzVentil.png)
 
-## The formula
+* [landing page](https://Steffi82.github.io/ORCA-Netzwerk-NRW/)
 
-```math
-a^2 + b^2 = c^2
-```
+or directly 
+* [Ebook](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.epub)
+* [PDF](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.pdf)
+* [HTML](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.html)
 
-see [chapter 4](chapter04.md#assignment)
+## OER finden
+Einleitungstext
+
+Material-Darstellung 
+Gallery?
+<!-- style="display: block; margin: auto; width: 60%;" -->
+@slider
+  ![Bild 1](pfad/zu/bild1.jpg)
+  ![Bild 2](pfad/zu/bild2.jpg)
+  ![Bild 3](pfad/zu/bild3.jpg)
+  ![Bild 4](pfad/zu/bild4.jpg)
+  ![Bild 5](pfad/zu/bild5.jpg)
+
+
+Accordion?
+
+## OER herstellen
+abc
+
+## Mit OER lernen
+abc
+
+## Mit OER lehren
+abc
+
+## OER einführen
+abc
+
+## OER managen
+abc
+
+## OER herstellen
+abc 
+
+## über OER forschen
+abc
+
+# Impressum
+This template for OER courses is released under MIT. The content of the document is subject to the respective license as indicated at the end of the generated files or in the metadata.yml.
