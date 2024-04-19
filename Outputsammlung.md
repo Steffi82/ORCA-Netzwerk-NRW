@@ -313,21 +313,21 @@ __Praxiskategorie__
 @[button(mouth.terminal,OER finden)](Bilder/B-1.png)
 @[button(mouth.superior,OER herstellen)](Bilder/B-2.png)
 @[button(mouth.inferior,Mit OER lernen)](Bilder/B-3.png)
-@[button(mouth.elongated,Mit OER lehren)](Bilder/B-4.png) 
+@[button(mouth.elongated,Mit OER lehren)](Bilder/B-4.png)
 @[button(mouth.elongated,OER einführen)](Bilder/B-5.png)
 @[button(mouth.superior,OER managen)](Bilder/B-6.png)
-@[button(mouth.superior,über OER forschen)](Bilder/B-6.png)
+@[button(mouth.superior,über OER forschen)](Bilder/B-7.png)
 
 ---
 
 
 __Medienart__
 
-@[button(mouth.terminal,Audio)](Bilder/B-1.png)
-@[button(mouth.superior,Video)](Bilder/B-1.png)
-@[button(mouth.inferior,Text)](Bilder/B-1.png)
-@[button(mouth.elongated,H5P)](Bilder/M-5.png) 
-@[button(mouth.elongated,Kurs)](Bilder/M-6.png)
+@[button(mouth.terminal,Audio)](Bilder/M-1.png)
+@[button(mouth.superior,Video)](Bilder/M2.png)
+@[button(mouth.inferior,Text)](Bilder/M-3.png)
+@[button(mouth.elongated,H5P)](Bilder/M-4.png)
+@[button(mouth.elongated,Kurs)](Bilder/M-5.png)
 
 
 
