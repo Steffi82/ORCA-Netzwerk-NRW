@@ -286,7 +286,7 @@ Papa.parse(CSV, {
 Herzlich willkommen auf dieser Seite, die sich im Moment noch im Dummy-Status befindet.
 Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.
 Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das ORCA-Netzwerk zusammengetragen hat. 
-Für Inspiration: Entlang der Seitenleiste durchklicken
+
 Für spezifisches kann man hier filtern:
 
 ---
@@ -336,6 +336,8 @@ __Medienart__
 
 <div id="results"></div>
 
+
+Für Inspiration einfach entlang der Seitenleiste durchklicken
 
 
 
