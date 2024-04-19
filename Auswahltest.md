@@ -367,79 +367,7 @@ Accordion? Wie bekommt man da noch Text drunter?
 
 ---
 
-### Material 1
 
-<article class="main-info">
-
-![](Bilder/M_0X_Jamal.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
-
-
-</article>
-
-Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
-Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
->
-> __Link zur Originalquelle:__ *.*
->
-> __Autor:innen und Mitarbeiter:innen:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
->
-> __Lizenz:__ CC-undfolgend, ggf. mit Logobild.
->
-> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
->
-
-
-
----
-
-### Material 2
-
-<article class="main-info">
-
-_Urheber:innen & Mitarbeiter:innen: abc, def, ghi;_
-_Veröffentlichungsdatum_
-_Lizenz;_
-_Hinweis bei Weiterverwendung_
-
-![](Bilder/M_0X_Jamal.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
-
-</article>
-
-Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
-Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
->
-> __Link zur Originalquelle:__ *.*
->
-> __Autor:innen und Mitarbeiter:innen:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
->
-> __Lizenz:__ CC-undfolgend, ggf. mit Logobild.
->
-> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
-
->
-
-
----
-
-
-### hier gehts dann weiter (aktuell Sammelkiste)
- 
-a) Placeholder with link to Youtube
-
-[![Entwicklungsumgebung mit Groovy/Git testen](https://img.youtube.com/vi/fbZOii_l7M4/maxresdefault.jpg)](https://youtu.be/fbZOii_l7M4)
-
-b) AV-Portal player embedded
-
-<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/40456" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-c) Youtube embedded
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/fbZOii_l7M4" allowfullscreen="allowfullscreen">
-</iframe>
-
-
----
 
 ## OER herstellen
 abc
@@ -476,6 +404,82 @@ abc
 abc
 
 ---
+
+## Materialien (alphabetisch?)
+### Material 1
+
+<article class="main-info">
+
+![](Bilder/M_0X_Jamal.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
+
+
+</article>
+
+Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
+>
+> __Link zur Originalquelle:__ abc
+>
+> __Autor:innen und Mitarbeiter:innen:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
+>
+> __Lizenz:__ CC-undfolgend, ggf. mit Logobild.
+>
+> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
+>
+
+
+
+---
+
+### Material 2
+
+<article class="main-info">
+
+_Urheber:innen & Mitarbeiter:innen: abc, def, ghi;_
+_Veröffentlichungsdatum_
+_Lizenz;_
+_Hinweis bei Weiterverwendung_
+
+![](Bilder/M_0X_Jamal.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
+
+</article>
+
+Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
+>
+> __Link zur Originalquelle:__ abc
+>
+> __Autor:innen und Mitarbeiter:innen:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
+>
+> __Lizenz:__ CC-undfolgend, ggf. mit Logobild.
+>
+> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
+
+>
+
+
+---
+
+
+### hier gehts dann weiter (aktuell Sammelkiste)
+ 
+a) Placeholder with link to Youtube
+
+[![Entwicklungsumgebung mit Groovy/Git testen](https://img.youtube.com/vi/fbZOii_l7M4/maxresdefault.jpg)](https://youtu.be/fbZOii_l7M4)
+
+b) AV-Portal player embedded
+
+<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/40456" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+c) Youtube embedded
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/fbZOii_l7M4" allowfullscreen="allowfullscreen">
+</iframe>
+
+
+---
+
 
 # Impressum
 This template for OER courses is released under MIT. The content of the document is subject to the respective license as indicated at the end of the generated files or in the metadata.yml.
