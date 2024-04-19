@@ -281,12 +281,7 @@ Papa.parse(CSV, {
 -->
 
 
-# Einleitung
-
-- Hallo, 
-- OER Einleitung
-
-# "Fischbestimmer" : nach 
+# Netzwerk ORCA.nrw 
 a) Contentbuffet: Praxiskategorien 
 c) Level
 c) Medienart, 
@@ -301,7 +296,7 @@ or directly
 * [HTML](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.html)
 
 
-# Filter
+## Filter
 <!--
 persistent: true
 -->
