@@ -299,6 +299,7 @@ persistent: true
 
 <summary> OER-Material-Sieb </summary>
 
+
 __Level__
 
 @[button(body.typical,Einsteiger)](Bilder/L-Einsteiger.png)
@@ -316,6 +317,7 @@ __Praxiskategorie__
 @[button(mouth.elongated,OER einführen)](Bilder/B-5.png)
 @[button(mouth.superior,OER managen)](Bilder/B-6.png)
 @[button(mouth.superior,über OER forschen)](Bilder/B-6.png)
+
 ---
 
 
@@ -339,6 +341,7 @@ __Medienart__
 
 ![](Bilder/Header.png)        
 
+
 *das ist erstmal ein Platzhalter. Ich würde  den wie unten auf 1200px verbreitern, wenn die Darstellung konstistent gut ist, die Medientypen in der Farbigkeit der Hintergründe weiter unten spezifisch aufgreifen und eine kleine Hommage an OER und Oder ORCA einbauen. Wobei, letzters könnte ja ins Impressum durch einen "gefördert von" Abbinder.*
 
 Für Inspiration einfach entlang der Seitenleiste durchklicken.
@@ -348,6 +351,8 @@ Für Inspiration einfach entlang der Seitenleiste durchklicken.
 ---
 
 ## OER finden
+
+
 Einleitungstext
 
 Material-Darstellung 
