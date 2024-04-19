@@ -327,6 +327,8 @@ __Praxiskategorie__
 
 </details>
 
+---
+
 <details>
 <summary> Medienart/-typ </summary>
 
