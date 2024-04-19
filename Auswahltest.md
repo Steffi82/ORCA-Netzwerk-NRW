@@ -366,13 +366,7 @@ Accordion? Wie bekommt man da noch Text drunter?
 
 <article class="main-info">
 
-_Urheber:innen & Mitarbeiter:innen: abc, def, ghi;_
-_Veröffentlichungsdatum_
-_Lizenz;_
-_Hinweis bei Weiterverwendung_
-
 ![](Bilder/M_0X_Jamal.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
-
 
 
 </article>
@@ -380,11 +374,11 @@ _Hinweis bei Weiterverwendung_
 Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
 Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
 >
-> __Link zur Originalquelle::__ *.*
+> __Link zur Originalquelle:__ *.*
 >
-> __Link zur Originalquelle:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
+> __Autor:innen und Mitarbeiter:innen:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
 >
-> __Lizenz:__ GCC-undfolgend, ggf. mit Logobild.
+> __Lizenz:__ CC-undfolgend, ggf. mit Logobild.
 >
 > __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
 >
@@ -409,13 +403,14 @@ _Hinweis bei Weiterverwendung_
 Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
 Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
 >
-> __Link zur Originalquelle::__ *.*
+> __Link zur Originalquelle:__ *.*
 >
-> __Link zur Originalquelle:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
+> __Autor:innen und Mitarbeiter:innen:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
 >
 > __Lizenz:__ CC-undfolgend, ggf. mit Logobild.
 >
 > __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
+
 >
 
 
@@ -439,36 +434,48 @@ src="https://www.youtube.com/embed/fbZOii_l7M4" allowfullscreen="allowfullscreen
 </iframe>
 
 
-
+---
 
 ## OER herstellen
 abc
+
+---
 
 ## Mit OER lernen
 abc
 
+---
+
 ## Mit OER lehren
 abc
+
+---
 
 ## OER einführen
 abc
 
+---
+
 ## OER managen
 abc
+
+---
 
 ## OER herstellen
 abc 
 
+---
+
+
 ## über OER forschen
 abc
+
+---
 
 # Impressum
 This template for OER courses is released under MIT. The content of the document is subject to the respective license as indicated at the end of the generated files or in the metadata.yml.
 
-# Impressum
-
 <article>
-
 
 
 
