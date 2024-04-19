@@ -287,7 +287,7 @@ Herzlich willkommen auf dieser Seite, die sich im Moment noch im Dummy-Status be
 Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.
 Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das ORCA-Netzwerk zusammengetragen hat. 
 
-Für spezifisches kann man hier filtern:
+Ganz schön viel! Daher gibt es hier eine Filtermöglichkeit:
 
 ---
 
@@ -338,8 +338,9 @@ __Medienart__
 
 
 ![](Bilder/Header.png)          
+*das ist erstmal ein Platzhalter. Ich würde  den wie unten auf 1200px verbreitern, wenn die Darstellung konstistent gut ist, die Medientypen in der Farbigkeit der Hintergründe weiter unten spezifisch aufgreifen und eine kleine Hommage an OER und Oder ORCA einbauen. Wobei, letzters könnte ja ins Impressum durch einen "gefördert von" Abbinder.*
 
-Für Inspiration einfach entlang der Seitenleiste durchklicken
+Für Inspiration einfach entlang der Seitenleiste durchklicken.
 
 
 
@@ -357,7 +358,7 @@ Gallery?
 
 ![Das ist ein Test](https://www.youtube.com/watch?v=65aGlJZPypY "ob das so funktioniert wie es soll")
 
-Accordion?
+Accordion? Wie bekommt man da noch Text drunter?
 
 ---
 
