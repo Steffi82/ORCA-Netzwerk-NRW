@@ -309,7 +309,7 @@ __Level__
 
 __Praxiskategorie__
 
-@[button(mouth.terminal,OER finden)](Bilder/L-Einsteiger.png)
+@[button(mouth.terminal,OER finden)](Bilder/B-1.png)
 @[button(mouth.superior,OER herstellen)](Bilder/B-2.png)
 @[button(mouth.inferior,Mit OER lernen)](Bilder/B-3.png)
 @[button(mouth.elongated,Mit OER lehren)](Bilder/B-4.png) 
@@ -387,9 +387,10 @@ Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien l
 >
 > __Lizenz:__ GCC-undfolgend, ggf. mit Logobild.
 >
-> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ sehr häufig
+> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
 >
----
+
+
 
 ---
 
@@ -414,10 +415,12 @@ Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien l
 >
 > __Link zur Originalquelle:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
 >
-> __Lizenz:__ GCC-undfolgend, ggf. mit Logobild.
+> __Lizenz:__ CC-undfolgend, ggf. mit Logobild.
 >
-> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ sehr häufig
+> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
 >
+
+
 ---
 
 
