@@ -335,7 +335,7 @@ __Medienart__
 
 
 <div id="results"></div>
-![](Header.png)
+![..](Bilder/Header.png)
 
 Für Inspiration einfach entlang der Seitenleiste durchklicken
 
