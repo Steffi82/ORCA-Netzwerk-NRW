@@ -290,11 +290,6 @@ c) Medienart,
 
 * [landing page](https://Steffi82.github.io/ORCA-Netzwerk-NRW/)
 
-or directly 
-* [Ebook](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.epub)
-* [PDF](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.pdf)
-* [HTML](https://Steffi82.github.io/ORCA-Netzwerk-NRW/document.html)
-
 abc 
 
 <!--
