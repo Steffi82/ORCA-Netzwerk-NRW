@@ -309,7 +309,7 @@ __Level__
 
 __Praxiskategorie__
 
-@[button(mouth.terminal,OER finden)](Bilder/B-1.png)
+@[button(mouth.terminal,OER finden)](Bilder/L-Einsteiger.png)
 @[button(mouth.superior,OER herstellen)](Bilder/B-2.png)
 @[button(mouth.inferior,Mit OER lernen)](Bilder/B-3.png)
 @[button(mouth.elongated,Mit OER lehren)](Bilder/B-4.png) 
@@ -352,13 +352,6 @@ Gallery?
 <!-- style="display: block; margin: auto; width: 60%;" -->
 
 ![Das ist ein Test](https://www.youtube.com/watch?v=65aGlJZPypY "ob das so funktioniert wie es soll")
-
-
-
-![](Dummy_300x300px.png)
-
-  ![Bild 1](![](Dummy_300x300px.png)![Bild 2](![](Dummy_300x300px.png) ![Bild 3](![](Dummy_300x300px.png) ![Bild 4](![](Dummy_300x300px.png) ![Bild 5](![](Dummy_300x300px.png)
-
 
 Accordion?
 
