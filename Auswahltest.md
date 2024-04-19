@@ -377,8 +377,6 @@ _Hinweis bei Weiterverwendung_
 
 </article>
 
-#### Headline optional
-
 Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
 Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
 >
@@ -408,7 +406,6 @@ _Hinweis bei Weiterverwendung_
 
 </article>
 
-#### Headline optional
 Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
 Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
 >
