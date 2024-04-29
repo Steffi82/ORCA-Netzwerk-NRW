@@ -326,6 +326,8 @@ __Medienart__
 @[button(mouth.terminal,Audio)](Bilder/M-1.png)
 @[button(mouth.superior,Video)](Bilder/M2.png)
 @[button(mouth.inferior,Text)](Bilder/M-3.png)
+@[button(mouth.inferior,Text)](Bilder/M-3.png)
+@[button(mouth.inferior,Text)](Bilder/M-3.png)
 @[button(mouth.elongated,H5P)](Bilder/M-4.png)
 @[button(mouth.elongated,Kurs)](Bilder/M-5.png)
 
