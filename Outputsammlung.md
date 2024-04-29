@@ -368,9 +368,39 @@ Accordion? Wie bekommt man da noch Text drunter?
 ---
 
 
+Literatursammlung
+
+Wissenschaftliche Veröffentlichung 
+Dr. Sina Nitzsche, Florian Rosenthal, Laura Schaffeld, Dr. Elisabeth Scherer, Dr. Magdalena Spaude, Dr. Tassja Weber: OER Tracks and the ORCA.nrw Network: Promoting OER in Higher Education. 13. Open Educational Research Conference, Association of Learning Technology mit dem Global OER Graduate Network. Online unter: https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH5Zbo5Cyo_M 
+
+Susanne Grimm, Alexander Kobusch, Gabi Reichardt, Dr. Magdalena Spaude, Markus Deimann. 2021: zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann. Online unter: https://open-educational-resources.de/zugehoert-080-orca-nrw/
+
+OER-Supportmaterial
+Dr. Sina Nitzsche: Lehr- und Lernmaterialien frei Haus.2021: Open Educational Resources. Online unter: https://heyzine.com/flip-book/11b57ddf01.html#page/168
 
 ## OER herstellen
-abc
+
+Wissenschaftliche Veröffentlichung - WV
+Dr. Sina Nitzsche, Florian Rosenthal, Laura Schaffeld, Dr. Elisabeth Scherer, Dr. Magdalena Spaude, Dr. Tassja Weber: OER Tracks and the ORCA.nrw Network: Promoting OER in Higher Education. 13. Open Educational Research Conference, Association of Learning Technology mit dem Global OER Graduate Network. Online unter: https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH5Zbo5Cyo_M 
+
+Susanne Grimm, Alexander Kobusch, Gabi Reichardt, Dr. Magdalena Spaude, Markus Deimann. 2021: zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann. Online unter: https://open-educational-resources.de/zugehoert-080-orca-nrw/
+
+Dr. Sina Nitzsche, Dr. Elisabeth Scherer: Von Netzwerken und Bienen: Das Legetechnik-Video zu den OER Tracks. Online unter: https://open-educational-resources.de/das-legetechnik-video-zu-den-oer-tracks/
+
+
+
+OER-Supportmaterial
+Dr. Sina Nitzsche: Lehr- und Lernmaterialien frei Haus.2021: Open Educational Resources. Online unter: https://heyzine.com/flip-book/11b57ddf01.html#page/168
+
+
+Videos - WV
+Produziert von Dr. Sina Nitzsche et al. verschiedene Urhebende (Lehrende in den jeweiligen Projekten): Dokumentation des OER-Fachtags Ingenieurwissenschaften. Online unter: https://www.orca.nrw/lehrende/akteure/netzwerk/oer-fachtage
+
+Produziert von Dr. Sina Nitzsche und Dr. Markus Jahn, Urhebende: Vincent Beringhoff, Dr. Markus Jahn, David Kilian, Karlo Löbbert: OER-Testimonials: Tutorial Series Academic Writing. Online unter: https://video.fh-dortmund.de/video/OER-Testimonials3A-Tutorial-Series-Academic-Writing/d34e7471d3db895ce43b181ad6f9be15
+
+
+Produziert von Dr. Sina Nitzsche und Dr. Markus Jahn, Urhebende: Videolabor, Fabian Dillenhöfer, Prof. Dr. Matthias Müller, Dr. Sina Nitzsche: OER-Testimonials:  Technisches Zeichnen im Ingenieurwesen (TZdigital.nrw). Online unter: https://video.fh-dortmund.de/video/oer-testimonials-tzdigitalnrw/d31c5c819a0ea9072b8172f1ee26cd3a
+
 
 ---
 
