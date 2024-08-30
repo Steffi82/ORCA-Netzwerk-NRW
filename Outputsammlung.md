@@ -382,37 +382,15 @@ Dr. Sina Nitzsche: Lehr- und Lernmaterialien frei Haus.2021: Open Educational Re
 
 ## OER herstellen
 
-Wissenschaftliche Veröffentlichung - WV
-Dr. Sina Nitzsche, Florian Rosenthal, Laura Schaffeld, Dr. Elisabeth Scherer, Dr. Magdalena Spaude, Dr. Tassja Weber: OER Tracks and the ORCA.nrw Network: Promoting OER in Higher Education. 13. Open Educational Research Conference, Association of Learning Technology mit dem Global OER Graduate Network. Online unter: https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH5Zbo5Cyo_M 
-
-Susanne Grimm, Alexander Kobusch, Gabi Reichardt, Dr. Magdalena Spaude, Markus Deimann. 2021: zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann. Online unter: https://open-educational-resources.de/zugehoert-080-orca-nrw/
-
-Dr. Sina Nitzsche, Dr. Elisabeth Scherer: Von Netzwerken und Bienen: Das Legetechnik-Video zu den OER Tracks. Online unter: https://open-educational-resources.de/das-legetechnik-video-zu-den-oer-tracks/
-
-
-
-OER-Supportmaterial
-Dr. Sina Nitzsche: Lehr- und Lernmaterialien frei Haus.2021: Open Educational Resources. Online unter: https://heyzine.com/flip-book/11b57ddf01.html#page/168
-
-
-Videos - WV
-Produziert von Dr. Sina Nitzsche et al. verschiedene Urhebende (Lehrende in den jeweiligen Projekten): Dokumentation des OER-Fachtags Ingenieurwissenschaften. Online unter: https://www.orca.nrw/lehrende/akteure/netzwerk/oer-fachtage
-
-Produziert von Dr. Sina Nitzsche und Dr. Markus Jahn, Urhebende: Vincent Beringhoff, Dr. Markus Jahn, David Kilian, Karlo Löbbert: OER-Testimonials: Tutorial Series Academic Writing. Online unter: https://video.fh-dortmund.de/video/OER-Testimonials3A-Tutorial-Series-Academic-Writing/d34e7471d3db895ce43b181ad6f9be15
-
-
-Produziert von Dr. Sina Nitzsche und Dr. Markus Jahn, Urhebende: Videolabor, Fabian Dillenhöfer, Prof. Dr. Matthias Müller, Dr. Sina Nitzsche: OER-Testimonials:  Technisches Zeichnen im Ingenieurwesen (TZdigital.nrw). Online unter: https://video.fh-dortmund.de/video/oer-testimonials-tzdigitalnrw/d31c5c819a0ea9072b8172f1ee26cd3a
-
-
 ---
 
 ## Mit OER lernen
-abc
+
 
 ---
 
 ## Mit OER lehren
-abc
+
 
 ---
 
@@ -438,51 +416,228 @@ abc
 ---
 
 ## Materialien (alphabetisch?)
-### Material 1
 
 <article class="main-info">
-
-![](Bilder/M_0X_Jamal.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
-
-
-</article>
-
-Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
-Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
 >
-> __Link zur Originalquelle:__ abc
->
-> __Autor:innen und Mitarbeiter:innen:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
->
-> __Lizenz:__ CC-undfolgend, ggf. mit Logobild.
->
-> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
->
+<!--
+***>> LINK ZUM LIA
+https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/Steffi82/ORCA-Netzwerk-NRW/main/Outputsammlung.md#1  
+-->
+  
+<!-- BLANKO
+---
+## `Medientyp FEHLT` | TITEL
+
+![](Dummy_Mat_Intro.jpg)  <!-- Bezeichnung für das echte: (MEDIENTYP_Name-wie-Titel-sinnvoll-verkuerzt_CC-Lizenz des Materials) --> <!-- 
+Hier steht ein kurzer **Beschreibungstext**, der **Mehrwerte** und oder **Nutzungsszenarien** sowie **USP** beschreibt..
+
+***| `Medienformat:`*** FORMAT z.B. *PDF* ***| `erstellt/bearbeitbar mit:`*** *unbekannt* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter) / Praktiker / Experte <br>
+***| `Praxiskategorie(n)`*** *1OER finden/2OER herstellen/3Mit OER lernen/4Mit OER lehren/5OER einführen/6OER managen/7Über OER forschen*<br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Titel; von *Urheber*; [CC LIZENZ](https://creativecommons.org/licenses/); Link führt zu *[Ursprungsort](https://)*
+
+***| `didaktische Metadaten:`*** *tbd* 
+--- 
+-->
 
 
+<!-- TULLU-Regel: Titel, Urheber, Lizenz, Link, Ursprungsort -->
+
+<!--   
+"OERInfo - Contentbuffet: Praxiskategorie:
+1. OER finden
+2. OER herstellen
+3. Mit OER lernen
+4. Mit OER lehren
+5. OER einführen
+6. OER managen
+7. Über OER forschen"
+--> 
+ 
+ <!-- (MEDIENTYP_Name_CC) --> 
+-->
 
 ---
+<!--01--> 
+## `Postkarte` | CC-Lizenzhinweise erstellen – die TULLUBA‐Regel
 
-### Material 2
+![](Dummy_Mat_Intro.jpg) <!-- (Postkarte_CC‐Lizenzhinweise–TULLUBA‐Regel_CCBY40) -->
+Die Postkarte kann als **Auslagematerial** auf **Veranstaltungen** oder **Schulungen** verwendet werden. Das Motiv kann darüber hinaus auch digital, z.B. in **Präsentationen**, genutzt werden.
 
-<article class="main-info">
+***| `Medienformat:`*** *PDF* ***| `erstellt/bearbeitbar mit:`*** *unbekannt* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter)*<br>
+***| `Praxiskategorie(n)`*** *OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen*<br>
 
-![](Bilder/M_0X_Jamal.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *CC‐Lizenzhinweise erstellen – die TULLUBA‐Regel; von AG Werbung Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [ORCA.nrw (intern)](https://community.orca.nrw/content/perma?id=144367)*
 
-</article>
+***| `didaktische Metadaten:`*** *Creative Commons; Lizenz; Lizenzhinweis; Urheberrecht*
 
-Videos können hier direkt eingebettet werden, für PDF-Vorschauen müsste das Material im Git liegen (Redundanz) deswegen würde ich mit Vorschaubildern arbeiten. 
-Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
->
-> __Link zur Originalquelle:__ abc
->
-> __Autor:innen und Mitarbeiter:innen:__ Vorname Nachname, ggf. mit Institution und Link zur ORCID
->
-> __Lizenz:__ CC-undfolgend, ggf. mit Logobild.
->
-> __Hinweis zur Weiterverwendung nach der TULLU-Regel:__ folgt
+---
+<!--02-->
+## `Textdokument` | Checkliste Open Educational Resources erstellen (v2.0)
 
->
+![](Dummy_Mat_Intro.jpg)  <!-- (Textdokument_Checkliste-OER-erstellen-v2-0_CCBY40) -->
+Der Leitfaden gibt eine **Orientierung** zu den Fragen nach **rechtlichen Maßgaben** sowie **Qualitätsmerkmalen zur Entwicklung und Beurteilung** von  OER-Materialien.
+
+***| `Medienformat:`*** *PDF; Textdokument* ***| `erstellt/bearbeitbar mit:`*** *MS Word* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker*<br>
+***| `Praxiskategorie(n)`*** *OER herstellen*<br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Checkliste Open Educational Resources erstellen (v2.0); von Kobusch,Alexander; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/6c1f1da2-7ff6-4dd6-b87b-0404b980cc50)*
+
+***| `didaktische Metadaten:`*** *OER; Urheberrecht; Barrierefreiheit; Persönlichkeitsrecht; Produktion, Qualität*
+
+---
+<!--03-->
+## `Lernspiel` | Learning Snacks: "ORCA.nrw: A University Network for OER"
+
+![](Dummy_Mat_Intro.jpg) <!--(Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40) -->
+The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist. 
+
+***| `Medienformat:`*** *interaktive Web-Anwendung* ***| `erstellt/bearbeitbar mit:`*** *Webanwendung [LearningSnacks](https://www.learningsnacks.de)* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
+***| `Praxiskategorie(n)`*** *OER finden; OER herstellen; mit OER lernen; mit OER lehren; OER einführen; OER managen*<br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Learning Snacks: "ORCA.nrw: A University Network for OER"; von *Eube, Cornelia; Kobusch, Alexander; Niemann, Andrea; Nitzsche, Sina; Scherer, Elisabeth; Spaude, Magdalena*; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Learning Snacks](https://www.learningsnacks.de/share/218584/)*
+
+***| `didaktische Metadaten:`*** *OER; OER consultation; OER network; University; Higher Education*
+
+---
+<!--04-->
+## `Selbstlernkurs` | Lehre und Lernen öffnen: Open Educational Resources (OER) ‐ OpenRUB
+![](Dummy_Mat_Intro.jpg) <!--(Selbstlernkurs_Lehre-und-Lernen-oeffnen-OER-OpenRUB) -->
+Der erste der drei Lernabschnitte des Kurses behandelt den Einstieg in das Thema **Open Educational Resources**, OER werden definiert und erläutert,  wie sie genutzt und selbst erstellt werden können. Der Bereich **Creative Commons-Lizenzen** erklärt das Konzept und zeigt, CC-Lizenzen selbst (weiter-)genutzt werden können. Der letzte Teil, **Lehre und Lernen öffnen** gibt Empfehlungen, wie eigenes Lehren oder Lernen an der Ruhr-Universität Bochum geöffnet werden kann.
+
+Zusätzlich werden ein Glossar mit den wichtigsten Begriffen rund um das Thema OER und ein Quiz angeboten.
+
+***| `Medienformat:`*** *Selbstlernkurs* ***| `erstellt/bearbeitbar mit:`*** *Moodle* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter)* <br>
+***| `Praxiskategorie(n)`*** *OER finden; OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen* <br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Lehre und Lernen öffnen: Open Educational Resources (OER) ‐ OpenRUB; von Fuchs, Michael; Braungardt, Kathrin; Görlich, Sarah; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zum [OERSI](https://oersi.org/resources/aHR0cHM6Ly9vcGVuLnJ1aHItdW5pLWJvY2h1bS5kZS9sZXJuYW5nZWJvdC9sZWhyZS11bmQtbGVybmVuLW9lZmZuZW4tb3Blbi1lZHVjYXRpb25hbC1yZXNvdXJjZXM=)*
+
+***| `didaktische Metadaten:`*** *Einführung; Lehre; Online-Lehre; OER; open; Lernen; Kursöffnung; Creative Commons; CC; Moodle-Showroom*
+
+---
+<!--05-->
+## `Textdokument` | Trainingskonzept: Feedback zu OER geben mit dem OER‐Feedbackrad
+
+![](Dummy_Mat_Intro.jpg)  <!-- (Textdokument_Trainingskonzept-Feedbackrad-OER_CCBY40) --> 
+Mit dem OER-Feedbackrad trainieren **Lehrende**, sich gegenseitig zu einer **selbst erstellten OER** Feedback zu geben. Alternativ kann hiermit zu einer **gefundenen/bereitgestellten OER** Feedback gegeben werden..
+
+***| `Medienformat:`*** *PDF; Textdokument* ***| `erstellt/bearbeitbar mit:`*** *MS Word* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
+***| `Praxiskategorie(n)`*** *OER herstellen; OER einführen* <br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Trainingskonzept: Feedback zu OER geben mit dem OER‐Feedbackrad; von *Geurden, Bianca; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edusharing/components/render/fd2d1f38‐3a09‐4230‐9e3c‐cdcb4c072f6b)*
+
+***| `didaktische Metadaten:`*** *Feedbackkultur; Feedback; OER-Feedbackrad; Open Educational Culture; OEC; OER; Trainingskonzept*
+
+---
+<!--06-->
+## `Textdokument` | Aufzeichnung von Online‐Konferenzbeiträgen als OER: Ein Praxisleitfaden
+
+![](Dummy_Mat_Intro.jpg)  <!-- (Textdokument_Praxisleitfaden-Aufzeichnung-Online‐Konferenzbeitraege_OER_CC) --> 
+Der **Praxisleitfaden** gibt **Vortragenden** wertvolle Tipps und Tricks für die **Vorbereitung, Durchführung** und **Nachbereitung** einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.
+
+***| `Medienformat:`*** FORMAT z.B. *PDF* ***| `erstellt/bearbeitbar mit:`*** *unbekannt* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
+***| `Praxiskategorie(n)`*** *OER herstellen; OER einführen; OER managen* <br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Aufzeichnung von Online‐Konferenzbeiträgen als OER: Ein Praxisleitfaden; von Geurden, Bianca; Görlich, Sarah; Hützen, Nicole; Jahn, Markus; Méndez Parente, Josefine; Nitzsche, Sina; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edusharing/components/render/d7d698e4‐d9e9‐47fb‐87e4‐86283206c982)*
+
+***| `didaktische Metadaten:`*** *Online-Veranstaltung; Hochschuldidaktik; Leitfaden; Videoproduktion; OER-Fachtag; Konferenzorganisation; Dokumentation; Digitalisierung*
+
+---
+<!--07-->
+<!-- 
+## `Medientyp FEHLT` | Handlungsempfehlungen zu einer OEC an Hochschulen
+
+![](Dummy_Mat_Intro.jpg)  <!-- (MEDIENTYP_Name_CC) 
+Hier steht ein kurzer **Beschreibungstext**, der **Mehrwerte** und oder **Nutzungsszenarien** sowie **USP** beschreibt..
+
+***| `Medienformat:`*** FORMAT z.B. *PDF* ***| `erstellt/bearbeitbar mit:`*** *unbekannt* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter) / Praktiker / Experte <br>
+***| `Praxiskategorie(n)`*** *1OER finden/2OER herstellen/3Mit OER lernen/4Mit OER lehren/5OER einführen/6OER managen/7Über OER forschen*<br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Handlungsempfehlungen zu einer OEC an Hochschulen; von Geurden, Bianca; Jahn, Markus; Schütgen, Robin; Kober, Sabine; Schotemeier, Sarah; Reichardt, Gabi; Heckmann, Henrike; Hörmann, Irina; Méndez Parente, Josefine [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu *[Twillo](https://www.twillo.de/edu‐sharing/components/collections?id=37db10ff‐98c1‐45c0‐960a‐34485dfab123)*
+
+***| `didaktische Metadaten:`*** *tbd*
+
+-->
+
+---
+<!--08-->
+## `Nachschlagewerk` | OER‐Glossar
+
+![](Dummy_Mat_Intro.jpg)  <!-- (Nachschlagewerk_OER-Glossar_CCBY40) --> 
+Dieses Glossar erläutert **52 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). Stand: August 2023 
+
+***| `Medienformat:`*** *Selbstlernkurs* ***| `erstellt/bearbeitbar mit:`*** *ILIAS; Moodle; HTML* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker; Experte <br>
+***| `Praxiskategorie(n)`*** *OER finden; OER herstellen; Mit OER lernen; Mit OER lehren* <br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *OER‐Glossar; von Gödecke, Svenja; Halm, Linda; Homp, Frank; Kobusch, Alexander; Schaffeld, Laura; Spaude, Magdalena; Weber, Tassja; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [ILIAS der Uni zu Köln](https://www.edulabs.uni‐koeln.de/goto.php?target=crs_2218&client_id=iliasedulabs)*
+
+***| `didaktische Metadaten:`*** *Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium*
+
+---
+<!--09-->
+## `Video` | OER Lifecycle
+
+![](Dummy_Mat_Intro.jpg)  <!-- (Video_OER-Lifecycle_CCBY40) --> 
+Hier steht ein kurzer **Beschreibungstext**, der **Mehrwerte** und oder **Nutzungsszenarien** sowie **USP** beschreibt..
+
+***| `Medienformat:`*** FORMAT z.B. *PDF* ***| `erstellt/bearbeitbar mit:`*** *unbekannt* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
+***| `Praxiskategorie(n)`*** *OER finden; OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen; OER managen*<br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *OER Lifecycle; von Homp, Frank; Dobosz, Nicole; Dahlmanns, Michelle; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [TIB AV Portal](https://av.tib.eu/media/66288)*
+
+***| `didaktische Metadaten:`*** *OER; Open Educational Resources; Lifecycle; Kreislauf*
+---
+
+<!--09a-->
+## `Abbildung` | OER Lifecycle
+
+![](Dummy_Mat_Intro.jpg)  <!-- (Abbildung_OER-Lifecycle_CCBY40) --> 
+Hier steht ein kurzer **Beschreibungstext**, der **Mehrwerte** und oder **Nutzungsszenarien** sowie **USP** beschreibt..
+
+***| `Medienformat:`*** FORMAT z.B. *PDF* ***| `erstellt/bearbeitbar mit:`*** *unbekannt* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
+***| `Praxiskategorie(n)`*** *OER finden; OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen; OER managen*<br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *OER Lifecycle; von Homp, Frank; Dobosz, Nicole; Dahlmanns, Michelle; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [TWILLO](https://www.twillo.de/edu-sharing/components/render/d9d90fe0-3b67-4809-afcc-fe5b96c11d56)*
+
+***| `didaktische Metadaten:`*** *Lebenszyklus; Materialkreislauf; Nachhaltigkeit*
+---
+
+<!--10-->  
+## `Webseite` | Das OER Policy Kit
+
+![](Dummy_Mat_Intro.jpg)  <!-- (Webseite_PolicyKit_CCBYSA40) --> 
+Eine OER Policy schafft hohe **institutionelle Verbindlichkeit** für das Thema OER und kann öffnet damit viele Türen hin zu einer anerkannten und gelebten **offenen Bildung**. Das OER-Policy Kit versteht sich als **Leitfaden zum Policy-Prozess** an Hochschulen. I zu verstehen und umfasst **sieben Stationen**, die mit **zahlreichen weiteren Materialien** ergänzt werden.
+
+***| `Medienformat:`*** FORMAT z.B. *PDF* ***| `erstellt/bearbeitbar mit:`*** *Markdown; HTML; Github* <br>
+***| `Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker; Experte* <br>
+***| `Praxiskategorie(n)`*** *OER einführen* <br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Das OER Policy Kit; von Homp, Frank; Dreyer, Astrid; Hörmann, Irina; Legler, Stefanie; Czerwinski, Silvia; Loose, Yulia; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zum [OERSI](https://oersi.org/resources/aHR0cHM6Ly93d3cudHdpbGxvLmRlL2VkdS1zaGFyaW5nL2NvbXBvbmVudHMvcmVuZGVyL2M0NmYxZjc1LTM2MzItNDI5ZS05ZmVhLTA0YTlmMThjMDQwZQ==)*
+
+***| `didaktische Metadaten:`*** *tbd*
 
 
 ---
@@ -507,6 +662,7 @@ src="https://www.youtube.com/embed/fbZOii_l7M4" allowfullscreen="allowfullscreen
 
 ---
 
+-->
 
 # Impressum
 This template for OER courses is released under MIT. The content of the document is subject to the respective license as indicated at the end of the generated files or in the metadata.yml.
