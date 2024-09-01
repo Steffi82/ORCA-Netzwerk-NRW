@@ -359,7 +359,7 @@ Für Inspiration einfach entlang der Seitenleiste durchklicken.
 ---
 
 <!-- 01 -->
-### OER Policy‐Karte und Karte der Netzwerkstellen in NRW  `| Webseite`  
+### OER Policy‐Karte und Karte der Netzwerkstellen in NRW  `|Webseite`  
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.jpg)
 ***`Medienformat:`*** *HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
@@ -371,24 +371,143 @@ Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die e
 >*OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
 
 ---
-## Selbstlernkurse / Nachschlagewerke
+<!-- 10 -->
+##  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw. Netzwerk Landesportal ORCA.nrw  `|Blog`
+Der Blog enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.
+![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.jpg)
+***`Medienformat:`*** *Webseite, Ebook, PDF und HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
+***`Niveaustufe(n):`*** *Einsteiger (Starter)* <br>
+***`Praxiskategorie(n)`*** *OER finden; OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen; OER managen; Über OER forschen* <br>
+***`didaktische Metadaten:`*** *OER; ORCA.nrw; Materialtipp; Praxiswerkstatt; Creative Commons; CC-Lizenz; Lizenzhinweis; OER-Policy; OER-Content*
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw. Netzwerk Landesportal ORCA.nrw; von Urheber; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [OERSI](https://oersi.org/resources/aHR0cHM6Ly9saW5kYWhhbG0taHNiaS5naXRodWIuaW8vaW5mT0VSbWllcnQ=)*
+
+---
+
+## Selbstlernkurse / Nachschlagewerke / Lernspiele
+
 ---
 
 <!-- 02 -->
-### OER‐Glossar  `Nachschlagewerk` 
+### OER‐Glossar  `|Nachschlagewerk` 
 Dieses Glossar erläutert **52 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). Stand: August 2023 
 ![](MaterialienIntros/Nachschlagewerk_OER-Glossar_CCBY40.jpg)
 ***`Medienformat:`*** *Selbstlernkurs* ***`erstellt/bearbeitbar mit:`*** *ILIAS; Moodle; HTML* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker; Experte* <br>
 ***`Praxiskategorie(n)`*** *n.a.* <br>
 ***`didaktische Metadaten:`*** *Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium*
+
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *OER‐Glossar; von Gödecke, Svenja; Halm, Linda; Homp, Frank; Kobusch, Alexander; Schaffeld, Laura; Spaude, Magdalena; Weber, Tassja; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [ILIAS der Uni zu Köln](https://www.edulabs.uni‐koeln.de/goto.php?target=crs_2218&client_id=iliasedulabs)*
 
+---
+<!-- 08 -->
+## Learning Snacks: "ORCA.nrw: A University Network for OER  `|Lernspiel`
+The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist. 
+![](MaterialienIntros/Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40.jpg) 
+***`Medienformat:`*** *interaktive Web-Anwendung* ***`erstellt/bearbeitbar mit:`*** *Webanwendung [LearningSnacks](https://www.learningsnacks.de)* <br>
+***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
+***`Praxiskategorie(n)`*** *OER finden; OER herstellen; mit OER lernen; mit OER lehren; OER einführen; OER managen*<br>
+***`didaktische Metadaten:`*** *OER; OER consultation; OER network; University; Higher Education*
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Learning Snacks: "ORCA.nrw: A University Network for OER"; von *Eube, Cornelia; Kobusch, Alexander; Niemann, Andrea; Nitzsche, Sina; Scherer, Elisabeth; Spaude, Magdalena*; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Learning Snacks](https://www.learningsnacks.de/share/218584/)*
+
+---
+<!-- 09 -->
+## `Selbstlernkurs` | OER‐Wissenspool
+Der OER-Wissenspool vermittelt in fünf Kategorien **Basiswissen zu Open Educational Resources** mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für **OER-Showcases**. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen **Installationsanleitungen** zur Einbindung ins eigene LMS zur Verfügung.
+![](MaterialienIntros/Selbstlernkurs_OER‐Wissenspool_CCBY40.jpg)
+***`Medienformat:`*** Selbstlernkurs ***`erstellt/bearbeitbar mit:`*** *Moodle, Ilias; H5P* <br>
+***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker <br>
+***`Praxiskategorie(n)`*** *OER finden: OER herstellen; Mit OER lernen; Mit OER lehren* <br>
+***`didaktische Metadaten:`*** *OER erstellen; H5P; OER Basiswissen; OER-Supportmaterial*
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *OER‐Wissenspool; von Nitzsche, Sina; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Ursprungsort](https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47)*
+
+---
+
+## Textdokumente
+
+---
+
+<!-- 03 -->
+## Aufzeichnung von Online‐Konferenzbeiträgen als OER: Ein Praxisleitfaden  `|Textdokument`  
+Der **Praxisleitfaden** gibt **Vortragenden** wertvolle Tipps und Tricks für die **Vorbereitung, Durchführung** und **Nachbereitung** einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.
+![](MaterialienIntros/Textdokument_Aufzeichnung-Online‐Konferenzbeitraege_OER_CCBY40.jpg)
+***`Medienformat:`*** *Textdokument* ***`erstellt/bearbeitbar mit:`*** *MS Word* <br>
+***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
+***`Praxiskategorie(n)`*** *OER herstellen; OER einführen; OER managen* <br>
+***`didaktische Metadaten:`*** *Online-Veranstaltung; Hochschuldidaktik; Leitfaden; Videoproduktion; OER-Fachtag; Konferenzorganisation; Dokumentation; Digitalisierung*
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Aufzeichnung von Online‐Konferenzbeiträgen als OER: Ein Praxisleitfaden; von Geurden, Bianca; Görlich, Sarah; Hützen, Nicole; Jahn, Markus; Méndez Parente, Josefine; Nitzsche, Sina; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/d7d698e4-d9e9-47fb-87e4-86283206c982)*
+
+---
+<!-- 04 -->
+## Checkliste Open Educational Resources erstellen (v2.0) `|Textdokument`
+Der Leitfaden gibt eine **Orientierung** zu den Fragen nach **rechtlichen Maßgaben** sowie **Qualitätsmerkmalen zur Entwicklung und Beurteilung** von  OER-Materialien.
+![](MaterialienIntros/Textdokument_Checkliste-OER-erstellen-v2-0_CCBY40.jpg)
+***`Medienformat:`*** *PDF; Textdokument* ***`erstellt/bearbeitbar mit:`*** *MS Word* <br>
+***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker*<br>
+***`Praxiskategorie(n)`*** *OER herstellen*<br>
+***`didaktische Metadaten:`*** *OER; Urheberrecht; Barrierefreiheit; Persönlichkeitsrecht; Produktion, Qualität*
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Checkliste Open Educational Resources erstellen (v2.0); von Kobusch,Alexander; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/6c1f1da2-7ff6-4dd6-b87b-0404b980cc50)*
+
+---
+<!-- 06 -->
+## `Textdokument` | Handreichung: Veröffentlichung von Lehr‐Lern‐Materialien als OER
+Das Dokument wurde für Lehrende der HHU erstellt, kann aber **leicht für andere (Hochschul-) Kontexte angepasst werden**. Es enthält **kompakte Informationen** zu Creative-Commons-Lizenzen und **Tipps** rund um das Urheberrecht zur Publikation von Materialien als OER.
+![](MaterialienIntros/Textdokument_Veroeffentlichung-LLM-alsOER_CCBYSA40.jpg)
+***`Medienformat:`*** *Textdokument; PDF* ***`erstellt/bearbeitbar mit:`*** *MS Word* <br>
+***`Niveaustufe(n):`*** *Praktiker<br>
+***`Praxiskategorie(n)`*** *OER herstellen*<br>
+***`didaktische Metadaten:`*** *OER; Creative Commons; Lehrmaterialien; E-Learning; Open Educational Resources*
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Veröffentlichung von Lehr‐Lern‐Materialien als OER; von Scherer, Elisabeth; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Twillo](https://www.twillo.de/edusharing/components/render/53d9ee69‐384c‐4ddb‐bfc3‐a906197f5252)*
+
+---
+<!-- 05 -->
+## Handreichung zur Erstellung von OER‐Materialien für ORCA.nrw - Schwerpunkt: Nutzung und Einbettung von nicht offen lizenzierten Materialien. `|Textdokument`
+Schwerpunkt dieser Handreichung bildet das **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.
+![](MaterialienIntros/Textdokument_Erstellung-OER‐Materialien-ORCAnrw_CCBY40.jpg)
+***`Medienformat:`*** *PDF* ***`erstellt/bearbeitbar mit:`*** *PDF-Editor* <br>
+***`Niveaustufe(n):`*** *Praktiker <br>
+***`Praxiskategorie(n)`*** *OER herstellen* <br>
+***`didaktische Metadaten:`*** *Handreichung; Landesportal ORCA.nrw; Material erstellen; Creative-Commons-Lizenz; Lizenz vergeben; CC-Lizenz*
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Handreichung zur Erstellung von OER‐Materialien für ORCA.nrw - Schwerpunkt: Nutzung und Einbettung von nicht offen lizenzierten Materialien; von Josupeit, Christina; Funk, Christian; Anderheide, Marie-Sophie; Meyer, Elisabeth [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1ead1f94-6298-41e6-92c0-d11c30bb19a3)*
+
+
+---
+
+## Videos
+
+---
+<!-- 07 -->
+## Coffee Lectures: 33 Minuten für… Offene Lehrmaterialien ‐ "Lehrmaterialien anderer nutzen und eigene teilen ‐ Das Konzept der Open Educational Resources (OER)"  `|Video`
+In der Coffee-Lecture lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.
+![](MaterialienIntros/Video_Coffee Lectures_Konzept-OER_CCBY40.jpg)
+***`Medienformat:`*** FORMAT z.B. *PDF* ***`erstellt/bearbeitbar mit:`*** *unbekannt* <br>
+***`Niveaustufe(n):`*** *Einsteiger (Starter) <br>
+***`Praxiskategorie(n)`*** OER finden; OER herstellen; OER einführen* <br>
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Coffee Lectures: 33 Minuten für… Offene Lehrmaterialien ‐ "Lehrmaterialien anderer nutzen und eigene teilen ‐ Das Konzept der Open Educational Resources (OER)"; von Spaude, Magdalena; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edusharing/components/render/34a21631‐2963‐4a0c‐a97d‐4c2ed9a1d751)*
+
+***`didaktische Metadaten:`*** *Creative Commons Lizenzen; CC-Lizenzen*
+
+---
 
 
 
-
+---
+---
 
 
 ---
