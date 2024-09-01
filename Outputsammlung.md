@@ -415,10 +415,10 @@ The example is based on a German network. You can find out **how the network wor
 ***| `Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
 ***| `Praxiskategorie(n)`*** *OER finden; OER herstellen; mit OER lernen; mit OER lehren; OER einführen; OER managen*<br>
 
-> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *** Zitationsvorschlag nach TULLU-Regel: ***   
 > *Learning Snacks: "ORCA.nrw: A University Network for OER"; von *Eube, Cornelia; Kobusch, Alexander; Niemann, Andrea; Nitzsche, Sina; Scherer, Elisabeth; Spaude, Magdalena*; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Learning Snacks](https://www.learningsnacks.de/share/218584/)*
 
-***| `didaktische Metadaten:`*** *OER; OER consultation; OER network; University; Higher Education*
+*** | `didaktische Metadaten:`*** *OER; OER consultation; OER network; University; Higher Education*
 
 ---
 <!--04-->
