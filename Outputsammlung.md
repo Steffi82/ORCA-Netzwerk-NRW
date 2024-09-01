@@ -353,13 +353,15 @@ Für Inspiration einfach entlang der Seitenleiste durchklicken.
 ## Materialien (alphabetisch?)
 <!-- Hinweis: die Nummern in den Hinweisen beziehen sich auf die Zeilennummern in der Output-Excel-Liste.-->
 
+---
+
 ## Webseiten
+---
+
 <!-- 01 -->
-### OER Policy‐Karte und Karte der Netzwerkstellen in NRW  | `Webseite`  
+### OER Policy‐Karte und Karte der Netzwerkstellen in NRW  `Webseite`  
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.
-
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.jpg)
-
 ***`Medienformat:`*** *HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
 ***`Niveaustufe(n):`*** Einsteiger (Starter) <br>
 ***`Praxiskategorie(n)`*** *OER managen* <br>
@@ -368,7 +370,30 @@ Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die e
 > *OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
 
 ---
+## Selbstlernkurse / Nachschlagewerke
+---
 
+<!-- 02 -->
+### OER‐Glossar  `Nachschlagewerk` 
+Dieses Glossar erläutert **52 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). Stand: August 2023 
+![](MaterialienIntros/Nachschlagewerk_OER-Glossar_CCBY40.jpg)
+***`Medienformat:`*** *Selbstlernkurs* ***`erstellt/bearbeitbar mit:`*** *ILIAS; Moodle; HTML* <br>
+***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker; Experte* <br>
+***`Praxiskategorie(n)`*** *n.a.* <br>
+***`didaktische Metadaten:`*** *Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium*
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *OER‐Glossar; von Gödecke, Svenja; Halm, Linda; Homp, Frank; Kobusch, Alexander; Schaffeld, Laura; Spaude, Magdalena; Weber, Tassja; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [ILIAS der Uni zu Köln](https://www.edulabs.uni‐koeln.de/goto.php?target=crs_2218&client_id=iliasedulabs)*
+
+
+
+
+
+
+
+---
+---
+
+![grafik](https://github.com/user-attachments/assets/6e5b7a53-43ee-4dd4-b4a0-87c5a645cc04)
 
 
 
