@@ -379,14 +379,14 @@ Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die e
 ![](Dummy_Mat_Intro.jpg) <!-- (Postkarte_CC‐Lizenzhinweise–TULLUBA‐Regel_CCBY40) -->
 Die Postkarte kann als **Auslagematerial** auf **Veranstaltungen** oder **Schulungen** verwendet werden. Das Motiv kann darüber hinaus auch digital, z.B. in **Präsentationen**, genutzt werden.
 
-***| `Medienformat:`*** *PDF* ***| `erstellt/bearbeitbar mit:`*** *unbekannt* <br>
-***| `Niveaustufe(n):`*** *Einsteiger (Starter)*<br>
-***| `Praxiskategorie(n)`*** *OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen*<br>
+*** `Medienformat:`*** *PDF* ***`erstellt/bearbeitbar mit:`*** *unbekannt* <br>
+*** `Niveaustufe(n):`*** *Einsteiger (Starter)*<br>
+*** `Praxiskategorie(n)`*** *OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen* <br>
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *CC‐Lizenzhinweise erstellen – die TULLUBA‐Regel; von AG Werbung Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [ORCA.nrw (intern)](https://community.orca.nrw/content/perma?id=144367)*
 
-***| `didaktische Metadaten:`*** *Creative Commons; Lizenz; Lizenzhinweis; Urheberrecht*
+***`didaktische Metadaten:`*** *Creative Commons; Lizenz; Lizenzhinweis; Urheberrecht*
 
 ---
 <!--02-->
