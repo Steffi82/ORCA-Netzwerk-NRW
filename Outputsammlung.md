@@ -392,7 +392,7 @@ Der Blog enthält **kurze informative Beiträge rund um OER**, die ursprünglich
 <!-- 02 -->
 ### OER‐Glossar  `|Nachschlagewerk` 
 Dieses Glossar erläutert **52 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). Stand: August 2023 
-![](MaterialienIntros/Nachschlagewerk_OER-Glossar_CCBY40.jpg)
+![](MaterialienIntros/Selbstlernkurs_OER-Glossar_CCBY40.jpg)
 ***`Medienformat:`*** *Selbstlernkurs* ***`erstellt/bearbeitbar mit:`*** *ILIAS; Moodle; HTML* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker; Experte* <br>
 ***`Praxiskategorie(n)`*** *n.a.* <br>
