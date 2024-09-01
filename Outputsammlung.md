@@ -492,7 +492,7 @@ Schwerpunkt dieser Handreichung bildet das **Nutzen und Einbetten von nicht offe
 <!-- 07 -->
 ## Coffee Lectures: 33 Minuten für… Offene Lehrmaterialien ‐ "Lehrmaterialien anderer nutzen und eigene teilen ‐ Das Konzept der Open Educational Resources (OER)"  `|Video`
 In der Coffee-Lecture lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.
-![](MaterialienIntros/Video_Coffee Lectures_Konzept-OER_CCBY40.jpg)
+![](MaterialienIntros/Video_Coffee_Lectures_Konzept-OER_CCBY40.jpg)
 ***`Medienformat:`*** FORMAT z.B. *PDF* ***`erstellt/bearbeitbar mit:`*** *unbekannt* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter) <br>
 ***`Praxiskategorie(n)`*** OER finden; OER herstellen; OER einführen* <br>
