@@ -403,7 +403,8 @@ Dieses Glossar erläutert **52 zentrale Begriffe** rund um das Thema Open Educat
 
 ---
 <!-- 08 -->
-## Learning Snacks: "ORCA.nrw: A University Network for OER  `|Lernspiel`
+## Learning Snacks: "ORCA.nrw: A University Network for OER 
+`Lernspiel`
 The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist. 
 ![](MaterialienIntros/Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40.jpg) 
 ***`Medienformat:`*** *interaktive Web-Anwendung* ***`erstellt/bearbeitbar mit:`*** *Webanwendung [LearningSnacks](https://www.learningsnacks.de)* <br>
@@ -415,7 +416,8 @@ The example is based on a German network. You can find out **how the network wor
 
 ---
 <!-- 09 -->
-## `Selbstlernkurs` | OER‐Wissenspool
+## OER‐Wissenspool
+`Selbstlernkurs`
 Der OER-Wissenspool vermittelt in fünf Kategorien **Basiswissen zu Open Educational Resources** mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für **OER-Showcases**. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen **Installationsanleitungen** zur Einbindung ins eigene LMS zur Verfügung.
 ![](MaterialienIntros/Selbstlernkurs_OER‐Wissenspool_CCBY40.jpg)
 ***`Medienformat:`*** Selbstlernkurs ***`erstellt/bearbeitbar mit:`*** *Moodle, Ilias; H5P* <br>
