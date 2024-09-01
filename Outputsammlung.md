@@ -354,7 +354,7 @@ Für Inspiration einfach entlang der Seitenleiste durchklicken.
 <!-- Hinweis: die Nummern in den Hinweisen beziehen sich auf die Zeilennummern in der Output-Excel-Liste.-->
 
 <!-- 01 -->
-## `Webseite` | OER Policy‐Karte und Karte der Netzwerkstellen in NRW
+## OER Policy‐Karte und Karte der Netzwerkstellen in NRW ### | `Webseite`  
 
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.jpg)
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.
