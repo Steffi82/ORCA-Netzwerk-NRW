@@ -350,117 +350,30 @@ Für Inspiration einfach entlang der Seitenleiste durchklicken.
 
 
 
----
-
-## OER finden
-
-
-Einleitungstext
-
-Material-Darstellung 
-Gallery? Mal ja, mal nein, woran liegts?
-<!-- style="display: block; margin: auto; width: 60%;" -->
-
-![](Bilder/Dummy_300x300px.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")![](Bilder/Dummy_300x300px.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")   ![](Bilder/Dummy_300x300px.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")   ![](Bilder/Dummy_300x300px.png "mit einer Unterzeile die das Material kurz benennt und verlinkt zum Material")   
-
-![Das ist ein Test](https://www.youtube.com/watch?v=65aGlJZPypY "ob das so funktioniert wie es soll")
-
-Accordion? Wie bekommt man da noch Text drunter?
-
----
-
-
-Literatursammlung
-
-Wissenschaftliche Veröffentlichung 
-Dr. Sina Nitzsche, Florian Rosenthal, Laura Schaffeld, Dr. Elisabeth Scherer, Dr. Magdalena Spaude, Dr. Tassja Weber: OER Tracks and the ORCA.nrw Network: Promoting OER in Higher Education. 13. Open Educational Research Conference, Association of Learning Technology mit dem Global OER Graduate Network. Online unter: https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH5Zbo5Cyo_M 
-
-Susanne Grimm, Alexander Kobusch, Gabi Reichardt, Dr. Magdalena Spaude, Markus Deimann. 2021: zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann. Online unter: https://open-educational-resources.de/zugehoert-080-orca-nrw/
-
-OER-Supportmaterial
-Dr. Sina Nitzsche: Lehr- und Lernmaterialien frei Haus.2021: Open Educational Resources. Online unter: https://heyzine.com/flip-book/11b57ddf01.html#page/168
-
-## OER herstellen
-
----
-
-## Mit OER lernen
-
-
----
-
-## Mit OER lehren
-
-
----
-
-## OER einführen
-abc
-
----
-
-## OER managen
-abc
-
----
-
-## OER herstellen
-abc 
-
----
-
-
-## über OER forschen
-abc
-
----
-
 ## Materialien (alphabetisch?)
+<!-- Hinweis: die Nummern in den Hinweisen beziehen sich auf die Zeilennummern in der Output-Excel-Liste.-->
 
-<article class="main-info">
->
-<!--
-***>> LINK ZUM LIA
-https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/Steffi82/ORCA-Netzwerk-NRW/main/Outputsammlung.md#1  
--->
-  
-<!-- BLANKO
----
-## `Medientyp FEHLT` | TITEL
+<!-- 01 -->
+## `Webseite` | OER Policy‐Karte und Karte der Netzwerkstellen in NRW
 
-![](Dummy_Mat_Intro.jpg)  <!-- Bezeichnung für das echte: (MEDIENTYP_Name-wie-Titel-sinnvoll-verkuerzt_CC-Lizenz des Materials) --> <!-- 
-Hier steht ein kurzer **Beschreibungstext**, der **Mehrwerte** und oder **Nutzungsszenarien** sowie **USP** beschreibt..
+![](Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.jpg)
+Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.
 
-***| `Medienformat:`*** FORMAT z.B. *PDF* ***| `erstellt/bearbeitbar mit:`*** *unbekannt* <br>
-***| `Niveaustufe(n):`*** *Einsteiger (Starter) / Praktiker / Experte <br>
-***| `Praxiskategorie(n)`*** *1OER finden/2OER herstellen/3Mit OER lernen/4Mit OER lehren/5OER einführen/6OER managen/7Über OER forschen*<br>
+***| `Medienformat:`*** *HTML* ***| `erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
+***| `Niveaustufe(n):`*** Einsteiger (Starter)<br>
+***| `Praxiskategorie(n)`*** *OER managen*<br>
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
-> *Titel; von *Urheber*; [CC LIZENZ](https://creativecommons.org/licenses/); Link führt zu *[Ursprungsort](https://)*
+> *OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
 
-***| `didaktische Metadaten:`*** *tbd* 
---- 
--->
-
-
-<!-- TULLU-Regel: Titel, Urheber, Lizenz, Link, Ursprungsort -->
-
-<!--   
-"OERInfo - Contentbuffet: Praxiskategorie:
-1. OER finden
-2. OER herstellen
-3. Mit OER lernen
-4. Mit OER lehren
-5. OER einführen
-6. OER managen
-7. Über OER forschen"
---> 
- 
- <!-- (MEDIENTYP_Name_CC) --> 
--->
-
+***| `didaktische Metadaten:`*** *Karte; HTML; Farbschema; OER-Policy; DH.nrw*
 ---
-<!--01--> 
+
+
+
+
+
+--> 
 ## `Postkarte` | CC-Lizenzhinweise erstellen – die TULLUBA‐Regel
 
 ![](Dummy_Mat_Intro.jpg) <!-- (Postkarte_CC‐Lizenzhinweise–TULLUBA‐Regel_CCBY40) -->
