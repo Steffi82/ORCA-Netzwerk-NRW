@@ -364,7 +364,7 @@ Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die e
 ***| `Praxiskategorie(n)`*** *OER managen*<br>
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
-> *OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
+> *OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee){:target="_blank"}*
 
 ***| `didaktische Metadaten:`*** *Karte; HTML; Farbschema; OER-Policy; DH.nrw*
 
