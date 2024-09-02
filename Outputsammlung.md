@@ -274,7 +274,7 @@ Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprüngli
 
 ---
 
-## Selbstlernkurse / Nachschlagewerke / Lernspiele
+## Selbstlern-Materialien
 
 ---
 
@@ -362,7 +362,7 @@ Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für
 
 ---
 <!-- 05 -->
-### Handreichung: Schwerpunkt auf Nutzung und Einbettung von nicht offen lizenzierten Materialien 
+### Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien 
 Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.
 ![](MaterialienIntros/Textdokument_Erstellung-OER‐Materialien-ORCAnrw_CCBY40.jpg)
 ***`Medienformat:`*** *PDF* ***`erstellt/bearbeitbar mit:`*** *PDF-Editor* <br>
