@@ -119,7 +119,18 @@ window.fish_filter = function() {
 const 
 CSV=`name,Einsteiger,Praktiker,Experte,OER.finden,OER.herstellen,Mit.OER.lernen;Mit.OER.lehren,OER.einführen,OER.managen,Über.OER.forschen,Audio,Video,Abbildung,Textdokument,Selbstlernkurs,Webseite,H5P,Präsentationsfolien
 
-OER Policy‐Karte und Karte der Netzwerkstellen in NRW,true,,,,,,,,true,,,,,,true,,,
+OER Policy?Karte und Karte der Netzwerkstellen in NRW;true;;;;;;;;true;;;;;;true;;
+OER?Glossar;true;true;;;;true;true;;;;;;;true;;;
+Praxisleitfaden: Aufzeichnung von Online?Konferenzbeiträgen als OER;true;true;;;true;;;true;true;;;;true;;;;
+Checkliste: Open Educational Resources erstellen (v2.0);true;;;;true;;;true;;;;;true;;;;
+Handreichung: Schwerpunkt auf Nutzung und Einbettung von nicht offen lizenzierten Materialien;;true;;;true;;;;;;;;true;;;;
+Handreichung: Veröffentlichung von Lehr?Lern?Materialien als OER;;true;;;true;;;;;;;;true;;;;
+33 Minuten für… Das Konzept der Open Educational Resources (OER);true;;;;true;;;;true;;;true;;;;;
+Learning Snacks: ORCA.nrw - A University Network for OER;true;true;;true;true;true;true;true;;;;;;true;true;;
+OER?Wissenspool;true;true;;true;true;true;true;;;;;;;true;;true;
+infOERmiert ? Der OER?Blog vom Netzwerk Landesportal ORCA.nrw.;true;;;true;true;true;true;true;true;true;;;;;true;;
+
+
 
 
 Aal,,,,,,true,true,true,true,,true,,,true,true,,,,,,,true,true,,,true,true,,,,true,true,,true,,,true,,,,,,true
@@ -258,7 +269,7 @@ Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die e
 
 ---
 <!-- 10 -->
-###  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw. Netzwerk Landesportal ORCA.nrw  
+###  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.  
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.jpg)
 ***`Medienformat:`*** *Webseite, Ebook, PDF und HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
@@ -321,7 +332,7 @@ Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educat
 ---
 
 <!-- 03 -->
-### Aufzeichnung von Online‐Konferenzbeiträgen als OER: Ein Praxisleitfaden    
+### Praxisleitfaden: Aufzeichnung von Online‐Konferenzbeiträgen als OER    
 Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **Vorbereitung, Durchführung** und **Nachbereitung** einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.
 ![](MaterialienIntros/Textdokument_Aufzeichnung-Online‐Konferenzbeitraege_OER_CCBY40.jpg)
 ***`Medienformat:`*** *Textdokument* ***`erstellt/bearbeitbar mit:`*** *MS Word* <br>
@@ -334,10 +345,8 @@ Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **V
 
 ---
 <!-- 04 -->
-### Checkliste Open Educational Resources erstellen (v2.0) `
-`Textdokument`
-Der Zweck dieses Leitfadens ist, Lehrenden eine **Orientierung** zu geben, welche **rechtlichen Maßgaben** Sie einhalten müssen und nach welchen **Qualitätsmerkmalen** Sie OER-Materialien entwickeln und beurteilen können.
-
+### Checkliste: Open Educational Resources erstellen (v2.0) 
+Der Zweck dieses `Textdokuments` / Leitfadens ist, Lehrenden eine **Orientierung** zu geben, welche **rechtlichen Maßgaben** Sie einhalten müssen und nach welchen **Qualitätsmerkmalen** Sie OER-Materialien entwickeln und beurteilen können.
 ![](MaterialienIntros/Textdokument_Checkliste-OER-erstellen-v2-0_CCBY40.jpg)
 ***`Medienformat:`*** *PDF; Textdokument* ***`erstellt/bearbeitbar mit:`*** *MS Word* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker*<br>
@@ -361,8 +370,8 @@ Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für
 
 ---
 <!-- 05 -->
-### Handreichung zur Erstellung von OER‐Materialien für ORCA.nrw - Schwerpunkt: Nutzung und Einbettung von nicht offen lizenzierten Materialien. `|Textdokument`
-`Textdokument`, dessen Schwerpunkt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien** liegt, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.
+### Handreichung: Schwerpunkt auf Nutzung und Einbettung von nicht offen lizenzierten Materialien 
+Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.
 ![](MaterialienIntros/Textdokument_Erstellung-OER‐Materialien-ORCAnrw_CCBY40.jpg)
 ***`Medienformat:`*** *PDF* ***`erstellt/bearbeitbar mit:`*** *PDF-Editor* <br>
 ***`Niveaustufe(n):`*** *Praktiker <br>
@@ -379,10 +388,10 @@ Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für
 
 ---
 <!-- 07 -->
-## Coffee Lectures: 33 Minuten für… Offene Lehrmaterialien ‐ "Lehrmaterialien anderer nutzen und eigene teilen ‐ Das Konzept der Open Educational Resources (OER)"  `|Video`
-In der `Präsentation` lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.
+### 33 Minuten für… Das Konzept der Open Educational Resources (OER)  
+Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.
 ![](MaterialienIntros/Video_Coffee_Lectures_Konzept-OER_CCBY40.jpg)
-***`Medienformat:`*** FORMAT z.B. *PDF* ***`erstellt/bearbeitbar mit:`*** *unbekannt* <br>
+***`Medienformat:`*** FORMAT z.B. *Video* ***`erstellt/bearbeitbar mit:`*** *Schnittprogrammen* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter) <br>
 ***`Praxiskategorie(n)`*** OER finden; OER herstellen; OER einführen* <br>
 ***`didaktische Metadaten:`*** *Creative Commons Lizenzen; CC-Lizenzen*
