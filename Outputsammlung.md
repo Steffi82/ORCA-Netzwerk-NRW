@@ -23,56 +23,27 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.1/papaparse.min.j
 const baseURL = (new URL("img", window.location.search.substr(1))).href
 
 window["fish"] = {
-  "body.typical": null,
-  "body.flattened": null,
-  "body.long": null,
+  "Einsteiger": null,
+  "Praktiker": null,
+  "Experte": null
+  
+  "OER.finden": null,
+  "OER.herstellen": null,
+  "Mit.OER.lernen": null,
+  "Mit.OER.lehren": null,
+  "OER.einführen": null,
+  "OER.managen": null,
+  "Über.OER.forschen": null,
 
-  "mouth.inferior": null,
-  "mouth.superior": null,
-  "mouth.elongated": null,
-  "mouth.terminal": null,
+  "Audio": null,
+  "Video": null,
+  "Abbildung": null,
+  "Textdokument": null,
+  "Selbstlernkurs": null,
+  "Webseite": null,
+  "H5P": null,
+  "Präsentationsfolien": null,
 
-  "barbel.one": null,
-  "barbel.several": null,
-  "barbel.absent": null,
-
-  "sucking_disc.present": null,
-  "sucking_disc.absent": null,
-
-  "color.black": null,
-  "color.blue": null,
-  "color.brown": null,
-  "color.green": null,
-  "color.grey": null,
-  "color.red": null,
-  "color.silver": null,
-  "color.white": null,
-  "color.yellow": null,
-
-  "pattern.circles": null,
-  "pattern.dots": null,
-  "pattern.irregular": null,
-  "pattern.spots": null,
-  "pattern.stripes": null,
-  "pattern.uniform": null,
-
-  "fin.dorsal.one": null,
-  "fin.dorsal.two": null,
-  "fin.dorsal.three": null,
-  "fin.dorsal.with_adipose": null,
-  "fin.dorsal.with_finlets": null,
-  "fin.dorsal.with_spines": null,
-
-  "fin.pelvic.pelvic": null,
-  "fin.pelvic.pectoral": null,
-  "fin.pelvic.jugular": null,
-  "fin.pelvic.absent": null,
-
-  "fin.caudal.forked": null,
-  "fin.caudal.straight": null,
-  "fin.caudal.rounded": null,
-  "fin.caudal.pointed": null,
-  "fin.caudal.not_symmetric": null,
 }
 
 window["button"] = function(title, active, image) {
