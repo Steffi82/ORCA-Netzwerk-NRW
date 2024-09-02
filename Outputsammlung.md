@@ -239,9 +239,7 @@ __Medienart__
 Für Inspiration einfach entlang der Seitenleiste durchklicken.
 
 
-
-## Materialien (alphabetisch?)
-<!-- Hinweis: die Nummern in den Hinweisen beziehen sich auf die Zeilennummern in der Output-Excel-Liste.-->
+<!-- Hinweis: die Nummern in den Hinweisen beziehen sich auf die Zeilennummern in der Output-Excel-Liste. -->
 
 ---
 
