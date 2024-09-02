@@ -1,4 +1,4 @@
-author:   Your Name
+<!-- author:   Your Name
 
 email:    your@mail.org
 
@@ -169,6 +169,7 @@ Papa.parse(CSV, {
 </script>
 @end
 
+-->
 
 # Netzwerk ORCA.nrw 
 
