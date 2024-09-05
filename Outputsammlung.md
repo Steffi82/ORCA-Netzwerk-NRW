@@ -1,5 +1,6 @@
 <!--
 author:   Your Name
+
 email:    your@mail.org
 
 icon:     img/icon.png
@@ -20,21 +21,19 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.1/papaparse.min.j
 
 const baseURL = (new URL("img", window.location.search.substr(1))).href
 
-<!-- AchtungInfo: Hier definieren wir die Filteroptionen für die Materialien. Sie sind zunächst alle auf 'null' gesetzt, das bedeutet, dass noch keine Auswahl getroffen wurde. -->
-
 window["material"] = {
-  "level.beginner": null,          // Einsteiger-Level
-  "level.praktiker": null,         // Praktiker-Level
-  "level.experte": null,           // Experten-Level
+  "level.beginner": null,          
+  "level.praktiker": null,         
+  "level.experte": null,           
 
   // Praxiskategorien
-  "praxiskategorie.oer_finden": null,       // OER finden
-  "praxiskategorie.oer_herstellen": null,   // OER herstellen
-  "praxiskategorie.oer_lernen": null,       // Mit OER lernen
-  "praxiskategorie.oer_lehren": null,       // Mit OER lehren
-  "praxiskategorie.oer_einfuehren": null,   // OER einführen
-  "praxiskategorie.oer_managen": null,      // OER managen
-  "praxiskategorie.oer_forschen": null,     // Über OER forschen
+  "praxiskategorie.oer_finden": null,       
+  "praxiskategorie.oer_herstellen": null,   
+  "praxiskategorie.oer_lernen": null,       
+  "praxiskategorie.oer_lehren": null,       
+  "praxiskategorie.oer_einfuehren": null,   
+  "praxiskategorie.oer_managen": null,      
+  "praxiskategorie.oer_forschen": null,     
 
   // Medienarten
   "media.audio": null,
@@ -46,22 +45,20 @@ window["material"] = {
   "media.presentation": null,
 }
 
-<!-- AchtungInfo: Diese Funktion erstellt dynamische Buttons, die ihre Farbe ändern, wenn sie aktiviert oder deaktiviert sind. -->
 window["button"] = function(title, active, image) {
-  const color = active ? '#f0842c' : "black";  <!-- AchtungInfo: Wenn der Button aktiv ist, wird er orange (#f0842c); sonst schwarz. -->
+  const color = active ? '#f0842c' : "black";  
   return `<div style="padding: 8px; color: ${color}">
     <h4>${title}</h4>
     <img src="${image}" loading="lazy">
   </div>`;
 }
 
-<!-- AchtungInfo: Diese Funktion filtert die Materialien basierend auf den gewählten Kategorien (Level, Praxiskategorie, Medienart). -->
 window.material_filter = function() {
   if (window.material) {
     let items = []
     for (const [item, selected] of Object.entries(window.material)) {
       if (selected) {
-        items.push(item)  <!-- AchtungInfo: Nur die ausgewählten (aktiven) Filter werden in die "items"-Liste aufgenommen. -->
+        items.push(item)
       }
     }
 
@@ -71,14 +68,14 @@ window.material_filter = function() {
       let rslt = true
 
       for (const item of items) {
-        if (!material[item]) {  <!-- AchtungInfo: Wenn das Material nicht zu den ausgewählten Kriterien passt, wird es ausgeschlossen. -->
+        if (!material[item]) {  
           rslt = false
           break
         }
       }
 
       if (rslt) {
-        result.push(material.name)  <!-- AchtungInfo: Wenn alle Kriterien erfüllt sind, wird das Material zur Ergebnisliste hinzugefügt. -->
+        result.push(material.name)
       }
     }
 
@@ -92,26 +89,22 @@ window.material_filter = function() {
         list += `<a style="display: inline-flex; padding: 1rem; margin: 1rem; border: 1px solid black" href="#${url}"><span><h4>${material}</h4><img src="${baseURL}/${url}/thumbnail.png"></span></a>`
       }
 
-      div.innerHTML = list  <!-- AchtungInfo: Hier wird die Ergebnisliste in den "results"-Bereich der Seite eingefügt. -->
+      div.innerHTML = list
     }
   }
 }
 
-<!-- Achtung2DO: Hier wird die CSV-Datei mit den Materialdaten eingelesen. Ersetze die CSV-Daten durch deine eigenen Materialien. -->
 const CSV=`name,level.beginner,level.praktiker,level.experte,praxiskategorie.oer_finden,praxiskategorie.oer_herstellen,praxiskategorie.oer_lernen,praxiskategorie.oer_lehren,praxiskategorie.oer_einfuehren,praxiskategorie.oer_managen,praxiskategorie.oer_forschen,media.audio,media.video,media.textdoc,media.selbstlernen,media.webseite,media.h5p,media.presentation
-Material 1,true,false,false,true,false,false,false,true,false,false,true,false,false,false,true,false,false
-Material 2,false,true,false,false,true,false,true,false,false,false,false,true,false,false,false,true,false
-Material 3,false,false,true,false,false,true,false,false,true,true,false,false,true,true,false,false,true`
+OER Policy‐Karte und Karte der Netzwerkstellen in NRW,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,false
+infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.,true,false,false,true,true,true,true,true,true,true,true,false,false,false,false,true,false,false`
 
-<!-- AchtungInfo: PapaParse wird verwendet, um die CSV-Daten zu laden und in JavaScript-Objekte zu verwandeln. -->
 Papa.parse(CSV, {
   quotes: false,
   header: true,
   dynamicTyping: true,
   complete: function(data){
     window.material_db = data.data;
-    console.log(window.material_db);  <!-- AchtungInfo: Die CSV-Daten werden hier in die Konsole ausgegeben, um sicherzustellen, dass sie korrekt geladen wurden. -->
-    setTimeout(window.material_filter, 2000);  <!-- AchtungInfo: Das Filterverfahren wird nach einer kurzen Verzögerung gestartet. -->
+    setTimeout(window.material_filter, 2000);
   }
 })
 
@@ -139,6 +132,48 @@ Papa.parse(CSV, {
   show()
 </script>
 @end
+
+# Material-Finder
+
+## Kategorien
+
+### Level
+[Einsteiger](#Einsteiger)
+@[button(level.beginner,Einsteiger)](img/_button/level/beginner.png)
+[Praktiker](#Praktiker)
+@[button(level.praktiker,Praktiker)](img/_button/level/praktiker.png)
+[Experte](#Experte)
+@[button(level.experte,Experte)](img/_button/level/experte.png)
+
+### Praxiskategorie
+[OER finden](#OERfinden)
+@[button(praxiskategorie.oer_finden,OER finden)](img/_button/praxiskategorie/oer_finden.png)
+[OER herstellen](#OERherstellen)
+@[button(praxiskategorie.oer_herstellen,OER herstellen)](img/_button/praxiskategorie/oer_herstellen.png)
+[Mit OER lernen](#MitOERlernen)
+@[button(praxiskategorie.oer_lernen,Mit OER lernen)](img/_button/praxiskategorie/oer_lernen.png)
+[Mit OER lehren](#MitOERlehren)
+@[button(praxiskategorie.oer_lehren,Mit OER lehren)](img/_button/praxiskategorie/oer_lehren.png)
+[OER einführen](#OEReinführen)
+@[button(praxiskategorie.oer_einfuehren,OER einführen)](img/_button/praxiskategorie/oer_einfuehren.png)
+[OER managen](#OERmanagen)
+@[button(praxiskategorie.oer_managen,OER managen)](img/_button/praxiskategorie/oer_managen.png)
+[Über OER forschen](#ÜberOERforschen)
+@[button(praxiskategorie.oer_forschen,Über OER forschen)](img/_button/praxiskategorie/oer_forschen.png)
+
+### Medienart
+[Audio](#Audio)
+@[button(media.audio,Audio)](img/_button/media/audio.png)
+[Video](#Video)
+@[button(media.video,Video)](img/_button/media/video.png)
+[Textdokument](#Textdokument)
+@[button(media.textdoc,Textdokument)](img/_button/media/textdoc.png)
+[Selbstlernkurs](#Selbstlernkurs)
+@[button(media.selbstlernen,Selbstlernkurs)](img/_button/media/selbstlernen.png)
+[Webseite](#Webseite)
+@[button(media.webseite,Webseite)](img/_button/media/webseite.png)
+
+-->
 
 # Material-Finder
 
