@@ -1,4 +1,5 @@
-<!-- author:   Your Name
+<!--
+author:   Your Name
 
 email:    your@mail.org
 
@@ -10,8 +11,7 @@ language: de
 
 narrator: US English Female
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  Material-Finder basierend auf dem Fischbestimmer.
 
 link:     style.css
 
@@ -21,28 +21,26 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.1/papaparse.min.j
 
 const baseURL = (new URL("img", window.location.search.substr(1))).href
 
-window["fish"] = {
-  "Einsteiger": null,
-  "Praktiker": null,
-  "Experte": null
-  
-  "OER.finden": null,
-  "OER.herstellen": null,
-  "Mit.OER.lernen": null,
-  "Mit.OER.lehren": null,
-  "OER.einführen": null,
-  "OER.managen": null,
-  "Über.OER.forschen": null,
+window["material"] = {
+  "level.beginner": null,
+  "level.intermediate": null,
+  "level.expert": null,
 
-  "Audio": null,
-  "Video": null,
-  "Abbildung": null,
-  "Textdokument": null,
-  "Selbstlernkurs": null,
-  "Webseite": null,
-  "H5P": null,
-  "Präsentationsfolien": null,
+  "practice.oer_find": null,
+  "practice.oer_create": null,
+  "practice.oer_learn": null,
+  "practice.oer_teach": null,
+  "practice.oer_introduce": null,
+  "practice.oer_manage": null,
+  "practice.oer_research": null,
 
+  "media.audio": null,
+  "media.video": null,
+  "media.textdoc": null,
+  "media.selflearn": null,
+  "media.website": null,
+  "media.h5p": null,
+  "media.presentation": null,
 }
 
 window["button"] = function(title, active, image) {
@@ -53,61 +51,40 @@ window["button"] = function(title, active, image) {
   </div>`
 }
 
-window.fish_filter = function() {
-  if (window.fish) {
+window.material_filter = function() {
+  if (window.material) {
     let items = []
-    for (const [item, selected] of Object.entries(window.fish)) {
+    for (const [item, selected] of Object.entries(window.material)) {
       if (selected) {
         items.push(item)
       }
     }
 
-    let result_often = []
-    let result_seldom = []
+    let result = []
 
-    for (const fish of window.fish_db) {      
+    for (const material of window.material_db) {      
       let rslt = true
 
       for (const item of items) {
-        if (!fish[item]) {
+        if (!material[item]) {
           rslt = false
           break
         }
       }
 
       if (rslt) {
-        console.log("ssssssssssssssssss", fish["amount.often"])
-        if (fish["amount.often"]) {
-          result_often.push(fish.name)
-        } else {
-          result_seldom.push(fish.name)
-        }
+        result.push(material.name)
       }
     }
 
     const div = document.getElementById("results")
 
     if (div) {
-      let list = ""
+      let list = "<br><h3>Gefundene Materialien</h3>"
 
-      if (result_often.length > 0) {
-        list += "<br><h3>Häufig und regelmäßig in der Ostsee</h3>"
-      }
-
-      for(const fish of result_often) {
-        let url = fish.toLocaleLowerCase().replace(/ /g, "-")
-        let url_ = 
-        list += `<a style="display: inline-flex; padding: 1rem; margin: 1rem; border: 1px solid black" href="#${url}"><span><h4>${fish}</h4><img src="${baseURL}/${url.replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/ß/g, "ss")}/thumbnail.png"></span></a>`
-      }
-
-      if (result_seldom.length > 0) {
-        list += "<h3>Selten und als Irrgast in der Ostsee</h3>"
-      }
-
-      for(const fish of result_seldom) {
-        let url = fish.toLocaleLowerCase().replace(/ /g, "-")
-        let url_ = 
-        list += `<a style="display: inline-flex; padding: 1rem; margin: 1rem; border: 1px solid black" href="#${url}"><span><h4>${fish}</h4><img src="${baseURL}/${url.replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/ß/g, "ss")}/thumbnail.png"></span></a>`
+      for(const material of result) {
+        let url = material.toLocaleLowerCase().replace(/ /g, "-")
+        list += `<a style="display: inline-flex; padding: 1rem; margin: 1rem; border: 1px solid black" href="#${url}"><span><h4>${material}</h4><img src="${baseURL}/${url}/thumbnail.png"></span></a>`
       }
 
       div.innerHTML = list
@@ -115,22 +92,12 @@ window.fish_filter = function() {
   }
 }
 
-CSV=`name,Einsteiger,Praktiker,Experte,OER.finden,OER.herstellen,Mit.OER.lernen;Mit.OER.lehren,OER.einführen,OER.managen,Über.OER.forschen,Audio,Video,Abbildung,Textdokument,Selbstlernkurs,Webseite,H5P,Präsentationsfolien
-
-OER Policy?Karte und Karte der Netzwerkstellen in NRW;true;;;;;;;;true;;;;;;true;;
-OER?Glossar;true;true;;;;true;true;;;;;;;true;;;
-Praxisleitfaden: Aufzeichnung von Online?Konferenzbeiträgen als OER;true;true;;;true;;;true;true;;;;true;;;;
-Checkliste: Open Educational Resources erstellen (v2.0);true;;;;true;;;true;;;;;true;;;;
-Handreichung: Schwerpunkt auf Nutzung und Einbettung von nicht offen lizenzierten Materialien;;true;;;true;;;;;;;;true;;;;
-Handreichung: Veröffentlichung von Lehr?Lern?Materialien als OER;;true;;;true;;;;;;;;true;;;;
-33 Minuten für… Das Konzept der Open Educational Resources (OER);true;;;;true;;;;true;;;true;;;;;
-Learning Snacks: ORCA.nrw - A University Network for OER;true;true;;true;true;true;true;true;;;;;;true;true;;
-OER?Wissenspool;true;true;;true;true;true;true;;;;;;;true;;true;
-infOERmiert ? Der OER?Blog vom Netzwerk Landesportal ORCA.nrw.;true;;;true;true;true;true;true;true;true;;;;;true;;
-
-Aal,,,,,,true,true,true,true,,true,,,true,true,,,,,,,true,true,,,true,true,,,,true,true,,true,,,true,,,,,,true
-
-
+const CSV=`name,level.beginner,level.intermediate,level.expert,practice.oer_find,practice.oer_create,practice.oer_learn,practice.oer_teach,practice.oer_introduce,practice.oer_manage,practice.oer_research,media.audio,media.video,media.textdoc,media.selflearn,media.website,media.h5p,media.presentation
+Material 1,true,,false,true,,,,,true,,,true,,,true,,,
+Material 2,,true,,false,true,,true,,,,,true,,,
+Material 3,false,,true,,,,,true,true,,,,,true,,,,
+Material 4,true,,,,true,,true,,,,,,true,,,,true
+Material 5,,true,true,,,,,true,true,,,true,,,
 `
 
 Papa.parse(CSV, {
@@ -138,9 +105,9 @@ Papa.parse(CSV, {
   header: true,
   dynamicTyping: true,
   complete: function(data){
-    window.fish_db = data.data
+    window.material_db = data.data
 
-    setTimeout(window.filter_fish, 2000)
+    setTimeout(window.material_filter, 2000)
   }
 })
 
@@ -149,14 +116,14 @@ Papa.parse(CSV, {
 @button
 <script input="button" run-once="true" modify="false">
   function show () {
-    if (window.fish && window.button) {
-      if(window.fish["@0"] == null) {
-        window.fish["@0"] = false
+    if (window.material && window.button) {
+      if(window.material["@0"] == null) {
+        window.material["@0"] = false
       } else {
-        window.fish["@0"] = !window.fish["@0"]
-        window.fish_filter()
+        window.material["@0"] = !window.material["@0"]
+        window.material_filter()
       }
-      send.html(window.button("@1", window.fish["@0"], "@2"))
+      send.html(window.button("@1", window.material["@0"], "@2"))
 
     } else {
       setTimeout(function() {
@@ -169,7 +136,54 @@ Papa.parse(CSV, {
 </script>
 @end
 
--->
+# Material-Finder
+
+## Kategorien
+
+### Level
+[Einsteiger](#Einsteiger)
+@[button(level.beginner,Einsteiger)](img/_button/level/beginner.png)
+[Praktiker](#Praktiker)
+@[button(level.intermediate,Praktiker)](img/_button/level/intermediate.png)
+[Experte](#Experte)
+@[button(level.expert,Experte)](img/_button/level/expert.png)
+
+### Praxiskategorie
+[OER finden](#OERfinden)
+@[button(practice.oer_find,OER finden)](img/_button/practice/oer_find.png)
+[OER herstellen](#OERherstellen)
+@[button(practice.oer_create,OER herstellen)](img/_button/practice/oer_create.png)
+[Mit OER lernen](#MitOERlernen)
+@[button(practice.oer_learn,Mit OER lernen)](img/_button/practice/oer_learn.png)
+[Mit OER lehren](#MitOERlehren)
+@[button(practice.oer_teach,Mit OER lehren)](img/_button/practice/oer_teach.png)
+[OER einführen](#OEReinführen)
+@[button(practice.oer_introduce,OER einführen)](img/_button/practice/oer_introduce.png)
+[OER managen](#OERmanagen)
+@[button(practice.oer_manage,OER managen)](img/_button/practice/oer_manage.png)
+[Über OER forschen](#ÜberOERforschen)
+@[button(practice.oer_research,Über OER forschen)](img/_button/practice/oer_research.png)
+
+### Medienart
+[Audio](#Audio)
+@[button(media.audio,Audio)](img/_button/media/audio.png)
+[Video](#Video)
+@[button(media.video,Video)](img/_button/media/video.png)
+[Textdokument](#Textdokument)
+@[button(media.textdoc,Textdokument)](img/_button/media/textdoc.png)
+[Selbstlernkurs](#Selbstlernkurs)
+@[button(media.selflearn,Selbstlernkurs)](img/_button/media/selflearn.png)
+[Webseite](#Webseite)
+@[button(media.website,Webseite)](img/_button/media/website.png)
+[H5P](#H5P)
+@[button(media.h5p,H5P)](img/_button/media/h5p.png)
+[Präsentationsfolien](#Präsentationsfolien)
+@[button(media.presentation,Präsentationsfolien)](img/_button/media/presentation.png)
+
+---
+
+<div id="results"></div>
+
 
 # Netzwerk ORCA.nrw 
 
