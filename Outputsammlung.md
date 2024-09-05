@@ -1,6 +1,5 @@
 <!--
 author:   Your Name
-
 email:    your@mail.org
 
 icon:     img/icon.png
@@ -184,6 +183,7 @@ Papa.parse(CSV, {
 [Webseite](#Webseite)
 @[button(media.webseite,Webseite)](img/_button/media/webseite.png)
 [
+-->
 
 # Output Netzwerk ORCA.
 
