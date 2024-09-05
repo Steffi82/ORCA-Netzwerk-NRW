@@ -26,7 +26,6 @@ window["material"] = {
   "level.praktiker": null,         
   "level.experte": null,           
 
-  // Praxiskategorien
   "praxiskategorie.oer_finden": null,       
   "praxiskategorie.oer_herstellen": null,   
   "praxiskategorie.oer_lernen": null,       
@@ -35,7 +34,6 @@ window["material"] = {
   "praxiskategorie.oer_managen": null,      
   "praxiskategorie.oer_forschen": null,     
 
-  // Medienarten
   "media.audio": null,
   "media.video": null,
   "media.textdoc": null,
@@ -135,90 +133,6 @@ Papa.parse(CSV, {
 
 # Material-Finder
 
-## Kategorien
-
-### Level
-[Einsteiger](#Einsteiger)
-@[button(level.beginner,Einsteiger)](img/_button/level/beginner.png)
-[Praktiker](#Praktiker)
-@[button(level.praktiker,Praktiker)](img/_button/level/praktiker.png)
-[Experte](#Experte)
-@[button(level.experte,Experte)](img/_button/level/experte.png)
-
-### Praxiskategorie
-[OER finden](#OERfinden)
-@[button(praxiskategorie.oer_finden,OER finden)](img/_button/praxiskategorie/oer_finden.png)
-[OER herstellen](#OERherstellen)
-@[button(praxiskategorie.oer_herstellen,OER herstellen)](img/_button/praxiskategorie/oer_herstellen.png)
-[Mit OER lernen](#MitOERlernen)
-@[button(praxiskategorie.oer_lernen,Mit OER lernen)](img/_button/praxiskategorie/oer_lernen.png)
-[Mit OER lehren](#MitOERlehren)
-@[button(praxiskategorie.oer_lehren,Mit OER lehren)](img/_button/praxiskategorie/oer_lehren.png)
-[OER einführen](#OEReinführen)
-@[button(praxiskategorie.oer_einfuehren,OER einführen)](img/_button/praxiskategorie/oer_einfuehren.png)
-[OER managen](#OERmanagen)
-@[button(praxiskategorie.oer_managen,OER managen)](img/_button/praxiskategorie/oer_managen.png)
-[Über OER forschen](#ÜberOERforschen)
-@[button(praxiskategorie.oer_forschen,Über OER forschen)](img/_button/praxiskategorie/oer_forschen.png)
-
-### Medienart
-[Audio](#Audio)
-@[button(media.audio,Audio)](img/_button/media/audio.png)
-[Video](#Video)
-@[button(media.video,Video)](img/_button/media/video.png)
-[Textdokument](#Textdokument)
-@[button(media.textdoc,Textdokument)](img/_button/media/textdoc.png)
-[Selbstlernkurs](#Selbstlernkurs)
-@[button(media.selbstlernen,Selbstlernkurs)](img/_button/media/selbstlernen.png)
-[Webseite](#Webseite)
-@[button(media.webseite,Webseite)](img/_button/media/webseite.png)
-
--->
-
-# Material-Finder
-
-## Kategorien
-
-### Level
-<!-- AchtungInfo: Diese Buttons erlauben es dem Benutzer, Materialien nach Level zu filtern. -->
-[Einsteiger](#Einsteiger)
-@[button(level.beginner,Einsteiger)](img/_button/level/beginner.png)
-[Praktiker](#Praktiker)
-@[button(level.praktiker,Praktiker)](img/_button/level/praktiker.png)
-[Experte](#Experte)
-@[button(level.experte,Experte)](img/_button/level/experte.png)
-
-### Praxiskategorie
-<!-- AchtungInfo: Hier wählst du aus, in welcher OER-Kategorie das Material liegt. -->
-[OER finden](#OERfinden)
-@[button(praxiskategorie.oer_finden,OER finden)](img/_button/praxiskategorie/oer_finden.png)
-[OER herstellen](#OERherstellen)
-@[button(praxiskategorie.oer_herstellen,OER herstellen)](img/_button/praxiskategorie/oer_herstellen.png)
-[Mit OER lernen](#MitOERlernen)
-@[button(praxiskategorie.oer_lernen,Mit OER lernen)](img/_button/praxiskategorie/oer_lernen.png)
-[Mit OER lehren](#MitOERlehren)
-@[button(praxiskategorie.oer_lehren,Mit OER lehren)](img/_button/praxiskategorie/oer_lehren.png)
-[OER einführen](#OEReinführen)
-@[button(praxiskategorie.oer_einfuehren,OER einführen)](img/_button/praxiskategorie/oer_einfuehren.png)
-[OER managen](#OERmanagen)
-@[button(praxiskategorie.oer_managen,OER managen)](img/_button/praxiskategorie/oer_managen.png)
-[Über OER forschen](#ÜberOERforschen)
-@[button(praxiskategorie.oer_forschen,Über OER forschen)](img/_button/praxiskategorie/oer_forschen.png)
-
-### Medienart
-<!-- AchtungInfo: Diese Buttons erlauben es dem Benutzer, Materialien nach Medienart zu filtern. -->
-[Audio](#Audio)
-@[button(media.audio,Audio)](img/_button/media/audio.png)
-[Video](#Video)
-@[button(media.video,Video)](img/_button/media/video.png)
-[Textdokument](#Textdokument)
-@[button(media.textdoc,Textdokument)](img/_button/media/textdoc.png)
-[Selbstlernkurs](#Selbstlernkurs)
-@[button(media.selbstlernen,Selbstlernkurs)](img/_button/media/selbstlernen.png)
-[Webseite](#Webseite)
-@[button(media.webseite,Webseite)](img/_button/media/webseite.png)
-[
--->
 
 # Output Netzwerk ORCA.
 
@@ -236,11 +150,60 @@ Für Inspiration einfach entlang der Seitenleiste durchklicken.
 
 ---
 
-## Webseiten
+<!--
+persistent: true
+-->
+
+<details>
+
+<summary> Level </summary>
+
+__Level__
+
+@[button(level.beginner,Einsteiger)](Bilder/L-Einsteiger.png)
+@[button(level.praktiker,Praktiker)](Bilder/L-Praktiker.png
+@[button(level.experte,Experte)](Bilder/L-Experte.png)
+
+</details>
+
+---
+
+details>
+
+<summary> Praxiskategorie </summary>
+
+__Praxiskategorie__
+
+@[button(praxiskategorie.oer_finden,OER finden)](Bilder/B-1.png)
+@[button(praxiskategorie.oer_herstellen,OER herstellen)](Bilder/B-2.png)
+@[button(praxiskategorie.oer_lernen,Mit OER lernen)](Bilder/B-3.png)
+@[button(praxiskategorie.oer_lehren,Mit OER lehren)](Bilder/B-4.png)
+@[button(praxiskategorie.oer_einfuehren,OER einführen)](Bilder/B-5.png)
+@[button(praxiskategorie.oer_managen,OER managen)](Bilder/B-6.png)
+@[button(praxiskategorie.oer_forschen,Über OER forschen)](Bilder/B-7.png)
+
+</details>
+
+---
+
+<details>
+
+__Medienart__
+
+@[button(media.audio,Audio)](Bilder/M-1.png)
+@[button(media.video,Video)](Bilder/M-2.png)
+@[button(media.textdoc,Textdokument)](Bilder/M-3.png)
+@[button(media.selbstlernen,Selbstlernkurs)](Bilder/M-4.png)
+@[button(media.webseite,Webseite)](Bilder/M-5.png)
+@[button(media.H5P,Webseite)](Bilder/M-5.png)
+@[button(media.presentation,Praesentation)](Bilder/M-5.png)
+
+</details>
+
 ---
 
 <!-- 01 -->
-### OER Policy‐Karte und Karte der Netzwerkstellen in NRW  
+## OER Policy‐Karte und Karte der Netzwerkstellen in NRW  
 `Webseite`
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.jpg)
@@ -254,7 +217,7 @@ Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die e
 
 ---
 <!-- 10 -->
-###  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.  
+##  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.  
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.jpg)
 ***`Medienformat:`*** *Webseite, Ebook, PDF und HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
