@@ -18,6 +18,48 @@ link:     style.css
 script:   https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.1/papaparse.min.js
 
 @onload
+const baseURL = (new URL("img", window.location.search.substr(1))).href
+
+window["material"] = {
+  "level.beginner": null,
+  "level.intermediate": null,
+  "level.expert": null,
+  "practice.oer_find": null,
+  "practice.oer_create": null,
+  "practice.oer_learn": null,
+  "practice.oer_teach": null,
+  "practice.oer_introduce": null,
+  "practice.oer_manage": null,
+  "practice.oer_research": null,
+  "media.audio": null,
+  "media.video": null,
+  "media.textdoc": null,
+  "media.selflearn": null,
+  "media.website": null,
+  "media.h5p": null,
+  "media.presentation": null,
+}
+
+window["button"] = function(title, active, image) {
+  console.log(title, active);  // Debugging: Status der Buttons anzeigen
+  const color = active ? '#f0842c' : "black";
+  return `<div style="padding: 8px; color: ${color}">
+    <h4>${title}</h4>
+    <img src="${image}" loading="lazy">
+  </div>`;
+}
+
+Papa.parse(CSV, {
+  quotes: false,
+  header: true,
+  dynamicTyping: true,
+  complete: function(data){
+    window.material_db = data.data;
+    console.log(window.material_db);  // Debugging: CSV-Daten in der Konsole anzeigen
+    setTimeout(window.material_filter, 2000);
+  }
+});
+
 
 const baseURL = (new URL("img", window.location.search.substr(1))).href
 
