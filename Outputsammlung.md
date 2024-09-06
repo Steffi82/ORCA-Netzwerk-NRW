@@ -130,17 +130,15 @@ Papa.parse(CSV, {
 </script>
 @end
 
-# Material-Finder
+# Material-Finder | Output Netzwerk ORCA.
 
-
-# Output Netzwerk ORCA.
-
-Willkommen, das ist ein Test um zu schauen ob der Filter funktioniert
+Herzlich willkommen auf dieser Seite, die sich im Moment noch im Dummy-Status befindet.
+<br>
+Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das Netzwerk ORCA.nrw zusammengetragen hat.
 
 ![](Bilder/Header.png)        
 
-
-*Bild ist erstmal ein Platzhalter. Ich würde  den wie unten auf 1200px verbreitern, wenn die Darstellung konstistent gut ist, die Medientypen in der Farbigkeit der Hintergründe weiter unten spezifisch aufgreifen und eine kleine Hommage an OER und Oder ORCA einbauen. Wobei, letzters könnte ja ins Impressum durch einen "gefördert von" Abbinder.*
+* Das Bild ist erstmal ein Platzhalter. Ich würde  den wie unten auf 1200px verbreitern, wenn die Darstellung konstistent gut ist, die Medientypen in der Farbigkeit der Hintergründe weiter unten spezifisch aufgreifen und eine kleine Hommage an OER und Oder ORCA einbauen. Wobei, letzters könnte ja ins Impressum durch einen "gefördert von" Abbinder.*
 
 Für Inspiration einfach entlang der Seitenleiste durchklicken.
 
