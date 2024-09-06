@@ -135,17 +135,18 @@ Papa.parse(CSV, {
 
 # Output Netzwerk ORCA.
 
-Willkommen, das ist ein Test um zu schauen ob der Fischfinder funktioniert
+Willkommen, das ist ein Test um zu schauen ob der Filter funktioniert
 
 ![](Bilder/Header.png)        
 
 
-*das ist erstmal ein Platzhalter. Ich würde  den wie unten auf 1200px verbreitern, wenn die Darstellung konstistent gut ist, die Medientypen in der Farbigkeit der Hintergründe weiter unten spezifisch aufgreifen und eine kleine Hommage an OER und Oder ORCA einbauen. Wobei, letzters könnte ja ins Impressum durch einen "gefördert von" Abbinder.*
+*Bild ist erstmal ein Platzhalter. Ich würde  den wie unten auf 1200px verbreitern, wenn die Darstellung konstistent gut ist, die Medientypen in der Farbigkeit der Hintergründe weiter unten spezifisch aufgreifen und eine kleine Hommage an OER und Oder ORCA einbauen. Wobei, letzters könnte ja ins Impressum durch einen "gefördert von" Abbinder.*
 
 Für Inspiration einfach entlang der Seitenleiste durchklicken.
 
 
-<!-- Hinweis: die Nummern in den Hinweisen beziehen sich auf die Zeilennummern in der Output-Excel-Liste. -->
+<!-- Hinweis: die Nummern in den Hinweisen beziehen sich auf die Zeilennummern in der Output-Excel-Liste. 
+-->
 
 ---
 
@@ -201,27 +202,23 @@ __Medienart__
 
 ---
 <!-- 01 -->
-<article>
+## Webseiten
 
-## OER Policy‐Karte und Karte der Netzwerkstellen in NRW  
+Hier folgt noch ein Einleitungstext zur Kategorie.
+
+
+### OER Policy‐Karte und Karte der Netzwerkstellen in NRW  
 `Webseite`
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.jpg)
-### Medienformat: 
-HTML 
-### erstellt/bearbeitbar mit:
-Web-Editor
-### Niveaustufe(n): 
-Einsteiger (Starter) 
-### Praxiskategorie(n)
-OER managen
-### Metadaten:
-Karte; HTML; Farbschema; OER-Policy; DH.nrw
+`Medienformat` HTML  
+`erstellt/bearbeitbar mit` Web-Editor <br>
+`Niveaustufe(n)` Einsteiger (Starter) <br> 
+`Praxiskategorie(n)`OER managen <br>
+`Metadaten` Karte; HTML; Farbschema; OER-Policy; DH.nrw <br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
 >*OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
-
-</article>
 
 ---
 
@@ -229,9 +226,9 @@ Karte; HTML; Farbschema; OER-Policy; DH.nrw
 ##  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.  
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.jpg)
-***`Medienformat:`*** *Webseite, Ebook, PDF und HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
-***`Niveaustufe(n):`*** *Einsteiger (Starter)* <br>
-***`Praxiskategorie(n)`*** *OER finden; OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen; OER managen; Über OER forschen* <br>
+`Medienformat:`*** *Webseite, Ebook, PDF und HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
+`Niveaustufe(n):`*** *Einsteiger (Starter)* <br>
+***`Praxiskategorie(n)`*** *OER finden; OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen; OER managen; Über OER forschen* >
 ***`Metadaten:`*** *OER; ORCA.nrw; Materialtipp; Praxiswerkstatt; Creative Commons; CC-Lizenz; Lizenzhinweis; OER-Policy; OER-Content*
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
