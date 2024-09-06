@@ -91,8 +91,7 @@ window.material_filter = function() {
     }
   }
 }
-
-const CSV=`name,level.beginner,level.praktiker,level.experte,praxiskategorie.oer_finden,praxiskategorie.oer_herstellen,praxiskategorie.oer_lernen,praxiskategorie.oer_lehren,praxiskategorie.oer_einfuehren,praxiskategorie.oer_managen,praxiskategorie.oer_forschen,media.audio,media.video,media.textdoc,media.selbstlernen,media.webseite,media.h5p,media.presentation
+ CSV=`name,level.beginner,level.praktiker,level.experte,praxiskategorie.oer_finden,praxiskategorie.oer_herstellen,praxiskategorie.oer_lernen,praxiskategorie.oer_lehren,praxiskategorie.oer_einfuehren,praxiskategorie.oer_managen,praxiskategorie.oer_forschen,media.audio,media.video,media.textdoc,media.selbstlernen,media.webseite,media.h5p,media.presentation
 OER Policy‐Karte und Karte der Netzwerkstellen in NRW,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,false
 infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.,true,false,false,true,true,true,true,true,true,true,true,false,false,false,false,true,false,false`
 
@@ -168,7 +167,7 @@ __Level__
 
 ---
 
-details>
+<details>
 
 <summary> Praxiskategorie </summary>
 
@@ -201,20 +200,21 @@ __Medienart__
 </details>
 
 ---
-
+<article>
 <!-- 01 -->
 ## OER Policy‐Karte und Karte der Netzwerkstellen in NRW  
 `Webseite`
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.jpg)
-***`Medienformat:`*** *HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
+### ***Medienformat:*** *HTML* 
+### ***erstellt/bearbeitbar mit:*** *Web-Editor* <br>
 ***`Niveaustufe(n):`*** Einsteiger (Starter) <br>
 ***`Praxiskategorie(n)`*** *OER managen* <br>
 ***`Metadaten:`*** *Karte; HTML; Farbschema; OER-Policy; DH.nrw* <br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
 >*OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
-
+</article>
 ---
 <!-- 10 -->
 ##  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.  
