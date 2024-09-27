@@ -12,9 +12,9 @@ Feedback ist immer gerne willkommen.
 **CC-Lizenzlogos**: Download von https://creativecommons.org/share-your-work/cclicenses/
 
 
+---
 
-
-Impressum: (vorläufig)
+## Impressum: (vorläufig)
 
 Angaben gemäß § 5 TMG:
 
