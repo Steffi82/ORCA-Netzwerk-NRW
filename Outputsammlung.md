@@ -145,15 +145,6 @@ Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstel
 Für Inspiration einfach entlang der Seitenleiste durchklicken.
 
 
-<!-- Hinweis: die Nummern in den Hinweisen beziehen sich auf die Zeilennummern in der Output-Excel-Liste. 
--->
-
----
-
-<!--
-persistent: true
--->
-
 <details>
 
 <summary> Level </summary>
@@ -161,7 +152,7 @@ persistent: true
 __Level__
 
 @[button(level.beginner,Einsteiger)](Bilder/L-Einsteiger.png)
-@[button(level.praktiker,Praktiker)](Bilder/L-Praktiker.png
+@[button(level.praktiker,Praktiker)](Bilder/L-Praktiker.png)
 @[button(level.experte,Experte)](Bilder/L-Experte.png)
 
 </details>
