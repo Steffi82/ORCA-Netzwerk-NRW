@@ -9,7 +9,7 @@ version:  0.0.1
 
 language: de
 
-narrator: US English Female
+narrator: Deutsch Female
 
 comment:  Material-Finder basierend auf dem Fischbestimmer.
 
@@ -62,7 +62,7 @@ window.material_filter = function() {
 
     let result = []
 
-    for (const material of window.material_db) {      
+    for (const material of window.material) {      
       let rslt = true
 
       for (const item of items) {
@@ -100,7 +100,7 @@ Papa.parse(CSV, {
   header: true,
   dynamicTyping: true,
   complete: function(data){
-    window.material_db = data.data;
+    window.material = data.data;
     setTimeout(window.material_filter, 2000);
   }
 })
@@ -132,13 +132,19 @@ Papa.parse(CSV, {
 
 -->
 
+
 # Material-Finder | Output Netzwerk ORCA.
 
-Herzlich willkommen auf dieser Seite, die sich im Moment noch im Dummy-Status befindet.
-<br>
+--{{1}}--
+Hallo das ist ein Experiment mit Textausgabe.
+
+
+    {{1-2}}
+Herzlich willkommen auf dieser Seite, die sich im Moment noch im Dummy-Status befindet.\
 Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das Netzwerk ORCA.nrw zusammengetragen hat.
 
-![](Bilder/Header.png)        
+    {{2}}
+![TODO Alternativ-Text](Bilder/Header.png "Fig. 1: Hier kommt eine __Unterschrift__ hin")
 
 * Das Bild ist erstmal ein Platzhalter. Ich würde  den wie unten auf 1200px verbreitern, wenn die Darstellung konstistent gut ist, die Medientypen in der Farbigkeit der Hintergründe weiter unten spezifisch aufgreifen und eine kleine Hommage an OER und Oder ORCA einbauen. Wobei, letzters könnte ja ins Impressum durch einen "gefördert von" Abbinder.*
 
@@ -198,7 +204,8 @@ __Medienart__
 Hier folgt noch ein Einleitungstext zur Kategorie.
 
 
-### OER Policy‐Karte und Karte der Netzwerkstellen in NRW  
+### OER Policy‐Karte und Karte der Netzwerkstellen in NRW
+
 `Webseite`
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.png)
