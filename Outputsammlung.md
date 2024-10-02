@@ -208,7 +208,7 @@ Hier folgt noch ein Einleitungstext zur Kategorie.
 ### OER Policy‐Karte und Karte der Netzwerkstellen in NRW  
 `Webseite`
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.
-![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.jpg)
+![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.png)
 `Medienformat` HTML  
 `erstellt/bearbeitbar mit` Web-Editor <br>
 `Niveaustufe(n)` Einsteiger (Starter) <br> 
