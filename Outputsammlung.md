@@ -15,33 +15,54 @@ comment:  Material-Finder basierend auf dem Fischbestimmer.
 
 link:     style.css
 
-script:   https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.1/papaparse.min.js
-
 @onload
 
 const baseURL = (new URL("img", window.location.search.substr(1))).href
 
-window["material"] = {
-  "level.beginner": null,          
-  "level.praktiker": null,         
-  "level.experte": null,           
+window["filter"] = {
+  level: {
+    beginner: null,
+    praktiker: null,
+    experte: null
+  },
 
-  "praxiskategorie.oer_finden": null,       
-  "praxiskategorie.oer_herstellen": null,   
-  "praxiskategorie.oer_lernen": null,       
-  "praxiskategorie.oer_lehren": null,       
-  "praxiskategorie.oer_einfuehren": null,   
-  "praxiskategorie.oer_managen": null,      
-  "praxiskategorie.oer_forschen": null,     
+  praxiskategorie: {
+    oer_finden: null,
+    oer_herstellen: null,
+    oer_lernen: null,
+    oer_lehren: null,
+    oer_einfuehren: null,
+    oer_managen: null,
+    oer_forschen: null
+  },
 
-  "media.audio": null,
-  "media.video": null,
-  "media.textdoc": null,
-  "media.selbstlernen": null,
-  "media.webseite": null,
-  "media.h5p": null,
-  "media.presentation": null,
+  media: {
+    audio: null,
+    video: null,
+    textdoc: null,
+    selbstlernen: null,
+    webseite: null,
+    h5p: null,
+    presentation: null
+  }
 }
+
+window.material = [
+  { level: {beginner: true},
+    praxiskategorie: {oer_finden: true},
+    media: {webseite: true},
+    titel: "OER Policy‐Karte und Karte der Netzwerkstellen in NRW",
+    inhalt: "Die Karte zeigt Hochschulstandorte der DH.nrw und kennzeichnet solche, die eine OER Policy veröffentlicht haben.",
+    link: "1"
+  },
+  { level: {experte: true},
+    praxiskategorie: {oer_finden: true},
+    media: {selbstlernen: true},
+    titel: "infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.",
+    inhalt: "Der Blog enthält kurze informative Beiträge rund um OER, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden.",
+    link: "2"
+  }
+]
 
 window["button"] = function(title, active, image) {
   const color = active ? '#f0842c' : "black";  
@@ -52,72 +73,71 @@ window["button"] = function(title, active, image) {
 }
 
 window.material_filter = function() {
-  if (window.material) {
-    let items = []
-    for (const [item, selected] of Object.entries(window.material)) {
-      if (selected) {
-        items.push(item)
-      }
+  function filterMaterials(materials, filter) {
+    // Convert filter object to array of active filters
+    const activeFilters = Object.entries(filter).reduce((acc, [category, values]) => {
+        const activeInCategory = Object.entries(values)
+            .filter(([_, isActive]) => isActive === true)
+            .map(([key, _]) => ({ category, key }));
+        return [...acc, ...activeInCategory];
+    }, []);
+
+    // If no filters are active, return all materials
+    if (activeFilters.length === 0) {
+        return [];
     }
 
-    let result = []
+    // Filter and count matches
+    const materialWithMatches = materials.map(material => {
+        const matches = activeFilters.filter(({ category, key }) => 
+            material[category] && material[category][key] === true
+        );
+        return {
+            material,
+            matchCount: matches.length,
+            matches: matches
+        };
+    }).filter(item => item.matchCount > 0); // Keep only items with at least one match
 
-    for (const material of window.material) {      
-      let rslt = true
+    // Sort by number of matches (descending)
+    materialWithMatches.sort((a, b) => b.matchCount - a.matchCount);
 
-      for (const item of items) {
-        if (!material[item]) {  
-          rslt = false
-          break
-        }
-      }
+    // Return sorted materials without the match information
+    return materialWithMatches.map(item => item.material);
+  }
 
-      if (rslt) {
-        result.push(material.name)
-      }
+  let result = filterMaterials(window.material, window.filter);
+
+  const div = document.getElementById("results")
+  if (div) {
+    let list = "<h3>Gefundene Materialien</h3>"
+    for(const material of result) {
+      let url = material.link
+      list += `<a style="display: block; padding: 1rem; border: 1px solid black; text-decoration: none; margin-top: 1rem" href="#${url}">
+          <h3>${material.titel}</h3>
+          <p>${material.inhalt}</p>
+        </a>`
     }
-
-    const div = document.getElementById("results")
-
-    if (div) {
-      let list = "<br><h3>Gefundene Materialien</h3>"
-
-      for(const material of result) {
-        let url = material.toLocaleLowerCase().replace(/ /g, "-")
-        list += `<a style="display: inline-flex; padding: 1rem; margin: 1rem; border: 1px solid black" href="#${url}"><span><h4>${material}</h4><img src="${baseURL}/${url}/thumbnail.png"></span></a>`
-      }
-
-      div.innerHTML = list
-    }
+    div.innerHTML = list
   }
 }
- CSV=`name,level.beginner,level.praktiker,level.experte,praxiskategorie.oer_finden,praxiskategorie.oer_herstellen,praxiskategorie.oer_lernen,praxiskategorie.oer_lehren,praxiskategorie.oer_einfuehren,praxiskategorie.oer_managen,praxiskategorie.oer_forschen,media.audio,media.video,media.textdoc,media.selbstlernen,media.webseite,media.h5p,media.presentation
-OER Policy‐Karte und Karte der Netzwerkstellen in NRW,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,true,false,false
-infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.,true,false,false,true,true,true,true,true,true,true,true,false,false,false,false,true,false,false`
-
-Papa.parse(CSV, {
-  quotes: false,
-  header: true,
-  dynamicTyping: true,
-  complete: function(data){
-    window.material = data.data;
-    setTimeout(window.material_filter, 2000);
-  }
-})
 
 @end
 
 @button
 <script input="button" run-once="true" modify="false">
   function show () {
-    if (window.material && window.button) {
-      if(window.material["@0"] == null) {
-        window.material["@0"] = false
+    if (window.filter && window.button) {
+
+      if(window.filter["@0"]["@1"] === null) {
+        window.filter["@0"]["@1"] = false
       } else {
-        window.material["@0"] = !window.material["@0"]
+        window.filter["@0"]["@1"]= !window.filter["@0"]["@1"]
+
         window.material_filter()
       }
-      send.html(window.button("@1", window.material["@0"], "@2"))
+
+      send.html(window.button("@2", window.filter["@0"]["@1"], "@3"))
 
     } else {
       setTimeout(function() {
@@ -157,9 +177,9 @@ Für Inspiration einfach entlang der Seitenleiste durchklicken.
 
 __Level__
 
-@[button(level.beginner,Einsteiger)](Bilder/L-Einsteiger.png)
-@[button(level.praktiker,Praktiker)](Bilder/L-Praktiker.png)
-@[button(level.experte,Experte)](Bilder/L-Experte.png)
+@[button(level,beginner,Einsteiger)](Bilder/L-Einsteiger.png)
+@[button(level,praktiker,Praktiker)](Bilder/L-Praktiker.png)
+@[button(level,experte,Experte)](Bilder/L-Experte.png)
 
 </details>
 
@@ -171,13 +191,13 @@ __Level__
 
 __Praxiskategorie__
 
-@[button(praxiskategorie.oer_finden,OER finden)](Bilder/B-1.png)
-@[button(praxiskategorie.oer_herstellen,OER herstellen)](Bilder/B-2.png)
-@[button(praxiskategorie.oer_lernen,Mit OER lernen)](Bilder/B-3.png)
-@[button(praxiskategorie.oer_lehren,Mit OER lehren)](Bilder/B-4.png)
-@[button(praxiskategorie.oer_einfuehren,OER einführen)](Bilder/B-5.png)
-@[button(praxiskategorie.oer_managen,OER managen)](Bilder/B-6.png)
-@[button(praxiskategorie.oer_forschen,Über OER forschen)](Bilder/B-7.png)
+@[button(praxiskategorie,oer_finden,OER finden)](Bilder/B-1.png)
+@[button(praxiskategorie,oer_herstellen,OER herstellen)](Bilder/B-2.png)
+@[button(praxiskategorie,oer_lernen,Mit OER lernen)](Bilder/B-3.png)
+@[button(praxiskategorie,oer_lehren,Mit OER lehren)](Bilder/B-4.png)
+@[button(praxiskategorie,oer_einfuehren,OER einführen)](Bilder/B-5.png)
+@[button(praxiskategorie,oer_managen,OER managen)](Bilder/B-6.png)
+@[button(praxiskategorie,oer_forschen,Über OER forschen)](Bilder/B-7.png)
 
 </details>
 
@@ -187,18 +207,22 @@ __Praxiskategorie__
 
 __Medienart__
 
-@[button(media.audio,Audio)](Bilder/M-1.png)
-@[button(media.video,Video)](Bilder/M-2.png)
-@[button(media.textdoc,Textdokument)](Bilder/M-3.png)
-@[button(media.selbstlernen,Selbstlernkurs)](Bilder/M-4.png)
-@[button(media.webseite,Webseite)](Bilder/M-5.png)
-@[button(media.H5P,Webseite)](Bilder/M-5.png)
-@[button(media.presentation,Praesentation)](Bilder/M-5.png)
+@[button(media,audio,Audio)](Bilder/M-1.png)
+@[button(media,video,Video)](Bilder/M-2.png)
+@[button(media,textdoc,Textdokument)](Bilder/M-3.png)
+@[button(media,selbstlernen,Selbstlernkurs)](Bilder/M-4.png)
+@[button(media,webseite,Webseite)](Bilder/M-5.png)
+@[button(media,h5p,H5P)](Bilder/M-5.png)
+@[button(media,presentation,Praesentation)](Bilder/M-5.png)
 
 </details>
 
 ---
-<!-- 01 -->
+
+
+<div id="results"></div>
+
+
 ## Webseiten
 
 Hier folgt noch ein Einleitungstext zur Kategorie.
