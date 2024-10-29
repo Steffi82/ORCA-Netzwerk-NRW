@@ -47,20 +47,8 @@ window["filter"] = {
   }
 }
 
-window.material = [
-  { level: {beginner: true},
-    praxiskategorie: {oer_finden: true},
-    media: {webseite: true},
-    titel: "OER Policy‐Karte und Karte der Netzwerkstellen in NRW",
-    inhalt: "Die Karte zeigt Hochschulstandorte der DH.nrw und kennzeichnet solche, die eine OER Policy veröffentlicht haben.",
-    link: "1"
-  },
-  { level: {experte: true},
-    praxiskategorie: {oer_finden: true},
-    media: {selbstlernen: true},
-    titel: "infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.",
-    inhalt: "Der Blog enthält kurze informative Beiträge rund um OER, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden.",
-    link: "2"
+<script>
+window.material = window.material || []; 
   }
 ]
 
@@ -242,25 +230,32 @@ Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die e
 >***Zitationsvorschlag nach TULLU-Regel:***
 >*OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
 
+
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": {"beginner": true},
-  "praxiskategorie": {"oer_managen": true},
-  "media": {"webseite": true},
+  "level": {
+    "einsteiger": true,
+  },
+  "praxiskategorie": {
+    "oer_managen": true,
+  },
+  "media": {
+    "webseite": true,
+  },
   "titel": "OER Policy‐Karte und Karte der Netzwerkstellen in NRW",
   "inhalt": "Die Karte zeigt Hochschulstandorte der DH.nrw und kennzeichnet solche, die eine OER Policy veröffentlicht haben.",
-  "link": "oer-policy-karte-und-karte-der-netzwerkstellen-in-nrw"
+  "link": "[https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee]"
 });
 </script>
 
 ---
 
-<!-- 10 -->
+
 ###  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.  
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.jpg)
-`Medienformat:`*** *Webseite, Ebook, PDF und HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
+`Medienformat:`*** *Ebook, PDF und HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
 `Niveaustufe(n):`*** *Einsteiger (Starter)* <br>
 ***`Praxiskategorie(n)`*** *OER finden; OER herstellen; Mit OER lernen; Mit OER lehren; OER einführen; OER managen; Über OER forschen* >
 ***`Metadaten:`*** *OER; ORCA.nrw; Materialtipp; Praxiswerkstatt; Creative Commons; CC-Lizenz; Lizenzhinweis; OER-Policy; OER-Content*
@@ -271,7 +266,7 @@ Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprüngli
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": {"experte": true},
+  "level": {"einsteiger": true},
   "praxiskategorie": {"oer_finden": true},
   "media": {"selbstlernen": true},
   "titel": "infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw",
