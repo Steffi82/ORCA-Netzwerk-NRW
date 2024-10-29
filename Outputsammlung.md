@@ -242,10 +242,22 @@ Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die e
 >***Zitationsvorschlag nach TULLU-Regel:***
 >*OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
 
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": {"beginner": true},
+  "praxiskategorie": {"oer_managen": true},
+  "media": {"webseite": true},
+  "titel": "OER Policy‐Karte und Karte der Netzwerkstellen in NRW",
+  "inhalt": "Die Karte zeigt Hochschulstandorte der DH.nrw und kennzeichnet solche, die eine OER Policy veröffentlicht haben.",
+  "link": "oer-policy-karte-und-karte-der-netzwerkstellen-in-nrw"
+});
+</script>
+
 ---
 
 <!-- 10 -->
-##  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.  
+###  infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.  
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.jpg)
 `Medienformat:`*** *Webseite, Ebook, PDF und HTML* ***`erstellt/bearbeitbar mit:`*** *Web-Editor* <br>
@@ -256,6 +268,17 @@ Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprüngli
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw. Netzwerk Landesportal ORCA.nrw; von Urheber; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [OERSI](https://oersi.org/resources/aHR0cHM6Ly9saW5kYWhhbG0taHNiaS5naXRodWIuaW8vaW5mT0VSbWllcnQ=)*
 
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": {"experte": true},
+  "praxiskategorie": {"oer_finden": true},
+  "media": {"selbstlernen": true},
+  "titel": "infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw",
+  "inhalt": "Der Blog enthält kurze informative Beiträge rund um OER, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden.",
+  "link": "infoermiert-oer-blog-vom-netzwerk-landesportal-orca-nrw"
+});
+</script>
 ---
 
 ## Selbstlern-Materialien
