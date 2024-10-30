@@ -52,7 +52,7 @@ Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworte
   },
   "titel": "Titel",
   "inhalt": "Dies ist der Text der Subzeile = Spalte Inhalt.",
-  "link": "beispiel-titel"
+  "link": "[Link zum Abschnitt](#titel-klein-mit-bindestrichen-getrennt)
 });
 </script>
  
