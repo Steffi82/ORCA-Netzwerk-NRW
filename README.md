@@ -2,6 +2,103 @@ Die Outputsammlung ist noch im Aufbau. Entsprechend gilt sie aktuell noch nicht 
 Feedback ist immer gerne willkommen.
 
 
+Aufbau, Ablauf für Neueinstellungen
+
+- neue Zeile in die Excel-Liste Sammlung_Netzwerk-Output einpflegen [-->Link]
+daraus lassen sich alle Informationen speisen, die für den Beitrag benötigt werden
+
+- Eintrag in Outputsammlung.md
+1. Ort identifizieren: Medientyp und dann alphabetisch.
+2. Folgende Blankostruktur an die entsprechende Stelle einfügen - entsprechend der Tabelle anpassen und nicht passende Filter im script rauslöschen
+
+### Titel
+
+`Medientyp`
+Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworten.
+![](MaterialienIntros/Bild-Dateiname_CC.png)
+`Medienformat` XYZ  
+`erstellt/bearbeitbar mit` XYZ <br>
+`Niveaustufe(n)` XYZ <br> 
+`Praxiskategorie(n)`XYZ <br>
+`Metadaten` ABC; DEF; GHI <br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Titel; von Name, Vorname; Name, Vorname; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Ursprungsort](https://www.link)*
+
+
+<script>
+"level": {
+    "beginner": true,
+    "praktiker": true,
+    "experte": true
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true
+  },
+  "media": {
+    "audio": true,
+    "video": true,
+    "textdoc": true,
+    "selbstlernen": true,
+    "webseite": true,
+    "h5p": true,
+    "presentation": true
+  },
+  "titel": "Titel",
+  "inhalt": "Dies ist der Text der Subzeile = Spalte Inhalt.",
+  "link": "beispiel-titel"
+});
+</script>
+
+
+<script>
+window.material.push({
+  "level": {
+    "beginner": true,
+    "praktiker": true,
+    "experte": true
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true
+  },
+  "media": {
+    "audio": true,
+    "video": true,
+    "textdoc": true,
+    "selbstlernen": true,
+    "webseite": true,
+    "h5p": true,
+    "presentation": true
+  },
+  "titel": "Beispiel Titel",
+  "inhalt": "Dies ist ein Beispielinhalt für ein Material.",
+  "link": "beispiel-titel"
+});
+</script>
+```
+
+Auf diese Weise bleibt die Liste erhalten und wird bei jedem neuen Materialeintrag um den entsprechenden JSON-Block erweitert.
+
+
+
+
+
+
+
+
+
 
 
 ## Quellenhinweise:
