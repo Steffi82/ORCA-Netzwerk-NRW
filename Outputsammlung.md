@@ -149,14 +149,14 @@ Hallo das ist ein Experiment mit Textausgabe.
 
     {{1-2}}
 Herzlich willkommen auf dieser Seite, die sich im Moment noch im Dummy-Status befindet.\
-Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das Netzwerk ORCA.nrw zusammengetragen hat.
+Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das Netzwerk ORCA.nrw zusammengetragen hat. Die Nutzunf funktionert über die Filterfunktion, die schon fast funktioniert - die Seitenleiste ist nach Medienarten kategorisiert, auch hier kann man sich inspirieren lassen. Wir freuen uns über Anregungen und Rückfragen, ebenso die Autor:innen der Materialien, und ermuntern ausdrücklich zur Nachnutzung der Materialien
 
     {{2}}
 ![TODO Alternativ-Text](Bilder/Header.png "Fig. 1: Hier kommt eine __Unterschrift__ hin")
 
-* Das Bild ist erstmal ein Platzhalter. Ich würde  den wie unten auf 1200px verbreitern, wenn die Darstellung konstistent gut ist, die Medientypen in der Farbigkeit der Hintergründe weiter unten spezifisch aufgreifen und eine kleine Hommage an OER und Oder ORCA einbauen. Wobei, letzters könnte ja ins Impressum durch einen "gefördert von" Abbinder.*
+* Hier kommt eine Bildunterschrift hin, vielleicht auch eine Legende*
 
-Für Inspiration einfach entlang der Seitenleiste durchklicken.
+
 
 
 <details>
@@ -215,6 +215,9 @@ __Medienart__
 
 Hier folgt noch ein Einleitungstext zur Kategorie.
 
+---
+
+
 
 ### OER Policy‐Karte und Karte der Netzwerkstellen in NRW
 
@@ -245,7 +248,7 @@ window.material.push({
   },
   "titel": "OER Policy‐Karte und Karte der Netzwerkstellen in NRW",
   "inhalt": "Die Karte zeigt Hochschulstandorte der DH.nrw und kennzeichnet solche, die eine OER Policy veröffentlicht haben.",
-  "link": "[https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee]"
+  "link": "[Link zum Abschnitt](#oer-policy‐karte-und-karte-der-netzwerkstellen-in-nrw)"
 });
 </script>
 
@@ -271,31 +274,53 @@ window.material.push({
   "media": {"selbstlernen": true},
   "titel": "infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw",
   "inhalt": "Der Blog enthält kurze informative Beiträge rund um OER, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden.",
-  "link": "infoermiert-oer-blog-vom-netzwerk-landesportal-orca-nrw"
+  "link": ""[Link zum Abschnitt](#infoermiert-‐der-oer‐blog-vom-netzwerk-landesportal-orca.nrw.)"
 });
 </script>
 ---
 
 ## Selbstlern-Materialien
 
+Hier folgt noch ein Einleitungstext zur Kategorie.
+
 ---
 
-<!-- 02 -->
 ### OER‐Glossar   
 Dieses `Nachschlagewerk` erläutert **52 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). <br> 
 Stand: August 2023 
 ![](MaterialienIntros/Selbstlernkurs_OER-Glossar_CCBY40.jpg)
-***`Medienformat:`*** *Selbstlernkurs* ***`erstellt/bearbeitbar mit:`*** *ILIAS; Moodle; HTML* <br>
+***`Medienformat:`*** *Selbstlernkurs* ***`erstellt/bearbeitbar mit:`*** *ILIAS; Moodle* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker; Experte* <br>
 ***`Praxiskategorie(n)`*** *n.a.* <br>
 ***`Metadaten:`*** *Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium*
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *OER‐Glossar; von Gödecke, Svenja; Halm, Linda; Homp, Frank; Kobusch, Alexander; Schaffeld, Laura; Spaude, Magdalena; Weber, Tassja; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [ILIAS der Uni zu Köln](https://www.edulabs.uni‐koeln.de/goto.php?target=crs_2218&client_id=iliasedulabs)*
+<script>
+"level": {
+    "beginner": true,
+    "praktiker": true,
+    "experte": true
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true
+  },
+  "media": {
+    "selbstlernen": true,
+  },
+  "titel": "OER-Glossar",
+  "inhalt": "Dieses Nachschlagewerk erläutert 52 zentrale Begriffe rund um das Thema Open Educational Resources (OER)",
+  "link": ""[Link zum Abschnitt](#oer-glossar)"
 
 ---
-<!-- 08 -->
-### Learning Snacks: "ORCA.nrw: A University Network for OER 
+
+### Learning Snacks: "ORCA.nrw: A University Network for OER" 
 `Lernspiel` `Edu-Game`
 The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist. 
 ![](MaterialienIntros/Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40.jpg) 
@@ -306,8 +331,32 @@ The example is based on a German network. You can find out **how the network wor
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *Learning Snacks: "ORCA.nrw: A University Network for OER"; von *Eube, Cornelia; Kobusch, Alexander; Niemann, Andrea; Nitzsche, Sina; Scherer, Elisabeth; Spaude, Magdalena*; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Learning Snacks](https://www.learningsnacks.de/share/218584/)*
 
+<script>
+"level": {
+    "beginner": true,
+    "praktiker": true,
+    "experte": true
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true
+  },
+  "media": {
+    "selbstlernen": true,
+  },
+  "titel": "Learning Snacks: "ORCA.nrw: A University Network for OER"",
+  "inhalt": "You can find out **how the german ORCA.nrw-network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.",
+  "link": "[Link zum Abschnitt](#learning-snacks:-"orca.nrw:-a-university-network-for-oer)
+});
+</script>                                                                                                                                                                                               
+                                                                                                                                                                                               
 ---
-<!-- 09 -->
+
 ### OER‐Wissenspool
 Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educational Resources** mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für **OER-Showcases**. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen **Installationsanleitungen** zur Einbindung ins eigene LMS zur Verfügung.
 ![](MaterialienIntros/Selbstlernkurs_OER‐Wissenspool_CCBY40.jpg)
@@ -400,6 +449,9 @@ Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept v
 
 ## Konferenzbeiträge
 
+Hier folgt noch ein Einleitungstext zur Kategorie.
+
+---
 ---
 
 
@@ -407,39 +459,10 @@ Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept v
 
 ## Artikel in (Fach-)Zeitschriften
 
+Hier folgt noch ein Einleitungstext zur Kategorie.
+
 ---
-<!-- 11 -->
-<!-- 12 -->
-<!-- 13 -->
-<!-- 14 -->
-<!-- 15 -->
-<!-- 16 -->
-<!-- 17 -->
-<!-- 18 -->
-<!-- 19 -->
-<!-- 20 -->
-<!-- 21 -->
-<!-- 22 -->
-<!-- 23 -->
-<!-- 24 -->
-<!-- 25 -->
-<!-- 26 -->
-<!-- 27 -->
-<!-- 28 -->
-<!-- 29 -->
-<!-- 30 -->
-<!-- 31 -->
-<!-- 32 -->
-<!-- 33 -->
-<!-- 34 -->
-<!-- 35 -->
-<!-- 36 -->
-<!-- 37 -->
-<!-- 38 -->
-<!-- 39 -->
-<!-- 40 -->
-<!-- 41 -->
-<!-- 42 -->
+---
 
 
 
@@ -447,30 +470,7 @@ Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept v
 
 ---
 
-![grafik](https://github.com/user-attachments/assets/6e5b7a53-43ee-4dd4-b4a0-87c5a645cc04)
 
-
-
-### hier gehts dann weiter (aktuell Sammelkiste)
- 
-a) Placeholder with link to Youtube
-
-[![Entwicklungsumgebung mit Groovy/Git testen](https://img.youtube.com/vi/fbZOii_l7M4/maxresdefault.jpg)](https://youtu.be/fbZOii_l7M4)
-
-b) AV-Portal player embedded
-
-<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/40456" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-c) Youtube embedded
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/fbZOii_l7M4" allowfullscreen="allowfullscreen">
-</iframe>
-
-
----
-
--->
 
 # Impressum
 This template for OER courses is released under MIT. The content of the document is subject to the respective license as indicated at the end of the generated files or in the metadata.yml.
