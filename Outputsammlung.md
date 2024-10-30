@@ -338,10 +338,6 @@ The example is based on a German network. You can find out **how the network wor
     "experte": true
   },
   "praxiskategorie": {
-    "oer_finden": true,
-    "oer_herstellen": true,
-    "oer_lernen": true,
-    "oer_lehren": true,
     "oer_einfuehren": true,
     "oer_managen": true,
     "oer_forschen": true
@@ -362,19 +358,39 @@ Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educat
 ![](MaterialienIntros/Selbstlernkurs_OER‐Wissenspool_CCBY40.jpg)
 ***`Medienformat:`*** Selbstlernkurs ***`erstellt/bearbeitbar mit:`*** *Moodle, Ilias; H5P* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker <br>
-***`Praxiskategorie(n)`*** *OER finden: OER herstellen; Mit OER lernen; Mit OER lehren* <br>
+***`Praxiskategorie(n)`*** *OER finden: OER herstellen; mit OER lernen; mit OER lehren* <br>
 ***`Metadaten:`*** *OER erstellen; H5P; OER Basiswissen; OER-Supportmaterial*
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
-> *OER‐Wissenspool; von Nitzsche, Sina; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Ursprungsort](https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47)*
+> *OER‐Wissenspool; von Nitzsche, Sina; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47)*
 
+<script>
+"level": {
+    "einsteiger": true,
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+  },
+  "media": {
+    "selbstlernen": true,
+  },
+  "titel": "OER‐Wissenspool",
+  "inhalt": "Der Selbstlernkurs vermittelt in fünf Kategorien Basiswissen zu Open Educational Resources mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für OER-Showcases. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen Installationsanleitungen zur Einbindung ins eigene LMS zur Verfügung.",
+  "link": "[Link zum Abschnitt](#oer‐wissenspool)
+});
+</script>
 ---
 
 ## Textdokumente
 
+Hier folgt noch ein Einleitungstext zur Kategorie
+
 ---
 
-<!-- 03 -->
 ### Praxisleitfaden: Aufzeichnung von Online‐Konferenzbeiträgen als OER    
 Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **Vorbereitung, Durchführung** und **Nachbereitung** einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.
 ![](MaterialienIntros/Textdokument_Aufzeichnung-Online‐Konferenzbeitraege_OER_CCBY40.jpg)
@@ -386,6 +402,30 @@ Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **V
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *Aufzeichnung von Online‐Konferenzbeiträgen als OER: Ein Praxisleitfaden; von Geurden, Bianca; Görlich, Sarah; Hützen, Nicole; Jahn, Markus; Méndez Parente, Josefine; Nitzsche, Sina; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/d7d698e4-d9e9-47fb-87e4-86283206c982)*
 
+<script>
+"level": {
+    "beginner": true,
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+    "oer_einführen": true,
+    "oer_managen": true,
+  },
+  "media": {
+    "audio": true,
+    "video": true,
+    "textdoc": true,
+    "selbstlernen": true,
+    "webseite": true,
+    "h5p": true,
+    "presentation": true
+  },
+  "titel": "Titel",
+  "inhalt": "Dies ist der Text der Subzeile = Spalte Inhalt.",
+  "link": "[Link zum Abschnitt](#titel-klein-mit-bindestrichen-getrennt)
+});
+</script>
 ---
 <!-- 04 -->
 ### Checkliste: Open Educational Resources erstellen (v2.0) 
