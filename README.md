@@ -28,7 +28,7 @@ Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworte
 
 <script>
 "level": {
-    "beginner": true,
+    "einsteiger": true,
     "praktiker": true,
     "experte": true
   },
