@@ -1,6 +1,5 @@
 <!--
-author:   Your Name
-
+author:   Netzwerk ORCA.nrw
 email:    your@mail.org
 
 icon:     img/icon.png
@@ -9,9 +8,9 @@ version:  0.0.1
 
 language: de
 
-narrator: Deutsch Female
+narrator: Deutsch Male
 
-comment:  Material-Finder basierend auf dem Fischbestimmer.
+comment:  Material-Finder basierend auf dem Fischbestimmer von André Dietrich.
 
 link:     style.css
 
@@ -143,20 +142,11 @@ window.material_filter = function() {
 
 # Material-Finder | Output Netzwerk ORCA.
 
---{{1}}--
-Hallo das ist ein Experiment mit Textausgabe.
 
-
-    {{1-2}}
 Herzlich willkommen auf dieser Seite, die sich im Moment noch im Dummy-Status befindet.\
-Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das Netzwerk ORCA.nrw zusammengetragen hat. Die Nutzunf funktionert über die Filterfunktion, die schon fast funktioniert - die Seitenleiste ist nach Medienarten kategorisiert, auch hier kann man sich inspirieren lassen. Wir freuen uns über Anregungen und Rückfragen, ebenso die Autor:innen der Materialien, und ermuntern ausdrücklich zur Nachnutzung der Materialien
+Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das Netzwerk ORCA.nrw zusammengetragen hat. Die Nutzunf funktionert über die Filterfunktion, die schon fast funktioniert - die Seitenleiste ist nach Medienarten kategorisiert, auch hier kann man sich inspirieren lassen. Wir freuen uns über Anregungen und Rückfragen, ebenso die Autor:innen der Materialien, und ermuntern ausdrücklich zur Nachnutzung der Materialien.
 
-    {{2}}
-![TODO Alternativ-Text](Bilder/Header.png "Fig. 1: Hier kommt eine __Unterschrift__ hin")
-
-* Hier kommt eine Bildunterschrift hin, vielleicht auch eine Legende*
-
-
+![TODO Alternativ-Text](Bilder/Header.png "Fig. 1: Hier kommt eine Bildunterschrift hin, vielleicht auch eine Legende")
 
 
 <details>
@@ -207,9 +197,9 @@ __Medienart__
 
 ---
 
-
 <div id="results"></div>
 
+---
 
 ## Webseiten
 
