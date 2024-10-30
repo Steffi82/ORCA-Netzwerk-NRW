@@ -55,48 +55,10 @@ Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworte
   "link": "beispiel-titel"
 });
 </script>
+ 
+3. Bild vorbereiteten: Basierend auf [hier kommt der Link zum INDD-Dokument) Anpassungen vornehmen und als png Exportieren (Auflösung 72dpi, dann passt das Endformat); Benennung nach Struktur (s. Excel) : Format: Medientyp_Kurztitel_CC-Lizenz
 
-
-<script>
-window.material.push({
-  "level": {
-    "beginner": true,
-    "praktiker": true,
-    "experte": true
-  },
-  "praxiskategorie": {
-    "oer_finden": true,
-    "oer_herstellen": true,
-    "oer_lernen": true,
-    "oer_lehren": true,
-    "oer_einfuehren": true,
-    "oer_managen": true,
-    "oer_forschen": true
-  },
-  "media": {
-    "audio": true,
-    "video": true,
-    "textdoc": true,
-    "selbstlernen": true,
-    "webseite": true,
-    "h5p": true,
-    "presentation": true
-  },
-  "titel": "Beispiel Titel",
-  "inhalt": "Dies ist ein Beispielinhalt für ein Material.",
-  "link": "beispiel-titel"
-});
-</script>
-```
-
-Auf diese Weise bleibt die Liste erhalten und wird bei jedem neuen Materialeintrag um den entsprechenden JSON-Block erweitert.
-
-
-
-
-
-
-
+4. Commit Changes
 
 
 
