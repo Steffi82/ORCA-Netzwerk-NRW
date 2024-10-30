@@ -142,7 +142,6 @@ window.material_filter = function() {
 
 # Material-Finder | Output Netzwerk ORCA.
 
-
 Herzlich willkommen auf dieser Seite, die sich im Moment noch im Dummy-Status befindet.\
 Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstellen, bzw. Jamal, der schon total überzeugt ist von OER, ebenso wie seine 3rd-Space-Mitarbeitenden.Deswegen freuen wir uns alle, dass es diese Sammlung gibt, die das Netzwerk ORCA.nrw zusammengetragen hat. Die Nutzunf funktionert über die Filterfunktion, die schon fast funktioniert - die Seitenleiste ist nach Medienarten kategorisiert, auch hier kann man sich inspirieren lassen. Wir freuen uns über Anregungen und Rückfragen, ebenso die Autor:innen der Materialien, und ermuntern ausdrücklich zur Nachnutzung der Materialien.
 
@@ -238,7 +237,7 @@ window.material.push({
   },
   "titel": "OER Policy‐Karte und Karte der Netzwerkstellen in NRW",
   "inhalt": "Die Karte zeigt Hochschulstandorte der DH.nrw und kennzeichnet solche, die eine OER Policy veröffentlicht haben.",
-  "link": "[Link zum Abschnitt](#oer-policy‐karte-und-karte-der-netzwerkstellen-in-nrw)"
+  "link": "#oer-policy‐karte-und-karte-der-netzwerkstellen-in-nrw"
 });
 </script>
 
@@ -264,7 +263,7 @@ window.material.push({
   "media": {"selbstlernen": true},
   "titel": "infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw",
   "inhalt": "Der Blog enthält kurze informative Beiträge rund um OER, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden.",
-  "link": ""[Link zum Abschnitt](#infoermiert-‐der-oer‐blog-vom-netzwerk-landesportal-orca.nrw.)"
+  "link": "#infoermiert-‐der-oer‐blog-vom-netzwerk-landesportal-orca.nrw."
 });
 </script>
 ---
@@ -306,7 +305,7 @@ Stand: August 2023
   },
   "titel": "OER-Glossar",
   "inhalt": "Dieses Nachschlagewerk erläutert 52 zentrale Begriffe rund um das Thema Open Educational Resources (OER)",
-  "link": ""[Link zum Abschnitt](#oer-glossar)"
+  "link": "#oer-glossar"
 
 ---
 
@@ -337,7 +336,7 @@ The example is based on a German network. You can find out **how the network wor
   },
   "titel": "Learning Snacks: "ORCA.nrw: A University Network for OER"",
   "inhalt": "You can find out **how the german ORCA.nrw-network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.",
-  "link": "[Link zum Abschnitt](#learning-snacks:-"orca.nrw:-a-university-network-for-oer)
+  "link": "#learning-snacks:-"orca.nrw:-a-university-network-for-oer""
 });
 </script>                                                                                                                                                                                               
                                                                                                                                                                                                
@@ -370,7 +369,7 @@ Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educat
   },
   "titel": "OER‐Wissenspool",
   "inhalt": "Der Selbstlernkurs vermittelt in fünf Kategorien Basiswissen zu Open Educational Resources mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für OER-Showcases. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen Installationsanleitungen zur Einbindung ins eigene LMS zur Verfügung.",
-  "link": "[Link zum Abschnitt](#oer‐wissenspool)
+  "link": "#oer‐wissenspool"
 });
 </script>
 ---
@@ -403,23 +402,18 @@ Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **V
     "oer_managen": true,
   },
   "media": {
-    "audio": true,
-    "video": true,
-    "textdoc": true,
-    "selbstlernen": true,
-    "webseite": true,
-    "h5p": true,
-    "presentation": true
+    "textdoc": true,  
   },
-  "titel": "Titel",
-  "inhalt": "Dies ist der Text der Subzeile = Spalte Inhalt.",
-  "link": "[Link zum Abschnitt](#titel-klein-mit-bindestrichen-getrennt)
+  "titel": "Praxisleitfaden: Aufzeichnung von Online‐Konferenzbeiträgen als OER",
+  "inhalt": "Das Textdokument gibt Vortragenden wertvolle Tipps und Tricks für die Vorbereitung, Durchführung und Nachbereitung einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.",
+  "link": "#praxisleitfaden:-aufzeichnung-von-online‐konferenzbeiträgen-als-oer"
 });
 </script>
+
 ---
-<!-- 04 -->
+
 ### Checkliste: Open Educational Resources erstellen (v2.0) 
-Der Zweck dieses `Textdokuments` / Leitfadens ist, Lehrenden eine **Orientierung** zu geben, welche **rechtlichen Maßgaben** Sie einhalten müssen und nach welchen **Qualitätsmerkmalen** Sie OER-Materialien entwickeln und beurteilen können.
+Der Zweck dieses `Textdokuments` / Leitfadens ist, Lehrenden eine **Orientierung** zu geben, welche **rechtlichen Maßgaben** sie einhalten müssen und nach welchen **Qualitätsmerkmalen** sie OER-Materialien entwickeln und beurteilen können.
 ![](MaterialienIntros/Textdokument_Checkliste-OER-erstellen-v2-0_CCBY40.jpg)
 ***`Medienformat:`*** *PDF; Textdokument* ***`erstellt/bearbeitbar mit:`*** *MS Word* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker*<br>
@@ -428,8 +422,27 @@ Der Zweck dieses `Textdokuments` / Leitfadens ist, Lehrenden eine **Orientierung
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *Checkliste Open Educational Resources erstellen (v2.0); von Kobusch,Alexander; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/6c1f1da2-7ff6-4dd6-b87b-0404b980cc50)*
+
+<script>
+"level": {
+    "beginner": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+    "oer_managen": true,
+  },
+  "media": {
+    "textdoc": true,
+   
+  },
+  "titel": "Checkliste: Open Educational Resources erstellen (v2.0)",
+  "inhalt": "Der Leitfadens hat den Zweck, Lehrenden eine Orientierung zu geben, welche rechtlichen Maßgaben sie einhalten müssen und nach welchen Qualitätsmerkmalen sie OER-Materialien entwickeln und beurteilen können.
+",
+  "link": "#checkliste:-open-educational-resources-erstellen-(v2.0)"
+});
+</script>
 ---
-<!-- 06 -->
+
 ### Handreichung: Veröffentlichung von Lehr‐Lern‐Materialien als OER
 Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für andere (Hochschul-) Kontexte angepasst werden**. Es enthält **kompakte Informationen** zu Creative-Commons-Lizenzen und **Tipps** rund um das Urheberrecht zur Publikation von Materialien als OER.
 ![](MaterialienIntros/Textdokument_Veroeffentlichung-LLM-alsOER_CCBYSA40.jpg)
@@ -441,8 +454,25 @@ Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *Veröffentlichung von Lehr‐Lern‐Materialien als OER; von Scherer, Elisabeth; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Twillo](https://www.twillo.de/edusharing/components/render/53d9ee69‐384c‐4ddb‐bfc3‐a906197f5252)*
 
+<script>
+"level": {
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+  },
+  "media": {
+    "textdoc": true,
+   
+  },
+  "titel": "Handreichung: Veröffentlichung von Lehr‐Lern‐Materialien als OER",
+  "inhalt": "Das Textdokument wurde für Lehrende der HHU erstellt, kann aber leicht für andere (Hochschul-) Kontexte angepasst werden. Es enthält kompakte Informationen zu Creative-Commons-Lizenzen und Tipps rund um das Urheberrecht zur Publikation von Materialien als OER.",
+  "link": "#handreichung:-veröffentlichung-von-lehr‐lern‐materialien-als-oer"
+});
+</script>
+
 ---
-<!-- 05 -->
+
 ### Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien 
 Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.
 ![](MaterialienIntros/Textdokument_Erstellung-OER‐Materialien-ORCAnrw_CCBY40.jpg)
@@ -454,46 +484,114 @@ Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nic
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *Handreichung zur Erstellung von OER‐Materialien für ORCA.nrw - Schwerpunkt: Nutzung und Einbettung von nicht offen lizenzierten Materialien; von Josupeit, Christina; Funk, Christian; Anderheide, Marie-Sophie; Meyer, Elisabeth [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1ead1f94-6298-41e6-92c0-d11c30bb19a3)*
 
+<script>
+"level": {
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+  },
+  "media": {
+    "textdoc": true,
+   
+  },
+  "titel": "Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien",
+  "inhalt": "Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.",
+  "link": "#handreichung:-schwerpunkt-nutzung-und-einbettung-von-nicht-offen-lizenzierten-materialien"
+});
+</script>
 
 ---
 
 ## Vorträge / Interviews
 
+Hier folgt noch ein Einleitungstext zur Kategorie
+
 ---
-<!-- 07 -->
+
 ### 33 Minuten für… Das Konzept der Open Educational Resources (OER)  
 Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.
 ![](MaterialienIntros/Video_Coffee_Lectures_Konzept-OER_CCBY40.jpg)
-***`Medienformat:`*** FORMAT z.B. *Video* ***`erstellt/bearbeitbar mit:`*** *Schnittprogrammen* <br>
+***`Medienformat:`*** *Video* ***`erstellt/bearbeitbar mit:`*** *Schnittprogrammen* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter) <br>
-***`Praxiskategorie(n)`*** OER finden; OER herstellen; OER einführen* <br>
+***`Praxiskategorie(n)`*** *OER finden; OER herstellen; OER einführen* <br>
 ***`Metadaten:`*** *Creative Commons Lizenzen; CC-Lizenzen*
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
-> *Coffee Lectures: 33 Minuten für… Offene Lehrmaterialien ‐ "Lehrmaterialien anderer nutzen und eigene teilen ‐ Das Konzept der Open Educational Resources (OER)"; von Spaude, Magdalena; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edusharing/components/render/34a21631‐2963‐4a0c‐a97d‐4c2ed9a1d751)*
+> *Coffee Lectures: 33 Minuten für… Offene Lehrmaterialien ‐ "Lehrmaterialien anderer nutzen und eigene teilen ‐ Das Konzept der Open Educational Resources (OER)"; von Spaude, Magdalena; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Opencast Uni zu Köln](https://player.opencast.uni-koeln.de/822648aa-2cba-422a-9df4-5f6acaede4b3)*
+
+<iframe width="420" height="315"
+src="https://player.opencast.uni-koeln.de/822648aa-2cba-422a-9df4-5f6acaede4b3">
+</iframe>
+
+<script>
+"level": {
+    "einsteiger": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_einfuehren": true,
+  },
+  "media": {
+    "video": true,
+  },
+  "titel": "33 Minuten für… Das Konzept der Open Educational Resources (OER)",
+  "inhalt": "Im Video lernen Sie das Konzept von OER kennen, erfahren, wo Sie OER finden und wie Sie selber die eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen.",
+  "link": "#33-minuten-für…-das-konzept-der-open-educational-resources-(oer)"
+});
+</script>
 
 ---
 
 
----
 
-## Konferenzbeiträge
+## Artikel in (Fach-)Zeitschriften und Konferenzbeiträge
 
 Hier folgt noch ein Einleitungstext zur Kategorie.
 
----
----
 
 
 ---
+### OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen
 
-## Artikel in (Fach-)Zeitschriften
+`Medientyp`
+Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworten.
+![](MaterialienIntros/Textdokument_Umfrage-OER-in-NRW_CCBY40.jpg)
+`Medienformat` *PDF*  
+`erstellt/bearbeitbar mit` *PDF-Editor* <br>
+`Niveaustufe(n)` *Einsteiger (Starter); Praktiker* <br>
+***`Praxiskategorie(n)`*** *OER finden; OER herstellen; OER einführen* <br>
+`Praxiskategorie(n)` *n.a.* <br>
+`Metadaten` *OER Produktion; NRW; Netzwerkstellen; OER Umfrage; Hochschullehrende; Motivation; OER Teilen; OER Veröffentlichung; OER Nutzung; Perspektiven auf OER* <br>
 
-Hier folgt noch ein Einleitungstext zur Kategorie.
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Titel; von Geurden, Bianca; Jahn, Markus; Josupeit, Christina; Schotemeier, Sarah; Weber, Tassja (unter Mitarbeit von Schäfer, S. (Fragebogen und Teilauswertung) und Krüger, A. (Teilauswertung)); [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/89bad355-8af3-48c3-bf15-aa6163127039)*
 
----
----
 
+<script>
+"level": {
+    "einsteiger": true,
+    "praktiker": true,
+    "experte": true
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true
+  },
+  "media": {
+    "textdoc": true,
+  },
+  "titel": "OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen",
+  "inhalt": "Dies ist der Text der Subzeile = Spalte Inhalt.",
+  "link": "#oer-in-nrw---was-motiviert?-was-hindert?-ergebnisse-einer-umfrage-zur-nutzung,-produktion-und-veröffentlichung-von-open-educational-resources-an-hochschulen
+});
+</script>
 
 
 
