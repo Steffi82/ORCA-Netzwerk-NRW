@@ -154,9 +154,9 @@ Wir starten hier mit einem schönen Einleitungstext, in dem wir uns kurz vorstel
 
 __Level__
 
-@[button(level,beginner,Einsteiger)](Bilder/L-Einsteiger.png)
-@[button(level,praktiker,Praktiker)](Bilder/L-Praktiker.png)
-@[button(level,experte,Experte)](Bilder/L-Experte.png)
+@[button(level,beginner,Einsteiger)](Bilder/L-Einsteiger-150x130px.png)
+@[button(level,praktiker,Praktiker)](Bilder/L-Praktiker-150x75px.png)
+@[button(level,experte,Experte)](Bilder/L-Experte-150x130px.png)
 
 </details>
 
@@ -168,13 +168,13 @@ __Level__
 
 __Praxiskategorie__
 
-@[button(praxiskategorie,oer_finden,OER finden)](Bilder/B-1.png)
-@[button(praxiskategorie,oer_herstellen,OER herstellen)](Bilder/B-2.png)
-@[button(praxiskategorie,oer_lernen,Mit OER lernen)](Bilder/B-3.png)
-@[button(praxiskategorie,oer_lehren,Mit OER lehren)](Bilder/B-4.png)
-@[button(praxiskategorie,oer_einfuehren,OER einführen)](Bilder/B-5.png)
-@[button(praxiskategorie,oer_managen,OER managen)](Bilder/B-6.png)
-@[button(praxiskategorie,oer_forschen,Über OER forschen)](Bilder/B-7.png)
+@[button(praxiskategorie,oer_finden,OER finden)](Bilder/OER-finden-100x75.png)
+@[button(praxiskategorie,oer_herstellen,OER herstellen)](Bilder/OER-herstellen-100x75.png)
+@[button(praxiskategorie,oer_lernen,Mit OER lernen)](Bilder/OER-lernen-100x75.png)
+@[button(praxiskategorie,oer_lehren,Mit OER lehren)](Bilder/OER-lehren-100x75.png)
+@[button(praxiskategorie,oer_einfuehren,OER einführen)](Bilder/OER-einfuehren-100x75.png)
+@[button(praxiskategorie,oer_managen,OER managen)](Bilder/OER-managen-100x75.png)
+@[button(praxiskategorie,oer_forschen,Über OER forschen)](Bilder/OER-erforschen-100x75.png)
 
 </details>
 
@@ -185,12 +185,12 @@ __Praxiskategorie__
 __Medienart__
 
 @[button(media,audio,Audio)](Bilder/M-1.png)
-@[button(media,video,Video)](Bilder/M-2.png)
-@[button(media,textdoc,Textdokument)](Bilder/M-3.png)
-@[button(media,selbstlernen,Selbstlernkurs)](Bilder/M-4.png)
-@[button(media,webseite,Webseite)](Bilder/M-5.png)
-@[button(media,h5p,H5P)](Bilder/M-5.png)
-@[button(media,presentation,Praesentation)](Bilder/M-5.png)
+@[button(media,video,Video)](Bilder/M-Video-75x75.png)
+@[button(media,textdoc,Textdokument)](Bilder/M-Textdoc-75x75.png)
+@[button(media,selbstlernen,Selbstlernkurs)](Bilder/M-Selbstlernmaterialien-75x75.png)
+@[button(media,webseite,Webseite)](Bilder/M-Webseiten-75x75.png)
+@[button(media,h5p,H5P)](Bilder/M-H5P-75x75.png)
+@[button(media,presentation,Praesentation)](Bilder/M-PraesiInterview-75x75.png)
 
 </details>
 
