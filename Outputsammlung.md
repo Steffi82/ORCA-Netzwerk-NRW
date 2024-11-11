@@ -42,7 +42,8 @@ window["filter"] = {
     selbstlernen: null,
     webseite: null,
     h5p: null,
-    presentation: null
+    presentation: null,
+    graphik: null
   }
 }
 
@@ -191,6 +192,7 @@ __Medienart__
 @[button(media,webseite,Webseite)](Bilder/M-Webseiten-75x75.png)
 @[button(media,h5p,H5P)](Bilder/M-H5P-75x75.png)
 @[button(media,presentation,Praesentation)](Bilder/M-PraesiInterview-75x75.png)
+@[button(media,presentation,Bilder/Grafik)](Bilder/M-Grafiken-75x75.png)
 
 </details>
 
@@ -512,10 +514,10 @@ Hier folgt noch ein Einleitungstext zur Kategorie
 ### 33 Minuten für… Das Konzept der Open Educational Resources (OER)  
 Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.
 ![](MaterialienIntros/Video_Coffee_Lectures_Konzept-OER_CCBY40.jpg)
-***`Medienformat:`*** *Video* ***`erstellt/bearbeitbar mit:`*** *Schnittprogrammen* <br>
-***`Niveaustufe(n):`*** *Einsteiger (Starter) <br>
-***`Praxiskategorie(n)`*** *OER finden; OER herstellen; OER einführen* <br>
-***`Metadaten:`*** *Creative Commons Lizenzen; CC-Lizenzen*
+**`Medienformat:`** Video **`erstellt/bearbeitbar mit:`** Schnittprogrammen <br>
+**`Niveaustufe(n):`** Einsteiger (Starter) <br>
+**`Praxiskategorie(n)`** OER finden; OER herstellen; OER einführen <br>
+**`Metadaten:`** Creative Commons Lizenzen; CC-Lizenzen
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *Coffee Lectures: 33 Minuten für… Offene Lehrmaterialien ‐ "Lehrmaterialien anderer nutzen und eigene teilen ‐ Das Konzept der Open Educational Resources (OER)"; von Spaude, Magdalena; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Opencast Uni zu Köln](https://player.opencast.uni-koeln.de/822648aa-2cba-422a-9df4-5f6acaede4b3)*
@@ -546,7 +548,7 @@ src="https://player.opencast.uni-koeln.de/822648aa-2cba-422a-9df4-5f6acaede4b3">
 
 
 
-## Artikel in (Fach-)Zeitschriften und Konferenzbeiträge
+## Artikel in (Fach-)Zeitschriften/Blogs und Konferenzbeiträge
 
 Hier folgt noch ein Einleitungstext zur Kategorie.
 
@@ -593,11 +595,102 @@ Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworte
 });
 </script>
 
-
-
-
 ---
 
+## Audio
+
+In diese Kategorie fallen sowohl Musikstücke als auch Podcasts und sonstige Tondokumente.
+
+---
+### Titel
+
+`Medientyp`
+Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworten.
+![](MaterialienIntros//Audio_OER-Tracks_CCBY.png)
+**`Medienformat` XYZ  
+**`erstellt/bearbeitbar mit` XYZ <br>
+**`Niveaustufe(n)` XYZ <br> 
+**`Praxiskategorie(n)`XYZ <br>
+**`Metadaten`** ABC; DEF; GHI <br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Titel; von Name, Vorname; Name, Vorname; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Ursprungsort](https://www.link)*
+
+
+<script>
+"level": {
+    "einsteiger": true,
+    "praktiker": true,
+    "experte": true
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true
+  },
+  "media": {
+    "audio": true,
+    "video": true,
+    "textdoc": true,
+    "selbstlernen": true,
+    "webseite": true,
+    "h5p": true,
+    "presentation": true
+  },
+  "titel": "Titel",
+  "inhalt": "Dies ist der Text der Subzeile = Spalte Inhalt.",
+  "link": "[Link zum Abschnitt](#titel-klein-mit-bindestrichen-getrennt)
+});
+</script>
+
+---
+### zugehOERt 080: ORCA.nrw - Zur Plattform und dem dahinterstehenden Netzwerk
+
+`Podcast`
+Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworten.
+![](MaterialienIntros/Audio_Zugehoert-080_CCBY.png)
+`Medienformat` XYZ  
+`erstellt/bearbeitbar mit` XYZ <br>
+`Niveaustufe(n)` Einsteiger, Praktiker <br> 
+`Praxiskategorie(n)` OER finden, mit OER lernen<br>
+`Metadaten` Netzwerk; ORCA.nrw; Service; Herausforderungen; Plattform; zugehOERt!; Podcast; Hochschule <br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*zugehOERt 080: ORCA.nrw - Zur Plattform und dem dahinterstehenden Netzwerk; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [OER-Info](https://open-educational-resources.de/zugehoert-080-orca-nrw/)*
+
+
+<script>
+"level": {
+    "einsteiger": true,
+    "praktiker": true,
+  
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    
+  },
+  "media": {
+    "audio": true,
+    "video": true,
+    "textdoc": true,
+    "selbstlernen": true,
+    "webseite": true,
+    "h5p": true,
+    "presentation": true
+  },
+  "titel": "Titel",
+  "inhalt": "Dies ist der Text der Subzeile = Spalte Inhalt.",
+  "link": "[Link zum Abschnitt](#titel-klein-mit-bindestrichen-getrennt)
+});
+</script>
 
 
 # Impressum
