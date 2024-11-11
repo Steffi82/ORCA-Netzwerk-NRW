@@ -16,11 +16,10 @@ daraus lassen sich alle Informationen speisen, die für den Beitrag benötigt we
 `Medientyp`
 Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworten.
 ![](MaterialienIntros/Bild-Dateiname_CC.png)
-`Medienformat` XYZ  
-`erstellt/bearbeitbar mit` XYZ <br>
-`Niveaustufe(n)` XYZ <br> 
-`Praxiskategorie(n)`XYZ <br>
-`Metadaten` ABC; DEF; GHI <br>
+**`Medienformat`** XYZ **`erstellt/bearbeitbar mit`** XYZ <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br> 
+**`Praxiskategorie(n)`** OER finden, OER herstellen, mit OER lernen, mit OER lehren, OER einführen, OER managen; über OER forschen <br>
+**`Metadaten`** ABC; DEF; GHI <br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
 >*Titel; von Name, Vorname; Name, Vorname; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Ursprungsort](https://www.link)*
