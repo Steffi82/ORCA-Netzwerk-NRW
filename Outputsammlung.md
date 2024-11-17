@@ -144,7 +144,7 @@ window.material_filter = function() {
 
 Willkommen beim Output des Netzwerk ORCA.nrw! <br>
 
-Das **Netzwerk ORCA.nrw** hat während seiner Projektlaufzeit (2020 bis 2024)zahlreiche Materialien rund um offene Bildungsmaterialien (OER) entwickelt und gesammelt. Ziel war es, Lehrende und Lernende dabei zu unterstützen, OER in der Praxis einzusetzen und weiterzuentwickeln.<br>
+Das **Netzwerk ORCA.nrw** hat während seiner Projektlaufzeit (2020 bis 2024) zahlreiche Materialien rund um offene Bildungsmaterialien (OER) entwickelt und gesammelt. Ziel war es, Lehrende und Lernende dabei zu unterstützen, OER in der Praxis einzusetzen und weiterzuentwickeln.<br>
 Diese Sammlung bietet Ihnen Orientierung und Ideen: **Einsteiger:innen** finden einen leichten Zugang zum Thema OER, **Praktiker:innen** Vorlagen und Muster zur Nachnutzung, und **Expert:innen** können sich inspirieren lassen oder neue Anknüpfungspunkte entdecken. Wir betrachten diese Rollen als fließend – entscheiden Sie situativ und nutzen Sie die Materialien so, wie es für Sie passt!<br>
 
 Transparenz liegt uns am Herzen: Nicht alle Materialien, die das Netzwerk produziert hat, stehen unter freier Lizenz. Einige verlinken wir trotzdem, um sie sichtbar zu machen und so für mehr Offenheit in der Bildungslandschaft zu sorgen.
@@ -211,15 +211,13 @@ __Medienart__
 
 ## Webseiten
 
-Hier folgt noch ein Einleitungstext zur Kategorie.
+Hier sammeln sich digitalen, code-basierte Ressourcen (vor allem HTML und Markdown-basiert), wie Blogs oder Git-Hub-Repositorien.
 
 ---
 
-
-
 ### OER Policy‐Karte und Karte der Netzwerkstellen in NRW
 
-`Webseite`
+`Webseite`<br>
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.<br>
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.png)
 `Medienformat` HTML  
@@ -255,7 +253,7 @@ window.material.push({
 
 ### infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.
 
-Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.
+Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.<br><br>
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.png)
 **`Medienformat`** 
 E-Book
