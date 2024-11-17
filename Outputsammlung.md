@@ -215,7 +215,7 @@ __Medienart__
 </div>
 
 Jedes Material wird übersichtlich präsentiert: Eine kurze **Beschreibung**, **ein Screenshot** und die **Lizenzangabe** geben Orientierung, während die Farben der **Medienarten** sich auf die Bühne übertragen.
-
+<br>
 Die Materialien sind zusätzlich nach **Niveaustufen** eingeordnet, um sie passend zum Erfahrungsstand der Nutzer:innen zu kategorisieren:
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -232,7 +232,7 @@ Die Materialien sind zusätzlich nach **Niveaustufen** eingeordnet, um sie passe
   <img src="Bilder/L-Experte-150x130px.png" alt="Expert:innen" style="height: 50px; margin-right: 10px;">
   <strong>Expert:innen:</strong> können spezialisierte Inhalte und Analysen entdecken.
 </div>
-
+<br>
 Die **Praxiskategorien**, basierend auf [OERinfo](http://www.oer-info.de), unterstützen dabei, OER in unterschiedlichen Bereichen einzusetzen und weiterzuentwickeln:
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -269,32 +269,8 @@ Die **Praxiskategorien**, basierend auf [OERinfo](http://www.oer-info.de), unter
   <img src="Bilder/OER-erforschen-100x75.png" alt="Über OER forschen" style="height: 50px; margin-right: 10px;">
   <strong>Über OER forschen:</strong> Ressourcen und Studien, um das Potenzial und die Wirkung von OER zu analysieren.
 </div>
-
+<br>
 **Dr. Jamal Groenstein**, Protagonist einiger Materialien des Netzwerks ORCA.nrw, begleitet Sie mit praxisnahen Hinweisen und Tipps, wie die Materialien sinnvoll genutzt werden können – sei es für die eigene Weiterbildung, die Lehre oder zur Weitergabe an Kolleg:innen.
-
-
-
-# Legende
-
-![](Bilder/Mats_Netzwerk_Kategorien_Legende.png)<br>
-Jedes Material wird übersichtlich präsentiert: Eine kurze **Beschreibung**, **ein Screenshot** und die **Lizenzangabe** geben Orientierung, während die Farben der **Medienarten** sich auf die Bühne übertragen.<br>
-Die Materialien sind zusätzlich nach **Niveaustufen** eingeordnet, um sie passend zum Erfahrungsstand der Nutzer:innen zu kategorisieren: 
-
-- ![](Bilder/L-Einsteiger-150x130px.png) **Einsteiger:innen** erhalten grundlegende Anleitungen<br><br>
-- ![](Bilder/L-Praktiker-150x75px.png) **Praktiker:innen** finden praxisnahe Vorlagen<br>
-- ![](Bilder/L-Experte-150x130px.pngg) **Expert:innen** können spezialisierte Inhalte und Analysen entdecken.<br>
-
-Die **Praxiskategorien**, basierend auf [OERinfo](http://www.oer-info.de), unterstützen dabei, OER in unterschiedlichen Bereichen einzusetzen und weiterzuentwickeln:  
-
-- ![](Bilder/OER-finden-100x75.png) **OER finden**: Ressourcen und Strategien, um offene Bildungsmaterialien einfach zu lokalisieren und zu identifizieren.  
-- ![](Bilder/OER-herstellen-100x75.png)**OER herstellen**: Hilfestellungen zur Erstellung eigener OER, inklusive rechtlicher und technischer Grundlagen.  
-- ![](Bilder/OER-lehren-100x75.png) **Mit OER lehren**: Methoden und Beispiele, wie OER in Lehrveranstaltungen effektiv genutzt werden können.  
-- ![](Bilder/OER-lernen-100x75.png) **Mit OER lernen**: Materialien zur Unterstützung des Selbststudiums und zur Förderung individueller Lernprozesse.  
-- ![](Bilder/OER-einfuehren-100x75.png) **OER einführen**: Strategien und Ansätze, um OER in Institutionen oder Organisationen nachhaltig zu implementieren.  
-- ![](Bilder/OER-managen-100x75.png) **OER managen**: Werkzeuge und Ansätze für die Verwaltung und Qualitätssicherung von OER.  
-- ![](Bilder/OER-erforschen-100x75.png) **Über OER forschen**: Ressourcen und Studien, um das Potenzial und die Wirkung von OER zu analysieren.  
-
-**Dr. Jamal Groenstein**, Protagonist einiger Materialien des Netzwerks ORCA.nrw, begleitet Sie mit praxisnahen Hinweisen und Tipps, wie die Materialien sinnvoll genutzt werden können – sei es für die eigene Weiterbildung, die Lehre oder zur Weitergabe an Kolleg:innen.  
 
 ---
 
