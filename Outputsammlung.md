@@ -840,6 +840,153 @@ Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworte
 
 ---
 
+### Sichtbarkeit von Open Educational Culture an Hochschulen
+`Textdokument`: Open Educational Culture (OEC) bedeutet, dass Wissen und Ressourcen frei und offen geteilt werden, um den Bildungszugang für alle leichter zu machen. In diesen Texten wird aufgezeigt, wo eine solche Open Educational Culture an Hochschulen sichtbar wird und weshalb sie sinnvoll ist.<br><br>
+![](MaterialienIntros/Textdokument_Sichtbarkeit-OEC-an-HS_CCBY.png)<br>
+**`Medienformat`** Word-Dokument **`erstellt/bearbeitbar mit`** MS Word <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
+**`Praxiskategorie(n)`** Mit OER lehren, OER managen, zu OER forschen<br>
+**`Metadaten`** tbd<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Sichtbarkeit von Open Educational Culture an Hochschulen; von Jahn, Markus; Kober, Sabine; Reichardt, Gabi; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/aa67b800-5e36-40bf-a4d0-590ec4f40b11 )*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true, "experte": true,
+  "praxiskategorie": "oer_lehren": true,
+"oer_managen": true,
+"oer_forschen": true,
+  "media": {""textdoc": true,": true},
+  "titel": "Sichtbarkeit von Open Educational Culture an Hochschulen",
+  "inhalt": "Open Educational Culture (OEC) bedeutet, dass Wissen und Ressourcen frei und offen geteilt werden, um den Bildungszugang für alle leichter zu machen. In diesen Texten wird aufgezeigt, wo eine solche Open Educational Culture an Hochschulen sichtbar wird und weshalb sie sinnvoll ist.",
+  "link": "#sichtbarkeit-von-open-educational-culture-an-hochschulen"
+});
+</script>
+
+---
+
+### Unser Werteverständnis - Open Educational Culture
+`Textdokument`zur Frage: Was bedeutet eine "Open Educational Culture" im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema **Open Educational Culture**, seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der **kondensierten Werte, Einstellungen und Verhaltensweisen**, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert:innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede:n Einzelne:n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur*innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.<br><br>
+![](MaterialienIntros/Textdokument_Werteverstaendnis-OEC_CCBY.png)<br>
+**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Experte<br>
+**`Praxiskategorie(n)`** OER einführen, OER managen, zu OER forschen<br>
+**`Metadaten`** tbd<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Unser Werteverständnis - Open Educational Culture; von Geurden, Bianca; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/0aec2d6e-e83e-4124-91ee-39a2b2449e0c)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+ "experte": true,
+  "praxiskategorie": "oer_einfuehren": true,
+"oer_managen": true,
+"oer_forschen": true,
+  "media": {""textdoc": true,": true},
+  "titel": "Unser Werteverständnis - Open Educational Culture",
+  "inhalt": "Was bedeutet eine "Open Educational Culture" im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema "Open Educational Culture", seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der kondensierten Werte, Einstellungen und Verhaltensweisen, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert*innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede*n Einzelne*n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur*innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.",
+  "link": "#unser-werteverstaendnis---open-educational-culture"
+});
+</script>
+
+---
+
+### Den Bedenken zu OER begegnen
+`Textdokument`: Wer darüber nachdenkt, Open Educational Resources (OER) selbst zu nutzen, zu bearbeiten oder neu zu erstellen, entdeckt schnell, dass es eine Reihe von technischen, inhaltlichen oder rechtlichen Bedenken hierzu geben kann. In diesem Text geht es darum, sie  aufzugreifen, zu beleuchten und ihnen konstruktiv zu begegnen. Aus der Diversität der Perspektiven auf das Thema resultieren unterschiedliche Herangehensweisen und Stilrichtungen in den einzelnen Kapiteln.<br><br>
+![](MaterialienIntros/Textdokument_Bedenken-zu-OER-begegnen_CCBY.png)<br>
+**`Medienformat`** Word-Dokument **`erstellt/bearbeitbar mit`** PDF-Editor<br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
+**`Praxiskategorie(n)`** OER einführen, OER managen, zu OER forschen<br>
+**`Metadaten`** OER Produktion; Open Educational Culture; Kultur des Teilens; Rechtlicher Rahmen; KI; Bedenken begegnen; Persönliche Bedenken; OER-Inhalt; Technik<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Den Bedenken zu OER begegnen; von Jahn, Markus; Kober, Sabine; Schotemeier, Sarah;  Schütgens; Robin; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/6d7baa1b-07cf-497a-a10b-69e3deb0489d)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true, "experte": true,
+  "praxiskategorie": "oer_einfuehren": true,
+"oer_managen": true,
+"oer_forschen": true,
+  "media": {""textdoc": true,": true},
+  "titel": "Den Bedenken zu OER begegnen",
+  "inhalt": "Wer darüber nachdenkt, Open Educational Resources (OER) selbst zu nutzen, zu bearbeiten oder neu zu erstellen, entdeckt schnell, dass es eine Reihe von technischen, inhaltlichen oder rechtlichen Bedenken hierzu geben kann. In diesem Text geht es darum, sie  aufzugreifen, zu beleuchten und ihnen konstruktiv zu begegnen. Aus der Diversität der Perspektiven auf das Thema resultieren unterschiedliche Herangehensweisen und Stilrichtungen in den einzelnen Kapiteln.",
+  "link": "#den-bedenken-zu-oer-begegnen"
+});
+</script>
+
+---
+
+### Trainingskonzept: Feedback zu OER geben mit dem OER-Feedbackrad
+`Textdokument`: Mit dem OER-Feedbackrad trainieren Lehrende, sich gegenseitig zu einer selbst erstellten Open Educational Resource Feedback zu geben. Dabei können sie den Fokus im Gespräch auf unterschiedliche Kategorien legen. Alternativ kann hiermit zu einer gefundenen/bereitgestellten OER Feedback gegeben werden.<br><br>
+![](MaterialienIntros/Textdokument_Feedbackrad_CCBY.png)<br>
+**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
+**`Praxiskategorie(n)`** OER herstellen, mit OER lehren, OER managen, zu OER forschen<br>
+**`Metadaten`** Feedback; Feedbackkultur; OER-Feedbackrad; Open Educationals Culture; OEC; Kultur des Teilens; OER; Trainingskonzept<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Trainingskonzept: Feedback zu OER geben mit dem OER-Feedbackrad; von Geurden, Bianca; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/f1ae38bf-aa63-4116-a607-dbd9ce02c0a5)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true, "experte": true,
+  "praxiskategorie": 
+"oer_herstellen": true,
+"oer_lehren": true,
+"oer_managen": true,
+"oer_forschen": true,
+  "media": {""textdoc": true,": true},
+  "titel": "Trainingskonzept: Feedback zu OER geben mit dem OER-Feedbackrad",
+  "inhalt": "Mit dem OER-Feedbackrad trainieren Lehrende, sich gegenseitig zu einer selbst erstellten Open Educational Resource Feedback zu geben. Dabei können sie den Fokus im Gespräch auf unterschiedliche Kategorien legen. Alternativ kann hiermit zu einer gefundenen/bereitgestellten OER Feedback gegeben werden.",
+  "link": "#trainingskonzept:-feedback-zu-oer-geben-mit-dem-oer-feedbackrad"
+});
+</script>
+
+
+### Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können
+`"textdoc": true,`
+Diese `Handreichung` ist das Ergebnis einer Kooperation im Rahmen des Netzwerks, den OER-Expert:innen der NRW-Hochschulen, im Open Resources Campus NRW (ORCA.nrw). Hierbei widmen sich die OER-Expert:innen der Etablierung und Unterstützung einer Open Educational Culture an Universitäten, Hochschulen für Angewandte Wissenschaften sowie Musik- und Kunsthochschulen und geben **praktische Tipps und Anleitungen**, wie das gelingen kann. Das vorliegende Dokument, das Teil der Handlungsempfehlungen ist, beschäftigt sich mit dem Aspekt, wie **Austauschformate** zur Förderung einer Open Educational Culture an der Hochschule beitragen können. Es richtet sich primär an **OER-Multiplikator:innen**, die an ihren Bildungseinrichtungen eine **Open Educational Culture** fördern wollen.<br><br>
+![](MaterialienIntros/Textdokument_Austauschformate-Foerderung-OEC-HS_CCBY.png)<br>
+**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
+**`Niveaustufe(n)`** Praktiker<br>
+**`Praxiskategorie(n)`** OER finden, mit OER lehren, OER managen, zu OER forschen<br>
+**`Metadaten`** OER; Open Educationals Cuture; Kultur des Teilens; Offenheit; Austauschformate; Beratung; Innovation; Diffusionstheorie<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können; von Heckmann, Henrike; Hörmann, Irina; Jahn,  Markus; Méndez Parente, Josefine; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/528057a1-414b-4fd0-a39d-f49b10a3adaf )*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": 
+"praktiker": true, "experte": true,
+  "praxiskategorie": "oer_finden": true,
+"oer_lehren": true,
+"oer_managen": true,
+"oer_forschen": true,
+  "media": {""textdoc": true,": true},
+  "titel": "Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können",
+  "inhalt": "Diese Handreichung ist das Ergebnis einer Kooperation im Rahmen des Netzwerks, den OER-Expert*innen der NRW-Hochschulen, im Open Resources Campus NRW (ORCA.nrw). Hierbei widmen sich die OER-Expert*innen der Etablierung und Unterstützung einer Open Educational Culture an Universitäten, Hochschulen für Angewandte Wissenschaften sowie Musik- und Kunsthochschulen und geben praktische Tipps und Anleitungen, wie das gelingen kann.
+Im vorliegenden Dokument, das Teil der Handlungsempfehlungen ist, beschäftigen wir uns mit dem Aspekt, wie Austauschformate zur Förderung einer Open Educational Culture an der Hochschule beitragen können.
+Dieser Handreichungsteil richtet sich primär an OER-Multiplikator*innen, die an ihren Bildungseinrichtungen eine Open Educational Culture fördern wollen.",
+  "link": "#wie-austauschformate-zur-foerderung-einer-open-educational-culture-an-hochschulen-beitragen-koennen"
+});
+</script>
+
+
+---
+---
+
 ## Audio
 
 In diese Kategorie fallen sowohl Musikstücke als auch Podcasts und sonstige Tondokumente.
