@@ -558,8 +558,8 @@ window.material.push({
 ---
 
 ### Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien
-Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.
-![](MaterialienIntros/Textdokument_Erstellung-OER‐Materialien-ORCAnrw_CCBY40.png)
+Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.<br><br>
+![](MaterialienIntros/Textdokument_Erstellung-OER‐Materialien-ORCAnrw_CCBY40.png)<br>
 **`Medienformat`** PDF, Textdokument **`erstellt/bearbeitbar mit`** MS Word <br>
 **`Niveaustufe(n)`** Praktiker<br>
 **`Praxiskategorie(n)`** OER herstellen<br>
@@ -579,6 +579,66 @@ window.material.push({
   "link": "#handreichung:-schwerpunkt-nutzung-und-einbettung-von-nicht-offen-lizenzierten-materialien"
 });
 </script>
+
+---
+
+### ORCA.nrw: Strategische Ansätze zur Entwicklung von OER-Policies an Hochschulen in NRW. 
+
+Das 'Kurzportrait' zum Landesportal ORCA.nrw bringt die Vorzüge der sozio-technischen Infrastrukturmaßnahme auf den Punkt.<br><br>
+![](MaterialienIntros/Textdokument_ORCA-StrategischeAnsaetze-Entwicklung-OER-Policy-NRW_CCBYSA.png)<br>
+**`Medienformat`** PDF; Konferenz-Beitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
+**`Niveaustufe(n)`** Einsteiger, Praktiker<br>
+**`Praxiskategorie(n)`** OER einführen, OER managen<br>
+**`Metadaten`** Open Educational Resources; OER; Strategie; Policy; OER-Policy; NRW<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*ORCA.nrw: Strategische Ansätze zur Entwicklung von OER-Policies an Hochschulen in NRW. ; von Kobusch, Alexander; Halm, Linda; Nitzsche, Sina; Scherer, Elisabeth; Görlich, Sarah; Hörman, Irina; Liebscher, Julia; Schaffeld, Laura; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [HFD](https://hochschulforumdigitalisierung.de/sites/default/files/dateien/SD_03_Einzel.pdf)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true, ,
+  "praxiskategorie": "oer_einfuehren": true,
+"oer_managen": true,,
+  "media": {""textdoc": true,": true},
+  "titel": "ORCA.nrw: Strategische Ansätze zur Entwicklung von OER-Policies an Hochschulen in NRW. ",
+  "inhalt": "Das Kurzportraut zum Landesportal ORCA.nrw bringt die Vorzüge der sozio-technischen Infrastrukturmaßnahme auf den Punkt.",
+  "link": "#orca.nrw:-strategische-ansaetze-zur-entwicklung-von-oer-policies-an-hochschulen-in-nrw.-"
+});
+</script>
+
+---
+
+### Das Landesportal ORCA.nrw. Eine Plattform – 37 Hochschulen – ein Netzwerk
+
+Der 'Beitrag' beleuchtet die **Entwicklung des Landesportals ORCA.nrw**, das eine zentrale Plattform für Open Educational Resources (OER) für Hochschulen in Nordrhein-Westfalen bereitstellt. Ziel ist es, durch eine **gemeinschaftlich getragene Infrastruktur** Lehrmaterialien, Informationen und Services digital zugänglich zu machen und die **Zusammenarbeit zwischen Hochschulen** zu fördern. Die **lokale Vernetzung und institutionelle Begleitung** der Lehrenden unterstützen die Nutzung und Erstellung von OER und tragen zur digitalen Transformation im Bildungsbereich bei.<br><br>
+![](MaterialienIntros/Textdokument_Landesportal-ORCA-Netzwerk-CCBYNCND.png)<br>
+**`Medienformat`** PDF, Tagungsbeitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
+**`Niveaustufe(n)`** "praktiker": true, "experte": true<br>
+**`Praxiskategorie(n)`** "oer_managen": true,<br>
+**`Metadaten`** OER; Zusammenarbeit; Digitalisierung der Hochschullehre; Netzwerk; ORCA.nrw; Community-Building<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Das Landesportal ORCA.nrw. Eine Plattform – 37 Hochschulen – ein Netzwerk; von Eube, Cornelia; Kobusch, Alexander; Rosenthal, Florian; Scherer, Elisabeth; Spaude, Magdalena; [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/); Link führt zu [Zenodo](https://zenodo.org/records/5004445)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "praktiker": true, "experte": true,
+  "praxiskategorie": "oer_managen": true,,
+  "media": {""textdoc": true,": true},
+  "titel": "Das Landesportal ORCA.nrw. Eine Plattform – 37 Hochschulen – ein Netzwerk",
+  "inhalt": "Der 'Beitrag' beleuchtet die **Entwicklung des Landesportals ORCA.nrw**, das eine zentrale Plattform für Open Educational Resources (OER) für Hochschulen in Nordrhein-Westfalen bereitstellt. Ziel ist es, durch eine **gemeinschaftlich getragene Infrastruktur** Lehrmaterialien, Informationen und Services digital zugänglich zu machen und die **Zusammenarbeit zwischen Hochschulen** zu fördern. Die **lokale Vernetzung und institutionelle Begleitung** der Lehrenden unterstützen die Nutzung und Erstellung von OER und tragen zur digitalen Transformation im Bildungsbereich bei.",
+  "link": "#das-landesportal-orca.nrw.-eine-plattform-–-37-hochschulen-–-ein-netzwerk"
+});
+</script>
+
+---
+
+
+
+
 
 
 
