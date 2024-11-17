@@ -250,7 +250,7 @@ window.material.push({
 ---
 
 
-### infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.
+### infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.<br><br>
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.png)<br>
 **`Medienformat`** E-Book, PDF, HTML **`erstellt/bearbeitbar mit`** Web-Editor <br>
@@ -582,7 +582,7 @@ window.material.push({
 
 ---
 
-### ORCA.nrw: Strategische Ansätze zur Entwicklung von OER-Policies an Hochschulen in NRW. 
+### ORCA.nrw: Strategische Ansätze zur Entwicklung von OER-Policies an Hochschulen in NRW 
 
 Das 'Kurzportrait' zum Landesportal ORCA.nrw bringt die Vorzüge der sozio-technischen Infrastrukturmaßnahme auf den Punkt.<br><br>
 ![](MaterialienIntros/Textdokument_ORCA-StrategischeAnsaetze-Entwicklung-OER-Policy-NRW_CCBYSA.png)<br>
@@ -636,7 +636,7 @@ window.material.push({
 
 ---
 
-### The ORCA Ecosystem – Advancing the mission of OER together through competences in the network.
+### The ORCA Ecosystem – Advancing the mission of OER together through competences in the network
 Der **Artikel in englischer Sprache** beleuchtet das  Projekt ORCA.nrw, das als digitales Landesportal für Hochschulen in NRW **offene Bildungsressourcen (OER)** sowie **zielgruppenspezifische Informationen und Services** bereitstellt. ORCA.nrw vereint die Digitalisierungsprojekte der Hochschulen in einer gemeinsamen technischen und personellen Infrastruktur. Die **lokalen Netzwerkstellen** an den Hochschulen fördern die Nutzung und Integration der Angebote in die Lehre und stärken durch ihre Zusammenarbeit die Innovationskraft im ORCA-Ökosystem.<br><br>
 ![](MaterialienIntros/Textdokument_ORCA-Ecosystem_ALLERECHTEVORBEHALTEN)<br>
 **`Medienformat`** PDF; Konferenz-Beitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
@@ -693,7 +693,7 @@ window.material.push({
 
 ---
 
-### Das Potenzial freier Bildungsmaterialien. 
+### Das Potenzial freier Bildungsmaterialien
 Die 'hochschuldidaktische Beilage', in der der Artikel erscheint, widmet sich **dem Potenzial und der Förderung von Open Educational Resources** (OER) in der Hochschullehre und hebt die Bedeutung einer **Kultur des Teilens** hervor. Lehrende profitieren von der kollaborativen Nutzung und Weiterentwicklung offen lizensierter Materialien. Die **Vernetzung und der Erfahrungsaustausch**, gefördert durch das Landesportal ORCA.nrw und die Community of Practice, stärken innovative Lehr- und Lernansätze.<br><br>
 ![](MaterialienIntros/Textdokument_Potenzial-LeNi_ALLERECHTEVORBEHALTEN.png)<br>
 **`Medienformat`** PDF; Artikel-Beitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
@@ -719,7 +719,7 @@ window.material.push({
 
 ---
 
-### „Lehr- und Lernmaterialien frei Haus: Open Educational Resources.“
+### Lehr- und Lernmaterialien frei Haus: Open Educational Resources
 Der ‘Beitrag‘ im Jahrbuch der FH Dortmund stellt **Open Educational Resources (OER)** vor und zeigt, wie frei verfügbare, lizenzierte Lehrmaterialien **den Hochschulalltag bereichern** können. Durch OER können Lehrende Inhalte flexibel nutzen, anpassen und teilen, was den **Wissensaustausch über Lehre fördert** fördert und Lernmaterialien einfach zugänglich macht. Ein besonderer Fokus liegt auf dem **Landesportal ORCA.nrw**, das Lehrenden und Studierenden in NRW eine **zentrale Anlaufstelle** für hochwertige, offene Bildungsmaterialien bietet.<br><br>
 ![](MaterialienIntros/Textdokument_LLM-frei-Haus-OER_CCBY.png)<br>
 **`Medienformat`** E-Zine **`erstellt/bearbeitbar mit`** unbekannt <br>
