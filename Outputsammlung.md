@@ -211,20 +211,20 @@ __Medienart__
 
 ## Webseiten
 
-Hier sammeln sich digitalen, code-basierte Ressourcen (vor allem HTML und Markdown-basiert), wie Blogs oder Git-Hub-Repositorien.
+Hier sammeln sich digitale, code-basierte Ressourcen (vor allem HTML und Markdown-basiert), wie Blogs oder Git-Hub-Repositorien.
 
 ---
 
 ### OER Policy‐Karte und Karte der Netzwerkstellen in NRW
 
 `Webseite`<br>
-Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.<br>
-![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.png)
+Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.<br><br>
+![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.png)<br>
 `Medienformat` HTML  
-`erstellt/bearbeitbar mit` Web-Editor <br>
-`Niveaustufe(n)` Einsteiger (Starter) <br> 
-`Praxiskategorie(n)`OER managen <br>
-`Metadaten` Karte; HTML; Farbschema; OER-Policy; DH.nrw <br>
+`erstellt/bearbeitbar mit` Web-Editor<br>
+`Niveaustufe(n)` Einsteiger (Starter)<br> 
+`Praxiskategorie(n)`OER managen<br>
+`Metadaten` Karte; HTML; Farbschema; OER-Policy; DH.nrw<br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
 >*OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
@@ -254,21 +254,10 @@ window.material.push({
 ### infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.
 
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.<br><br>
-![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.png)
-**`Medienformat`** 
-E-Book
-PDF
-HTML **`erstellt/bearbeitbar mit`** Web-Editor <br>
-**`Niveaustufe(n)`** "einsteiger": true,
-"praktiker": true,
-"experte": true,<br>
-**`Praxiskategorie(n)`** "oer_finden": true,
-"oer_herstellen": true,
-"oer_lernen": true,
-"oer_lehren": true,
-"oer_einfuehren": true,
-"oer_managen": true,
-"oer_forschen": true<br>
+![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.png)<br>
+**`Medienformat`** E-Book, PDF, HTML **`erstellt/bearbeitbar mit`** Web-Editor <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
+**`Praxiskategorie(n)`** OER finden; OER herstellen; mit OER Lernen, mit OER lehren, OER einführen, OER managen, über OER forschen<br>
 **`Metadaten`** OER; ORCA.nrw; Materialtipp; Praxiswerkstatt; Creative Commons; CC-Lizenz; Lizenzhinweis; OER-Policy; OER-Content<br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
@@ -293,6 +282,93 @@ window.material.push({
   "link": "#infoermiert-‐-der-oer‐blog-vom-netzwerk-landesportal-orca.nrw."
 });
 </script>
+
+---
+
+### Open Educational Resources in der Japanologie
+
+Der auf der 'Projektwebseite' verfügbare Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.<br><br>
+![](MaterialienIntros/Praesentation_OER-Japanologie_CCBYSA)<br>
+**`Medienformat`** HTML, Präsentation **`erstellt/bearbeitbar mit`** unbekannt <br>
+**`Niveaustufe(n)`** Einsteiger (Starter)<br>
+**`Praxiskategorie(n)`** OER finden; OER hersellen; mit OER lernen; mit OER lehren; OER einführen<br>
+**`Metadaten`** Open Educational Resources; OER; Japanologie; Creative Commons; Kultur des Teilens; Digitale Lehrmaterialien; Digitale Lernmaterialien; Bildungsmaterialien<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Open Educational Resources in der Japanologie; von Scherer, Elisabeth; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Projektwebseite JVMG](https://jvmg.iuk.hdm-stuttgart.de/2022/09/07/presenting-at-the-18-deutschsprachigen-japanologentag/)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,
+"oer_lernen": true,
+"oer_lehren": true,
+"oer_einfuehren": true,,
+  "media": {""webseite": true,": true},
+  "titel": "Open Educational Resources in der Japanologie",
+  "inhalt": "Der Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.",
+  "link": "#open-educational-resources-in-der-japanologie"
+});
+</script>
+
+### Open Educational Resources in der Japanologie
+
+Text folgt.<br><br>
+![](MaterialienIntros/Praesentation_OER-Japanologie_CCBYSA)<br>
+**`Medienformat`** HTML, Präsentation **`erstellt/bearbeitbar mit`** unbekannt <br>
+**`Niveaustufe(n)`** Einsteiger (Starter)<br>
+**`Praxiskategorie(n)`** OER finden; OER hersellen; mit OER lernen; mit OER lehren; OER einführen<br>
+**`Metadaten`** Open Educational Resources; OER; Japanologie; Creative Commons; Kultur des Teilens; Digitale Lehrmaterialien; Digitale Lernmaterialien; Bildungsmaterialien<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Open Educational Resources in der Japanologie; von Scherer, Elisabeth; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Projektwebseite JVMG](https://jvmg.iuk.hdm-stuttgart.de/2022/09/07/presenting-at-the-18-deutschsprachigen-japanologentag/)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,
+"oer_lernen": true,
+"oer_lehren": true,
+"oer_einfuehren": true,,
+  "media": {""webseite": true,": true},
+  "titel": "Open Educational Resources in der Japanologie",
+  "inhalt": "Der Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.",
+  "link": "#open-educational-resources-in-der-japanologie"
+});
+</script> 
+
+### OER-Policy Kit
+
+`Textdokument`
+Immer mehr Hochschulen bekennen sich zu Openness und wollen mit einer OER-Policy das Erstellen und Teilen von OER unterstützen. Das Policy Kit ist ein Leitfaden, der **in sieben Schritten** die Entwicklung einer OER-Policy beschreibt und **zusätzliche Materialien und Erläuterungen für Beauftragte im Erstellungsprozess** dazu bereitstellt. Dabei wird der Tatsache Rechnung getragen, dass jeder Entwicklungsprozess einer Policy ist individuell und flexibel abläuft.<br><br>
+![](MaterialienIntros/Textdokument_OER-Policy-Kit_CCBYSA40.png)<br>
+
+**`Medienformat`** PDF, Textdatei **`erstellt/bearbeitbar mit`** Texteditor, Markdown <br>
+**`Niveaustufe(n)`** Praktiker, Experte<br>
+**`Praxiskategorie(n)`** OER einführen, OER managen<br>
+**`Metadaten`** OER-Policy; Hochschule; Leitfaden; Prozessentwicklung; Materialien<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***  
+>*OER-Policy Kit; von Dreyer, Astrid; Hörmann, Irina; Homp, Frank; Legler, Stefanie; Czerwinski, Silvia; Loose, Yulia; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0); Link führt zu [twillo](https://www.twillo.de)*
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": {"praktiker": true, "experte": true},
+  "praxiskategorie": {"oer_einfuehren": true, "oer_managen": true},
+  "media": {"textdokument": true},
+  "titel": "OER-Policy Kit",
+  "inhalt": "Immer mehr Hochschulen bekennen sich zu Openness und wollen mit einer OER-Policy das Erstellen und Teilen von OER unterstützen. Das Policy Kit ist ein Leitfaden, der sieben Schritte für die Entwicklung einer OER-Policy beschreibt und Materialien wie eine Muster-Policy oder Mailvorlagen enthält.",
+  "link": "#oer-policy-kit"
+});
+</script>
+
+
+---
+---
 
 ## Selbstlern-Materialien
 
