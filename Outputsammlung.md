@@ -343,49 +343,77 @@ window.material.push({
 
 ## Selbstlern-Materialien
 
-Hier folgt noch ein Einleitungstext zur Kategorie.
+Diese Kategorie enthält interaktive Inhalte, wie Selbstlernkurse und Übungen, die Informationen zu OER vermitteln wollen und dabei Lernen in eigenem Tempo ermöglichen. Vor allem eine Kategorie für Einsteiger:innen, aber auch für Praktiker:innen als Inspiration oder Vorlage für eigene Materialien.
 
 ---
 
 ### OER‐Glossar   
 Dieses `Nachschlagewerk` erläutert **52 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). <br> 
-Stand: August 2023 
-![](MaterialienIntros/Selbstlernkurs_OER-Glossar_CCBY40.jpg)
-***`Medienformat:`*** *Selbstlernkurs* ***`erstellt/bearbeitbar mit:`*** *ILIAS; Moodle* <br>
+Stand: August 2023<br><br> 
+![](MaterialienIntros/Selbstlernkurs_OER-Glossar_CCBY40.png)<br>
+***`Medienformat:`*** *Selbstlernkurs* ***`erstellt/bearbeitbar mit:`*** *ILIAS; Moodle, HTML* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker; Experte* <br>
 ***`Praxiskategorie(n)`*** *n.a.* <br>
 ***`Metadaten:`*** *Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium*
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *OER‐Glossar; von Gödecke, Svenja; Halm, Linda; Homp, Frank; Kobusch, Alexander; Schaffeld, Laura; Spaude, Magdalena; Weber, Tassja; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [ILIAS der Uni zu Köln](https://www.edulabs.uni‐koeln.de/goto.php?target=crs_2218&client_id=iliasedulabs)*
+
 <script>
-"level": {
-    "beginner": true,
-    "praktiker": true,
-    "experte": true
-  },
-  "praxiskategorie": {
-    "oer_finden": true,
-    "oer_herstellen": true,
-    "oer_lernen": true,
-    "oer_lehren": true,
-    "oer_einfuehren": true,
-    "oer_managen": true,
-    "oer_forschen": true
-  },
-  "media": {
-    "selbstlernen": true,
-  },
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true,
+"experte": true,,
+  "praxiskategorie": "oer_einfuehren": true,
+"oer_managen": true,
+"oer_forschen": true,
+  "media": {""selbstlernen": true,": true},
   "titel": "OER-Glossar",
-  "inhalt": "Dieses Nachschlagewerk erläutert 52 zentrale Begriffe rund um das Thema Open Educational Resources (OER)",
+  "inhalt": "Dieses `Nachschlagewerk` erläutert **52 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). <br> 
+Stand: August 2023",
   "link": "#oer-glossar"
+});
+</script>
+
+---
+
+### OER-Wissenspool
+
+`"selbstlernen": true,`
+Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educational Resources** mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für **OER-Showcases**. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen **Installationsanleitungen** zur Einbindung ins eigene LMS zur Verfügung.<br><br>
+![](MaterialienIntros/Selbstlernkurs_OER‐Wissenspool_CCBY40.png)<br>
+**`Medienformat`** Selbstlernkurs **`erstellt/bearbeitbar mit`** Ilias, Moodle, H5P <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker<br>
+**`Praxiskategorie(n)`** OER finden, OER herstellen, mit OER lernen, mit OER lehren<br>
+**`Metadaten`** OER erstellen; H5P; OER Basiswissen; OER-Supportmaterial<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*OER-Wissenspool; von Nitzsche, Sina; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true,
+,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,
+"oer_lernen": true,
+"oer_lehren": true,,
+  "media": {""selbstlernen": true,": true},
+  "titel": "OER-Wissenspool",
+  "inhalt": "Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educational Resources** mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für **OER-Showcases**. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen **Installationsanleitungen** zur Einbindung ins eigene LMS zur Verfügung.",
+  "link": "#oer-wissenspool"
+});
+</script>
 
 ---
 
 ### Learning Snacks: "ORCA.nrw: A University Network for OER" 
-`Lernspiel` `Edu-Game`
-The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist. 
-![](MaterialienIntros/Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40.jpg) 
+`Lernspiel` `Edu-Game`:
+The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.<br><br>
+![](Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40.png)<br>
 ***`Medienformat:`*** *interaktive Web-Anwendung* ***`erstellt/bearbeitbar mit:`*** *Webanwendung [LearningSnacks](https://www.learningsnacks.de)* <br>
 ***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
 ***`Praxiskategorie(n)`*** *OER finden; OER herstellen; mit OER lernen; mit OER lehren; OER einführen; OER managen*<br>
@@ -415,36 +443,37 @@ The example is based on a German network. You can find out **how the network wor
                                                                                                                                                                                                
 ---
 
-### OER‐Wissenspool
-Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educational Resources** mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für **OER-Showcases**. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen **Installationsanleitungen** zur Einbindung ins eigene LMS zur Verfügung.
-![](MaterialienIntros/Selbstlernkurs_OER‐Wissenspool_CCBY40.jpg)
-***`Medienformat:`*** Selbstlernkurs ***`erstellt/bearbeitbar mit:`*** *Moodle, Ilias; H5P* <br>
-***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker <br>
-***`Praxiskategorie(n)`*** *OER finden: OER herstellen; mit OER lernen; mit OER lehren* <br>
-***`Metadaten:`*** *OER erstellen; H5P; OER Basiswissen; OER-Supportmaterial*
+### Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB
 
-> ***Zitationsvorschlag nach TULLU-Regel:***   
-> *OER‐Wissenspool; von Nitzsche, Sina; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47)*
+Der ‘Moodle-Kurs‘ bietet Lehrenden, Studierenden und allen Interessierten einen **Einstieg** in die Welt der Open Educational Resources (OER) und die Nutzung von Creative Commons-Lizenzen. Der Kurs besteht aus **drei unabhängig voneinander bearbeitbaren Abschnitten**: Einführung in OER, Erklärung von CC-Lizenzen und Empfehlungen zur Öffnung von Lehre und Lernen, speziell an der Ruhr-Universität Bochum. In einer Bearbeitungszeit von je 15 bis 20 Minuten pro Einheit lernen die Teilnehmenden, wie sie **OER finden, nutzen, erstellen und ihre eigenen Inhalte für eine offene Lehre gestalten** können.<br><br>
+![](MaterialienIntros/Selbstlernkurs_Lehre-Lernen-oeffnen-OER-RUB_CCBYSA.png)<br>
+**`Medienformat`** Moodle-Kurs **`erstellt/bearbeitbar mit`** Moodle <br>
+**`Niveaustufe(n)`** Einsteiger<br>
+**`Praxiskategorie(n)`** OER finden, OER herstellen, mit OER lernen; mit OER lehren, OER einführen<br>
+**`Metadaten`** OER; Open Educational Resources; Lehren; Lernen; Creative Commons; Lizenzen<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB; von Fuchs, Michael; Ergänzungen von: Braungardt, Kathrin; Görlich, Sarah; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Moodle RUB](https://moodle.ruhr-uni-bochum.de/course/view.php?id=21966)*
 
 <script>
-"level": {
-    "einsteiger": true,
-    "praktiker": true,
-  },
-  "praxiskategorie": {
-    "oer_finden": true,
-    "oer_herstellen": true,
-    "oer_lernen": true,
-    "oer_lehren": true,
-  },
-  "media": {
-    "selbstlernen": true,
-  },
-  "titel": "OER‐Wissenspool",
-  "inhalt": "Der Selbstlernkurs vermittelt in fünf Kategorien Basiswissen zu Open Educational Resources mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für OER-Showcases. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen Installationsanleitungen zur Einbindung ins eigene LMS zur Verfügung.",
-  "link": "#oer‐wissenspool"
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,
+"oer_lernen": true,
+"oer_lehren": true,
+"oer_einfuehren": true,,
+  "media": {""selbstlernen": true,": true},
+  "titel": "Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB",
+  "inhalt": "Der ‘Moodle-Kurs‘ bietet Lehrenden, Studierenden und allen Interessierten einen **Einstieg** in die Welt der Open Educational Resources (OER) und die Nutzung von Creative Commons-Lizenzen. Der Kurs besteht aus **drei unabhängig voneinander bearbeitbaren Abschnitten**: Einführung in OER, Erklärung von CC-Lizenzen und Empfehlungen zur Öffnung von Lehre und Lernen, speziell an der Ruhr-Universität Bochum. In einer Bearbeitungszeit von je 15 bis 20 Minuten pro Einheit lernen die Teilnehmenden, wie sie **OER finden, nutzen, erstellen und ihre eigenen Inhalte für eine offene Lehre gestalten** können.",
+  "link": "#lehre-und-lernen-oeffnen:-open-educational-resources-(oer)---openrub"
 });
 </script>
+
+
+
+---
 ---
 
 ## Textdokumente
