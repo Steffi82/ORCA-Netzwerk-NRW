@@ -636,9 +636,112 @@ window.material.push({
 
 ---
 
+### The ORCA Ecosystem – Advancing the mission of OER together through competences in the network.
+Der **Artikel in englischer Sprache** beleuchtet das  Projekt ORCA.nrw, das als digitales Landesportal für Hochschulen in NRW **offene Bildungsressourcen (OER)** sowie **zielgruppenspezifische Informationen und Services** bereitstellt. ORCA.nrw vereint die Digitalisierungsprojekte der Hochschulen in einer gemeinsamen technischen und personellen Infrastruktur. Die **lokalen Netzwerkstellen** an den Hochschulen fördern die Nutzung und Integration der Angebote in die Lehre und stärken durch ihre Zusammenarbeit die Innovationskraft im ORCA-Ökosystem.<br><br>
+![](MaterialienIntros/Textdokument_ORCA-Ecosystem_ALLERECHTEVORBEHALTEN)<br>
+**`Medienformat`** PDF; Konferenz-Beitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte
+**`Praxiskategorie(n)`** Oer finden, OER einführen, OER managen, zu OER forschen
+**`Metadaten`** Open Educational Resources; OER; network; portal; digital transformation; ecosystem; local network points; culture of sharing; Offene Bildungsressourcen; OER; Digitale Transformation; Ökosystem; Netzwerk; Kultur des Teilens; Infrastruktur<br>
 
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*The ORCA Ecosystem – Advancing the mission of OER together through competences in the network.; von Niemann, Andrea; Schotemeier, Sarah;  Funk, Christian; alle Rechte vorbehalten; Link führt zu [iated Digital Library](https://library.iated.org/view/NIEMANN2022ORC)*
 
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true, "experte": true,
+  "praxiskategorie": "oer_finden": true,
+"oer_einfuehren": true,
+"oer_managen": true,
+"oer_forschen": true,
+  "media": {""textdoc": true,": true},
+  "titel": "The ORCA Ecosystem – Advancing the mission of OER together through competences in the network.",
+  "inhalt": "Der **Artikel** beleuchtet das  Projekt ORCA.nrw, das als digitales Landesportal für Hochschulen in NRW **offene Bildungsressourcen (OER)** sowie **zielgruppenspezifische Informationen und Services** bereitstellt. ORCA.nrw vereint die Digitalisierungsprojekte der Hochschulen in einer gemeinsamen technischen und personellen Infrastruktur. Die **lokalen Netzwerkstellen** an den Hochschulen fördern die Nutzung und Integration der Angebote in die Lehre und stärken durch ihre Zusammenarbeit die Innovationskraft im ORCA-Ökosystem.",
+  "link": "#the-orca-ecosystem-–-advancing-the-mission-of-oer-together-through-competences-in-the-network."
+});
+</script>
 
+---
+
+### OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen
+Diese ‘Publikation‘ präsentiert Ergebnisse einer Umfrage unter Hochschul-Lehrenden in NRW aus 2021, die Motivationen und Hürden rund um OER untersucht. Im Hochschulbereich lässt sich seit einiger Zeit. In NRW steht dafür das Landesportal ORCA.nrw zur Verfügung, das **Lehrende und Studierende** im Hochschulbereich unterstützt, an der beobachtbar zunehmenden Bedeutung und Förderung von offen lizenzierten Bildungsressourcen (OER) zu partizipieren. Befragt wurden **167 Teilnehmende** zu ihrer **Nutzung**, **Produktion** und **Veröffentlichung** von OER sowie ihren Unterstützungsbedarfen. Als **zentrale Motivation** zeigt sich eine positive Einstellung zum Teilen, aber auch finanzielle Anreize werden als wichtig angesehen. Als **größte Herausforderung** werden Kenntnisse zu OER, vor allem zu den rechtlichen Rahmenbedingungen, in allen OER-Handlungsbereichen offenbar.<br><br>
+![](MaterialienIntros/Textdokument_Umfrage-OER-in-NRW_CCBY40.png)<br>
+**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker<br>
+**`Praxiskategorie(n)`** OER einführen, OER managen, zu OER forschen<br>
+**`Metadaten`** OER Produktion; NRW; Netzwerkstellen; OER Umfrage; Hochschullehrende; Motivation; OER Teilen; OER Veröffentlichung; OER Nutzung; Perspektiven auf OER<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen; von Geurden, Bianca; Jahn, Markus; Josupeit, Christina; Schotemeier, Sarah; Weber, Tassja (unter Mitarbeit von Schäfer, S. (Fragebogen und Teilauswertung) und Krüger, A. (Teilauswertung)); [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/89bad355-8af3-48c3-bf15-aa6163127039)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true,,
+  "praxiskategorie": "oer_einfuehren": true,
+"oer_managen": true,
+"oer_forschen": true,
+  "media": {""textdoc": true,": true},
+  "titel": "OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen",
+  "inhalt": "Diese ‘Publikation‘ präsentiert Ergebnisse einer Umfrage unter Hochschul-Lehrenden in NRW aus 2021, die Motivationen und Hürden rund um OER untersucht. Im Hochschulbereich lässt sich seit einiger Zeit. In NRW steht dafür das Landesportal ORCA.nrw zur Verfügung, das **Lehrende und Studierende** im Hochschulbereich unterstützt, an der beobachtbar zunehmenden Bedeutung und Förderung von offen lizenzierten Bildungsressourcen (OER) zu partizipieren. Befragt wurden **167 Teilnehmende** zu ihrer **Nutzung**, **Produktion** und **Veröffentlichung** von OER sowie ihren Unterstützungsbedarfen. Als **zentrale Motivation** zeigt sich eine positive Einstellung zum Teilen, aber auch finanzielle Anreize werden als wichtig angesehen. Als **größte Herausforderung** werden Kenntnisse zu OER, vor allem zu den rechtlichen Rahmenbedingungen, in allen OER-Handlungsbereichen offenbar.",
+  "link": "#oer-in-nrw---was-motiviert?-was-hindert?-ergebnisse-einer-umfrage-zur-nutzung,-produktion-und-veroeffentlichung-von-open-educational-resources-an-hochschulen"
+});
+</script>
+
+---
+
+### Das Potenzial freier Bildungsmaterialien. 
+Die 'hochschuldidaktische Beilage', in der der Artikel erscheint, widmet sich **dem Potenzial und der Förderung von Open Educational Resources** (OER) in der Hochschullehre und hebt die Bedeutung einer **Kultur des Teilens** hervor. Lehrende profitieren von der kollaborativen Nutzung und Weiterentwicklung offen lizensierter Materialien. Die **Vernetzung und der Erfahrungsaustausch**, gefördert durch das Landesportal ORCA.nrw und die Community of Practice, stärken innovative Lehr- und Lernansätze.<br><br>
+![](MaterialienIntros/Textdokument_Potenzial-LeNi_ALLERECHTEVORBEHALTEN.png)<br>
+**`Medienformat`** PDF; Artikel-Beitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
+**`Niveaustufe(n)`** Einsteiger (Starter)
+**`Praxiskategorie(n)`** mit OER lehren, OER einführen
+**`Metadaten`** OER; Lehr-Lern-Kultur; Kulturwandel; Hochschuldidaktik; Potenzial; Open Educational Resources; Kultur des Teilens<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Das Potenzial freier Bildungsmaterialien. ; von Hörmann, Irina; Scheele, Sandra; alle Rechte vorbehalten; Link führt zu [Webauftritt HS Niederrhein](https://www.hs-niederrhein.de/fileadmin/dateien/hll/hochschuldidaktik/LeNi-Beilage_in_der_NIU/Le_Ni_Beilage_2_Wandel_der_Lehr-_und_Lernkultur_durch_OER.pdf)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,,
+  "praxiskategorie": "oer_lehren": true,
+"oer_einfuehren": true,,
+  "media": {""textdoc": true,": true},
+  "titel": "Das Potenzial freier Bildungsmaterialien. ",
+  "inhalt": "Die hochschuldidaktische Beilage, in der der Artikel erscheint, widmet sich insgesamt demPotenzial und der Förderung von Open Educational Resources (OER) in der Hochschullehre und hebt die Bedeutung einer „Kultur des Teilens“ hervor. Lehrende profitieren von der kollaborativen Nutzung und Weiterentwicklung offen lizensierter Materialien. Die Vernetzung und der Erfahrungsaustausch, gefördert durch das Landesportal ORCA.nrw und die Community of Practice, stärken innovative Lehr- und Lernansätze.",
+  "link": "#das-potenzial-freier-bildungsmaterialien.-"
+});
+</script>
+
+---
+
+### „Lehr- und Lernmaterialien frei Haus: Open Educational Resources.“
+Der ‘Beitrag‘ im Jahrbuch der FH Dortmund stellt **Open Educational Resources (OER)** vor und zeigt, wie frei verfügbare, lizenzierte Lehrmaterialien **den Hochschulalltag bereichern** können. Durch OER können Lehrende Inhalte flexibel nutzen, anpassen und teilen, was den **Wissensaustausch über Lehre fördert** fördert und Lernmaterialien einfach zugänglich macht. Ein besonderer Fokus liegt auf dem **Landesportal ORCA.nrw**, das Lehrenden und Studierenden in NRW eine **zentrale Anlaufstelle** für hochwertige, offene Bildungsmaterialien bietet.<br><br>
+![](MaterialienIntros/Textdokument_LLM-frei-Haus-OER_CCBY.png)<br>
+**`Medienformat`** E-Zine **`erstellt/bearbeitbar mit`** unbekannt <br>
+**`Niveaustufe(n)`** Einsteiger (Starter)<br>
+**`Praxiskategorie(n)`** mit OER lehren, OER einführen<br>
+**`Metadaten`** Open Educational Resources; OER; Creative Commons Lizenzen; CC Lizenzen; Landesportal; ORCA.nrw; Austausch; Kultur des Teilens<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*„Lehr- und Lernmaterialien frei Haus: Open Educational Resources.“; von Nietzsche, Sina; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Heyzine Flipbooks](https://heyzine.com/flip-book/11b57ddf01.html#page/169)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,,
+  "praxiskategorie": "oer_lehren": true,
+"oer_einfuehren": true,,
+  "media": {""textdoc": true,": true},
+  "titel": "„Lehr- und Lernmaterialien frei Haus: Open Educational Resources.“",
+  "inhalt": "Der ‘Beitrag‘ im Jahrbuch der FH Dortmund stellt **Open Educational Resources (OER)** vor und zeigt, wie frei verfügbare, lizenzierte Lehrmaterialien **den Hochschulalltag bereichern** können. Durch OER können Lehrende Inhalte flexibel nutzen, anpassen und teilen, was den **Wissensaustausch über Lehre fördert** fördert und Lernmaterialien einfach zugänglich macht. Ein besonderer Fokus liegt auf dem **Landesportal ORCA.nrw**, das Lehrenden und Studierenden in NRW eine **zentrale Anlaufstelle** für hochwertige, offene Bildungsmaterialien bietet.",
+  "link": "#„lehr--und-lernmaterialien-frei-haus:-open-educational-resources.“"
+});
+</script>
 
 
 
