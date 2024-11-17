@@ -255,7 +255,6 @@ window.material.push({
 
 ### infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.
 
-`"webseite": true,`
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.png)
 **`Medienformat`** 
