@@ -283,33 +283,6 @@ window.material.push({
 
 ---
 
-### Open Educational Resources in der Japanologie
-Der auf der 'Projektwebseite' verfügbare Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.<br><br>
-![](MaterialienIntros/Praesentation_OER-Japanologie_CCBYSA.png)<br>
-**`Medienformat`** HTML, Präsentation **`erstellt/bearbeitbar mit`** unbekannt <br>
-**`Niveaustufe(n)`** Einsteiger (Starter)<br>
-**`Praxiskategorie(n)`** OER finden; OER hersellen; mit OER lernen; mit OER lehren; OER einführen<br>
-**`Metadaten`** Open Educational Resources; OER; Japanologie; Creative Commons; Kultur des Teilens; Digitale Lehrmaterialien; Digitale Lernmaterialien; Bildungsmaterialien<br>
-
->***Zitationsvorschlag nach TULLU-Regel:***
->*Open Educational Resources in der Japanologie; von Scherer, Elisabeth; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Projektwebseite JVMG](https://jvmg.iuk.hdm-stuttgart.de/2022/09/07/presenting-at-the-18-deutschsprachigen-japanologentag/)*
-
-<script>
-window.material = window.material || [];
-window.material.push({
-  "level": "einsteiger": true,,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_lernen": true,
-"oer_lehren": true,
-"oer_einfuehren": true,,
-  "media": {""webseite": true,": true},
-  "titel": "Open Educational Resources in der Japanologie",
-  "inhalt": "Der Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.",
-  "link": "#open-educational-resources-in-der-japanologie"
-});
-</script>
-
 ### OER-Policy Kit
 Das über 'LiaScript' bereitgestellte Policy Kit ist ein Leitfaden, der **in sieben Schritten** die Entwicklung einer OER-Policy beschreibt und **zusätzliche Materialien und Erläuterungen für Beauftragte im Erstellungsprozess** dazu bereitstellt. Dabei wird der Tatsache Rechnung getragen, dass jeder Entwicklungsprozess einer Policy - mit speziellem Blick auf den **Hochschulbereich** individuell ist und flexibel abläuft.<br><br>
 ![](MaterialienIntros/Webseite_OER-Policy-Kit_CCBYSA40.png)<br>
@@ -890,9 +863,73 @@ Dieser Handreichungsteil richtet sich primär an OER-Multiplikator*innen, die an
 ---
 ---
 
+## Präsentationen
+
+Präsentationen bündeln Wissen in visueller Form. Hier finden sich solche, zu denen die Vorträge nicht aufgezeichnet wurden oder auch, die zusätzlich zu aufgezeichneten Vorträgen bereitgesteellt wurden. Ideal zur Übernahme einzelner Aspekte oder auch roter Fäden.
+
+---
+### Open Educational Resources in der Japanologie
+Der auf der 'Projektwebseite' verfügbare Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.<br><br>
+![](MaterialienIntros/Praesentation_OER-Japanologie_CCBYSA.png)<br>
+**`Medienformat`** HTML, Präsentation **`erstellt/bearbeitbar mit`** unbekannt <br>
+**`Niveaustufe(n)`** Einsteiger (Starter)<br>
+**`Praxiskategorie(n)`** OER finden; OER hersellen; mit OER lernen; mit OER lehren; OER einführen<br>
+**`Metadaten`** Open Educational Resources; OER; Japanologie; Creative Commons; Kultur des Teilens; Digitale Lehrmaterialien; Digitale Lernmaterialien; Bildungsmaterialien<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Open Educational Resources in der Japanologie; von Scherer, Elisabeth; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Projektwebseite JVMG](https://jvmg.iuk.hdm-stuttgart.de/2022/09/07/presenting-at-the-18-deutschsprachigen-japanologentag/)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,
+"oer_lernen": true,
+"oer_lehren": true,
+"oer_einfuehren": true,,
+  "media": {""webseite": true,": true},
+  "titel": "Open Educational Resources in der Japanologie",
+  "inhalt": "Der Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.",
+  "link": "#open-educational-resources-in-der-japanologie"
+});
+</script>
+
+---
+### OER-Policy – wieso jetzt, wozu, wie, wohin?
+Die ‘Präsentation‘ richtet sich an **Hochschulvertreter:innen und Verantwortliche im Bildungsbereich**. Die **Inhalte** umfassen die Bedeutung einer OER-Policy, den Entstehungsprozess und die **Vorteile von partizipativen Ansätzen** sowie Beispiele aus der Universität Bielefeld sowie der FH Bielefeld. **Schwerpunkte** sind die Förderung einer Kultur des Teilens und die strategische Vernetzung zur Umsetzung von OER-Initiativen.<br><br>
+![](MaterialienIntros/Praesentation_OER-Policy-Fragen_ALLERECHTEVORBEHALTEN.png)<br>
+**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
+**`Niveaustufe(n)`** Praktiker, Experte<br>
+**`Praxiskategorie(n)`** OER einführen, OER managen, zu OER forschen<br>
+**`Metadaten`** OER; Policy; Bildungsstrategie; Hochschulentwicklung; KnOER; Vernetzung; Kultur des Teilens<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*OER-Policy – wieso jetzt, wozu, wie, wohin?; von Homp, Frank; Kobusch, Alexander; alle Rechte vorbehalten; Link führt zu [Internetauftritt KnOER](https://kn-oer.de/wp-content/uploads/2023/02/2023-03-15_KNOER-AG-OER-Policy_Homp-Kobusch.pdf)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": 
+"praktiker": true, "experte": true,
+  "praxiskategorie": "oer_einfuehren": true,
+"oer_managen": true,
+"oer_forschen": true,
+  "media": {""presentation": true,": true},
+  "titel": "OER-Policy – wieso jetzt, wozu, wie, wohin?",
+  "inhalt": "Die ‘Präsentation‘ richtet sich an Hochschulvertreter:innen und Verantwortliche im Bildungsbereich. Sie wurde im Rahmen eines virtuellen Treffens der KNOER-AG OER-Policies gehalten und gibt einen Überblick über den aktuellen Stand der OER-Policies an verschiedenen Hochschulen in Nordrhein-Westfalen. Die Inhalte umfassen die Bedeutung einer OER-Policy, den Entstehungsprozess und die Vorteile von partizipativen Ansätzen sowie Beispiele aus der Universität und FH Bielefeld. Schwerpunkte sind die Förderung einer Kultur des Teilens und die strategische Vernetzung zur Umsetzung von OER-Initiativen.",
+  "link": "#oer-policy-–-wieso-jetzt,-wozu,-wie,-wohin?"
+});
+</script>
+
+---
+---
+
 ## Videos
 Lernvideos, Vorträge und Interviews: In dieser Kategorie finden Sie visuelle Unterstützung zu Themen und Konzepten rund um OER. Die Materialien eignen sich sowohl zur Informationsvermittlung als auch zur Weitergabe an Kolleg:innen und Muliplikator:innen – ideal, um Inhalte lebendig und nachhaltig zu präsentieren.
+
 ---
+
 ### 33 Minuten für… Das Konzept der Open Educational Resources (OER)
 Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.<br><br>
 ![](MaterialienIntros/Video_Coffee_Lectures_Konzept-OER_CCBY40.png)<br>
@@ -1036,16 +1073,236 @@ window.material.push({
 });
 </script>
 
+### Virtuelles Kamingespräch: OER in der Hochschule
+In dieser 'Aufzeichnung des **moderierten Kamingesprächs** diskutieren Expert:innen in lockerer Runde zum Thema **OER in der Hochschullehre**. Teilnehmende konnten darüber hinaus Fragen stellen und sich miteinbringen. Die Runde geht unter anderem den Fragen nach, wie der **Weg von einer Idee bis zur Produktion** einer nachhaltig nutzbaren freien Bildungsressource institutionell begleitet werden kann, wie eine OER zur **gemeinsamen Reflexion von Videos** aussehen kann und wie eine **OER-Community** funktionieren kann.<br><br>
+![](MaterialienIntros/Video_Kamingespraech-OER-Hochschule_CCBY.png)<br>
+**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
+**`Praxiskategorie(n)`** OER finden, OER herstellen, mit OER lehren, OER einführen, OER managen<br>
+**`Metadaten`** Open Educational Resources; OER; Hochschullehre; Nachhaltigkeit; institutionelle Begleitung; Community; Expertenrunde<br>
 
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Virtuelles Kamingespräch: OER in der Hochschule; von Schwabl, Gerlinde (Moderation); Hackl, Claudia; Handle-Pfeiffer, Daniel; Kober, Sabine; Scherer, Elisabeth; Urban, André; Schlote, Elke; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Youtube](https://www.youtube.com/watch?v=U9LH7OVjqIw&list=PLFdAwreFK7AK5_h3yYxqX43PQdm4xB5F7)*
 
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true, "experte": true,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,
+"oer_lehren": true,
+"oer_einfuehren": true,
+"oer_managen": true,,
+  "media": {"
 
+"video": true,": true},
+  "titel": "Virtuelles Kamingespräch: OER in der Hochschule",
+  "inhalt": "In diesem moderierten Kamingespräch diskutieren Expert:innen in lockerer Runde zum Thema "OER in der Hochschullehre".Teilnehmende konnten darüber hinaus Fragen stellen und sich miteinbringen! Die Runde geht unter anderem den Fragen nach, wieder Weg von einer Idee zur Produktion einer nachhaltig nutzbaren freien Bildungsressource institutionell begleitet werden kann, wie eine OER zur gemeinsamen Reflexion von Videos aussehen kann und wie eine OER-Community funktionieren kann.",
+  "link": "#virtuelles-kamingespraech:-oer-in-der-hochschule"
+});
+</script>
 
 ---
 ---
 
 ## Audio
+Diese Kategorie beinhaltet Podcasts, Musiksammlungen und nicht-bildgestützte Interviews und Vorträge, die nur auf der Tonspur verfügbar sind. Neben der Wiederverwendbarkeit der Musikstücke laden die Tondokumente ein, sich inspirieren zu lassen - beim Sport, beim Autofahren oder einfach nebenher etwas über OER zu erfahren..
 
-In diese Kategorie fallen sowohl Musikstücke als auch Podcasts und sonstige Tondokumente.
+### zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann
+
+`"audio": true,`
+Im ‘Podcast‘ teilen die Geschäftsführung von ORCA.nr, dem im August 2021 gestarteten Landesportal für Studium und Lehre, sowie Vertreter:innen der beteiligten Hochschulformen (Universitäten, HAWs, Kunst- und Musikhochschulen) **Einblicke in ihre Aufgaben und Verantwortungsbereiche. Konkrete Themen sind die **Entstehung des Portals**, die **Aufgaben der Geschäftsstelle und der Netzwerkstellen**, die spezifischen **Herausforderungen der verschiedenen Hochschulformen** sowie die **Services**, die die Plattform bietet. Zudem wird erläutert, woher die Open Educational Resources (OER) kommen und wie sie genutzt werden können.
+![](MaterialienIntros/Audio_Zugehoert-080_CCBY)
+**`Medienformat`** 
+
+Podcast
+Audio **`erstellt/bearbeitbar mit`** Audio-Schnittprogramme <br>
+**`Niveaustufe(n)`** "einsteiger": true,
+"praktiker": true,<br>
+**`Praxiskategorie(n)`** "oer_finden": true,
+"oer_lernen": true,
+"oer_lehren": true,
+"oer_einfuehren": true,
+"oer_managen": true,
+<br>
+**`Metadaten`** Netzwerk; ORCA.nrw; Service; Herausforderungen; Plattform; zugehOERt!; Podcast; Hochschule<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann; von Grimm, Susanne; Kobusch, Alexander; Reichardt, Gabi; Spaude, Magdalena; Deimann, Markus; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [OER-Info](https://open-educational-resources.de/zugehoert-080-orca-nrw/ )*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true,,
+  "praxiskategorie": "oer_finden": true,
+"oer_lernen": true,
+"oer_lehren": true,
+"oer_einfuehren": true,
+"oer_managen": true,
+,
+  "media": {""audio": true,": true},
+  "titel": "zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann",
+  "inhalt": "Im ‘Podcast‘ teilen die Geschäftsführung von ORCA.nr, dem im August 2021 gestarteten Landesportal für Studium und Lehre, sowie Vertreter:innen der beteiligten Hochschulformen (Universitäten, HAWs, Kunst- und Musikhochschulen) **Einblicke in ihre Aufgaben und Verantwortungsbereiche. Konkrete Themen sind die **Entstehung des Portals**, die **Aufgaben der Geschäftsstelle und der Netzwerkstellen**, die spezifischen **Herausforderungen der verschiedenen Hochschulformen** sowie die **Services**, die die Plattform bietet. Zudem wird erläutert, woher die Open Educational Resources (OER) kommen und wie sie genutzt werden können.",
+  "link": "#zugehoert-080:-im-gespraech-mit-alexander-kobusch,-gabi-reichardt,-magdalena-spaude-und-markus-deimann"
+});
+</script>
+
+---
+
+### OER Tracks: The Best Music for Educational Videos, Volume 1 
+
+`"audio": true,`
+Das Tape "OER Tracks: The Best Music for Educational Videos" beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler*innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.
+![](MaterialienIntros/Audio_OER-Tracks_CCBY)
+**`Medienformat`** Audio **`erstellt/bearbeitbar mit`** Audio-Schnittprogramme <br>
+**`Niveaustufe(n)`** 
+"praktiker": true,<br>
+**`Praxiskategorie(n)`** "oer_herstellen": true,
+"oer_lernen": true,
+"oer_lehren": true,<br>
+**`Metadaten`** Musik, Track; OER; Music;  Audio;  <br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*OER Tracks: The Best Music for Educational Videos, Volume 1 ; von siehe Musikstücke der Sammlung; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/collections?query=Kreuzwortr%C3%A4tsel&viewType=1&id=bf2c5cf2-e912-4112-91b4-582b687c835e)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": 
+"praktiker": true,,
+  "praxiskategorie": "oer_herstellen": true,
+"oer_lernen": true,
+"oer_lehren": true,,
+  "media": {""audio": true,": true},
+  "titel": "OER Tracks: The Best Music for Educational Videos, Volume 1 ",
+  "inhalt": "Das Tape "OER Tracks: The Best Music for Educational Videos" beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler*innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.",
+  "link": "#oer-tracks:-the-best-music-for-educational-videos,-volume-1-"
+});
+</script>
+
+
+### Grafiken und Bilder
+L
+
+### ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien
+"graphic": true,`
+Das 'Plakat' stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Es beschreibt den Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, Kooperation und Austausch zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln.
+![](MaterialienIntros/Video_ORCA-Soziotechnisches-Netzwerk_CCBY)
+**`Medienformat`** Plakat, begleitendes Video **`erstellt/bearbeitbar mit`** PDF Editor, Padlet, Video-Schnittprogramme<br>
+**`Niveaustufe(n)`** "einsteiger": true,
+"praktiker": true, "experte": true<br>
+**`Praxiskategorie(n)`** "oer_finden": true,
+"oer_herstellen": true,
+"oer_einfuehren": true,
+"oer_managen": true,<br>
+**`Metadaten`** nan<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien; von Kobusch, Alexander; Halm, Linda; Scherer, Elisabeth; Eube, Cornelia; Liefke, Lena ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Medienportal HSBI](https://www.hsbi.de/medienportal/channel/picture/Posterbeitrag-ORCAnrw-das-sozio-technische-Netzwerk-fuer-offene-Bildungsmaterialien/bc2cd220abbac221fa7d01a44bb1c3e8/14)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true, "experte": true,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,
+"oer_einfuehren": true,
+"oer_managen": true,,
+  "media": {"
+
+"graphic": true,": true},
+  "titel": "ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien",
+  "inhalt": "Das 'Plakat' stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Es beschreibt den Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, Kooperation und Austausch zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln.",
+  "link": "#orca.nrw-–-das-sozio-technische-netzwerk-fuer-offene-bildungsmaterialien"
+});
+</script>
+
+
+
+
+
+
+
+### CC-Lizenzhinweise erstellen – die TULLUBA-Regel 
+
+`"graphic": true,`
+Die Postkarte zur "TULLUBA-Regel" zeigt kompakt wie Creative-Commons-Lizenzhinweise richtig erstellt werden. Die Karte ist damit eine ideale Erinnerungs-Stütze bei der Erstellung von Open Educational Resources (OER) oder Open-Access-Materialien. Die TULLUBA-Karte ist ein Produkt der AG Werbung des Netzwerks Landesportal ORCA.nrw. Sie ist eine Bearbeitung der Grafik von Julia Eggestein nach einem Konzept von Sonja Borski und Jöran Muuß-Merholz für OERinfo – Informationsstelle OER (https://open-educational-resources.de/oer-tullu-regel/) lizenziert unter CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.de).
+![](MaterialienIntros/Grafik_Postkarte-TULLUBA_CCBY)
+**`Medienformat`** 
+
+PDF
+svg
+jpg **`erstellt/bearbeitbar mit`** PDF-Editor; Bildverarbeitungsprogramme <br>
+**`Niveaustufe(n)`** "einsteiger": true,
+"praktiker": true, "experte": true<br>
+**`Praxiskategorie(n)`** "oer_finden": true,
+"oer_herstellen": true,
+"oer_managen": true,
+"oer_einfuehren": true,<br>
+**`Metadaten`** OER; TULLUBA; Creative Commons; CC-Lizenzen;Open Access; Open Educational Resources<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*CC-Lizenzhinweise erstellen – die TULLUBA-Regel ; von Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/fcf18f89-b750-42aa-a99b-fbf1f244bfab)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true, "experte": true,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,
+"oer_managen": true,
+"oer_einfuehren": true,,
+  "media": {""graphic": true,": true},
+  "titel": "CC-Lizenzhinweise erstellen – die TULLUBA-Regel ",
+  "inhalt": "Die Postkarte zur "TULLUBA-Regel" zeigt kompakt wie Creative-Commons-Lizenzhinweise richtig erstellt werden. Die Karte ist damit eine ideale Erinnerungs-Stütze bei der Erstellung von Open Educational Resources (OER) oder Open-Access-Materialien. Die TULLUBA-Karte ist ein Produkt der AG Werbung des Netzwerks Landesportal ORCA.nrw. Sie ist eine Bearbeitung der Grafik von Julia Eggestein nach einem Konzept von Sonja Borski und Jöran Muuß-Merholz für OERinfo – Informationsstelle OER (https://open-educational-resources.de/oer-tullu-regel/) lizenziert unter CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.de).",
+  "link": "#cc-lizenzhinweise-erstellen-–-die-tulluba-regel "
+});
+</script>
+
+
+### Grafik "Was darf ich für OER verwenden?"
+
+`"graphic": true,`
+Diese Sketchnote bietet einen Überblick darüber, welche Materialien bei der Erstellung von Open Educational Resources (OER) verwendet werden können, ohne dass das Urheberrecht verletzt wird (z.B. Materialien unter Creative-Commons-Lizenz, gemeinfreie Materialien, Zitatrecht etc.). Die Grafik liegt als PNG- und Pdf-Datei vor. 
+![](MaterialienIntros/Grafik_Was-darf-ich-fuer-OER-verwenden_CCBY)
+**`Medienformat`** 
+
+PDF
+png **`erstellt/bearbeitbar mit`** 
+
+PDF-Editor
+Bildverarbeitungsprogramme <br>
+**`Niveaustufe(n)`** "einsteiger": true,
+"praktiker": true,<br>
+**`Praxiskategorie(n)`** 
+"oer_herstellen": true,
+"oer_einfuehren": true,
+<br>
+**`Metadaten`** OER; Urheberrecht; Creative Commons; Zitatrecht; Open Educational Resources; Lehrmaterialien; Medienproduktion; gemeinfrei<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Grafik "Was darf ich für OER verwenden?"; von Scherer, Elisabeth; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/c33ec60c-3d55-4052-913d-322fb759e540)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true,,
+  "praxiskategorie": 
+"oer_herstellen": true,
+"oer_einfuehren": true,
+,
+  "media": {""graphic": true,": true},
+  "titel": "Grafik "Was darf ich für OER verwenden?"",
+  "inhalt": "Diese Sketchnote bietet einen Überblick darüber, welche Materialien bei der Erstellung von Open Educational Resources (OER) verwendet werden können, ohne dass das Urheberrecht verletzt wird (z.B. Materialien unter Creative-Commons-Lizenz, gemeinfreie Materialien, Zitatrecht etc.). Die Grafik liegt als PNG- und Pdf-Datei vor. ",
+  "link": "#grafik-"was-darf-ich-fuer-oer-verwenden?""
+});
+</script>
+
 
 
 
