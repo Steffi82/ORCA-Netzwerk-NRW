@@ -288,7 +288,7 @@ window.material.push({
 ### Open Educational Resources in der Japanologie
 
 Der auf der 'Projektwebseite' verfügbare Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.<br><br>
-![](MaterialienIntros/Praesentation_OER-Japanologie_CCBYSA)<br>
+![](MaterialienIntros/Praesentation_OER-Japanologie_CCBYSA.png)<br>
 **`Medienformat`** HTML, Präsentation **`erstellt/bearbeitbar mit`** unbekannt <br>
 **`Niveaustufe(n)`** Einsteiger (Starter)<br>
 **`Praxiskategorie(n)`** OER finden; OER hersellen; mit OER lernen; mit OER lehren; OER einführen<br>
@@ -313,39 +313,10 @@ window.material.push({
 });
 </script>
 
-### Open Educational Resources in der Japanologie
-
-Text folgt.<br><br>
-![](MaterialienIntros/Praesentation_OER-Japanologie_CCBYSA)<br>
-**`Medienformat`** HTML, Präsentation **`erstellt/bearbeitbar mit`** unbekannt <br>
-**`Niveaustufe(n)`** Einsteiger (Starter)<br>
-**`Praxiskategorie(n)`** OER finden; OER hersellen; mit OER lernen; mit OER lehren; OER einführen<br>
-**`Metadaten`** Open Educational Resources; OER; Japanologie; Creative Commons; Kultur des Teilens; Digitale Lehrmaterialien; Digitale Lernmaterialien; Bildungsmaterialien<br>
-
->***Zitationsvorschlag nach TULLU-Regel:***
->*Open Educational Resources in der Japanologie; von Scherer, Elisabeth; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Projektwebseite JVMG](https://jvmg.iuk.hdm-stuttgart.de/2022/09/07/presenting-at-the-18-deutschsprachigen-japanologentag/)*
-
-<script>
-window.material = window.material || [];
-window.material.push({
-  "level": "einsteiger": true,,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_lernen": true,
-"oer_lehren": true,
-"oer_einfuehren": true,,
-  "media": {""webseite": true,": true},
-  "titel": "Open Educational Resources in der Japanologie",
-  "inhalt": "Der Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.",
-  "link": "#open-educational-resources-in-der-japanologie"
-});
-</script> 
-
 ### OER-Policy Kit
 
-`Textdokument`
-Immer mehr Hochschulen bekennen sich zu Openness und wollen mit einer OER-Policy das Erstellen und Teilen von OER unterstützen. Das Policy Kit ist ein Leitfaden, der **in sieben Schritten** die Entwicklung einer OER-Policy beschreibt und **zusätzliche Materialien und Erläuterungen für Beauftragte im Erstellungsprozess** dazu bereitstellt. Dabei wird der Tatsache Rechnung getragen, dass jeder Entwicklungsprozess einer Policy ist individuell und flexibel abläuft.<br><br>
-![](MaterialienIntros/Textdokument_OER-Policy-Kit_CCBYSA40.png)<br>
+Das über 'LiaScript' bereitgestellte Policy Kit ist ein Leitfaden, der **in sieben Schritten** die Entwicklung einer OER-Policy beschreibt und **zusätzliche Materialien und Erläuterungen für Beauftragte im Erstellungsprozess** dazu bereitstellt. Dabei wird der Tatsache Rechnung getragen, dass jeder Entwicklungsprozess einer Policy - mit speziellem Blick auf den **Hochschulbereich** individuell ist und flexibel abläuft.<br><br>
+![](MaterialienIntros/Webseite_OER-Policy-Kit_CCBYSA40.png)<br>
 
 **`Medienformat`** PDF, Textdatei **`erstellt/bearbeitbar mit`** Texteditor, Markdown <br>
 **`Niveaustufe(n)`** Praktiker, Experte<br>
