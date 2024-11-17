@@ -333,7 +333,6 @@ window.material.push({
 });
 </script>
 
-
 ---
 ---
 
@@ -889,15 +888,10 @@ Dieser Handreichungsteil richtet sich primär an OER-Multiplikator*innen, die an
 </script>
 
 ---
-
-
 ---
----
----
-## Vorträge / Interviews
 
-Hier folgt noch ein Einleitungstext zur Kategorie
-
+## Videos
+Lernvideos, Vorträge und Interviews: In dieser Kategorie finden Sie visuelle Unterstützung zu Themen und Konzepten rund um OER. Die Materialien eignen sich sowohl zur Informationsvermittlung als auch zur Weitergabe an Kolleg:innen und Muliplikator:innen – ideal, um Inhalte lebendig und nachhaltig zu präsentieren.
 ---
 
 ### 33 Minuten für… Das Konzept der Open Educational Resources (OER)  
