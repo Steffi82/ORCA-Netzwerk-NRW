@@ -946,6 +946,98 @@ window.material.push({
 });
 </script>
 
+---
+
+### ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien
+Das 'Video' führt durch ein Tagungsplakat. Dieses stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Beschrieben wird der Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, **Kooperation und Austausch** zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln.<br><br>
+![](MaterialienIntros/Graphik_ORCA-Soziotechnisches-Netzwerk_CCBY.png)<br>
+**`Medienformat`** Plakat, Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme; PDF-Editor; Padlet <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
+**`Praxiskategorie(n)`** OER finden, OER herstellen, OER einführen, OER managen<br>
+**`Metadaten`** tbd<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien; von Kobusch, Alexander; Halm, Linda; Scherer, Elisabeth; Eube, Cornelia; Liefke, Lena ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Medienportal HSBI](https://www.hsbi.de/medienportal/channel/picture/Posterbeitrag-ORCAnrw-das-sozio-technische-Netzwerk-fuer-offene-Bildungsmaterialien/bc2cd220abbac221fa7d01a44bb1c3e8/14)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true, "experte": true,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,
+"oer_einfuehren": true,
+"oer_managen": true,,
+  "media": {"
+
+"video": true,": true},
+  "titel": "ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien",
+  "inhalt": "Das 'Video' führt durch ein Tagungsplakat. Dieses stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Beschrieben wird der Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, Kooperation und Austausch zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln.",
+  "link": "#orca.nrw-–-das-sozio-technische-netzwerk-fuer-offene-bildungsmaterialien"
+});
+</script>
+
+---
+
+### OER & CC-Lizenzen. Ein Bespiel für einfache ppt-Videoproduktionen
+In diesem ‘Video‘ geben die Netzwerkstellen eine umfassende **Einführung in die Welt der Open Educational Resources** (OER) und **Creative Commons-Lizenzen**. Der Clou: Die Umsetzung erfolgt als Video einer vertonten Folienpräsentation. Jede Netzwerkstelle übernimmt dabei einen speziellen **Themenbereich**: von der grundlegenden Erklärung, was OER bedeutet, über die Prinzipien der offenen Lizensierung und mögliche Einschränkungen der „5 Freiheiten“ durch die verschiedenen CC-Lizenzmodule bis hin zur Kombination der Module. **Konkrete Beispiele und Layoutvorschläge für die Darstellung der Lizenzangaben** runden den Vortrag ab und bieten praktische Anwendungshilfen für die eigene OER-Erstellung.<br><br>
+![](MaterialienIntros/Video_ORCA-CC-Lizenzen_PPT-Videoproduktion_CCBY.png)<br>
+**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme <br>
+**`Niveaustufe(n)`** Praktiker<br>
+**`Praxiskategorie(n)`** OER finden, OER herstellen<br>
+**`Metadaten`** OER; OpenEducationalResources; ORCA; ORCA.nrw<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*OER & CC-Lizenzen. Ein Bespiel für einfache ppt-Videoproduktionen; von Kobusch, Alexander; Geurden, Bianca; Homp, Frank; Spaude, Magdalena; Dobosz, Nicole; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Videoportal Universität Bielefeld](https://uni-bielefeld.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3bf8cf42-3839-436a-93d2-af86010d5df5)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": 
+"praktiker": true,,
+  "praxiskategorie": "oer_finden": true,
+"oer_herstellen": true,,
+  "media": {"
+
+"video": true,": true},
+  "titel": "OER & CC-Lizenzen. Ein Bespiel für einfache ppt-Videoproduktionen",
+  "inhalt": "In diesem ‘Video‘ geben die Netzwerkstellen eine umfassende **Einführung in die Welt der Open Educational Resources** (OER) und **Creative Commons-Lizenzen**. Der Clou: DieUmsetzung erfolgt als Video einer vertonten Folienpräsentation. Jede Netzwerkstelle übernimmt dabei einen speziellen **Themenbereich**: von der grundlegenden Erklärung, was OER bedeutet, über die Prinzipien der offenen Lizensierung und mögliche Einschränkungen der „5 Freiheiten“ durch die verschiedenen CC-Lizenzmodule bis hin zur Kombination der Module. **Konkrete Beispiele und Layoutvorschläge für die Darstellung der Lizenzangaben** runden den Vortrag ab und bieten praktische Anwendungshilfen für die eigene OER-Erstellung.",
+  "link": "#oer-&-cc-lizenzen.-ein-bespiel-fuer-einfache-ppt-videoproduktionen"
+});
+</script>
+
+---
+
+### OER-Testimonials: Materials Caching 
+Die 'Video-Reihe' **OER-Testimonials** ist im Rahmen des Dortmunder OER-Zirkels(Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH und TU Dortmund) entstanden. Die Reihe stellt Produzent:innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources) vor. Hier Beispielhaft das **Projekt Material Caching**, das im Rahmen der DigiFellowship-Förderlinie entstand.<br><br>
+![](MaterialienIntros/Video_OER-Testimonials_DO_CCBY.png)<br>
+**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme <br>
+**`Niveaustufe(n)`** Praktiker<br>
+**`Praxiskategorie(n)`** OER herstellen, mit OER lehren<br>
+**`Metadaten`** innovative Lehre; Open Educational Resources; oer; zukunftswerkstatt; geocaching; TU Dortmund; Digifellows; Abteilung Innovative Lehre<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*OER-Testimonials: Materials Caching ; von Jahn, Markus; Kilian, David; Molke, Sven; Nitzsche, Sina ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Videoportal FH Dortmund](https://video.fh-dortmund.de/video/OER-Testimonials-Materials-Caching-/4743018d281568afa0e5b6903b3f204e)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": 
+"praktiker": true, ,
+  "praxiskategorie": 
+"oer_herstellen": true,
+"oer_lehren": true,,
+  "media": {"
+
+"video": true,": true},
+  "titel": "OER-Testimonials: Materials Caching ",
+  "inhalt": "Die Reihe "OER-Testimonials" ist im Rahmen des Dortmunder OER-Zirkels(Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH und TU Dortmund). Die Reihe stellt Produzent*innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources, OER) vor. Hier Beispielhaft das Projekt Material Caching, das im Rahmen des DigiFellow.... ",
+  "link": "#oer-testimonials:-materials-caching-"
+});
+</script>
+
+
+
 
 
 ---
