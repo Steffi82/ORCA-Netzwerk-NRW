@@ -743,61 +743,8 @@ window.material.push({
 });
 </script>
 
-
-
-
----
----
-## Vorträge / Interviews
-
-Hier folgt noch ein Einleitungstext zur Kategorie
-
 ---
 
-### 33 Minuten für… Das Konzept der Open Educational Resources (OER)  
-Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.
-![](MaterialienIntros/Video_Coffee_Lectures_Konzept-OER_CCBY40.jpg)
-**`Medienformat:`** Video **`erstellt/bearbeitbar mit:`** Schnittprogrammen <br>
-**`Niveaustufe(n):`** Einsteiger (Starter) <br>
-**`Praxiskategorie(n)`** OER finden; OER herstellen; OER einführen <br>
-**`Metadaten:`** Creative Commons Lizenzen; CC-Lizenzen
-
-> ***Zitationsvorschlag nach TULLU-Regel:***   
-> *Coffee Lectures: 33 Minuten für… Offene Lehrmaterialien ‐ "Lehrmaterialien anderer nutzen und eigene teilen ‐ Das Konzept der Open Educational Resources (OER)"; von Spaude, Magdalena; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Opencast Uni zu Köln](https://player.opencast.uni-koeln.de/822648aa-2cba-422a-9df4-5f6acaede4b3)*
-
-<iframe width="420" height="315"
-src="https://player.opencast.uni-koeln.de/822648aa-2cba-422a-9df4-5f6acaede4b3">
-</iframe>
-
-<script>
-"level": {
-    "einsteiger": true,
-  },
-  "praxiskategorie": {
-    "oer_finden": true,
-    "oer_herstellen": true,
-    "oer_einfuehren": true,
-  },
-  "media": {
-    "video": true,
-  },
-  "titel": "33 Minuten für… Das Konzept der Open Educational Resources (OER)",
-  "inhalt": "Im Video lernen Sie das Konzept von OER kennen, erfahren, wo Sie OER finden und wie Sie selber die eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen.",
-  "link": "#33-minuten-für…-das-konzept-der-open-educational-resources-(oer)"
-});
-</script>
-
----
-
-
-
-## Artikel in (Fach-)Zeitschriften/Blogs und Konferenzbeiträge
-
-Hier folgt noch ein Einleitungstext zur Kategorie.
-
-
-
----
 ### OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen
 
 `Medientyp`
@@ -952,6 +899,7 @@ window.material.push({
 });
 </script>
 
+---
 
 ### Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können
 `"textdoc": true,`
@@ -983,9 +931,61 @@ Dieser Handreichungsteil richtet sich primär an OER-Multiplikator*innen, die an
 });
 </script>
 
+---
+
 
 ---
 ---
+---
+## Vorträge / Interviews
+
+Hier folgt noch ein Einleitungstext zur Kategorie
+
+---
+
+### 33 Minuten für… Das Konzept der Open Educational Resources (OER)  
+Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.
+![](MaterialienIntros/Video_Coffee_Lectures_Konzept-OER_CCBY40.jpg)
+**`Medienformat:`** Video **`erstellt/bearbeitbar mit:`** Schnittprogrammen <br>
+**`Niveaustufe(n):`** Einsteiger (Starter) <br>
+**`Praxiskategorie(n)`** OER finden; OER herstellen; OER einführen <br>
+**`Metadaten:`** Creative Commons Lizenzen; CC-Lizenzen
+
+> ***Zitationsvorschlag nach TULLU-Regel:***   
+> *Coffee Lectures: 33 Minuten für… Offene Lehrmaterialien ‐ "Lehrmaterialien anderer nutzen und eigene teilen ‐ Das Konzept der Open Educational Resources (OER)"; von Spaude, Magdalena; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Opencast Uni zu Köln](https://player.opencast.uni-koeln.de/822648aa-2cba-422a-9df4-5f6acaede4b3)*
+
+<iframe width="420" height="315"
+src="https://player.opencast.uni-koeln.de/822648aa-2cba-422a-9df4-5f6acaede4b3">
+</iframe>
+
+<script>
+"level": {
+    "einsteiger": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_einfuehren": true,
+  },
+  "media": {
+    "video": true,
+  },
+  "titel": "33 Minuten für… Das Konzept der Open Educational Resources (OER)",
+  "inhalt": "Im Video lernen Sie das Konzept von OER kennen, erfahren, wo Sie OER finden und wie Sie selber die eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen.",
+  "link": "#33-minuten-für…-das-konzept-der-open-educational-resources-(oer)"
+});
+</script>
+
+---
+
+
+
+
+## Artikel in (Fach-)Zeitschriften/Blogs und Konferenzbeiträge
+
+Hier folgt noch ein Einleitungstext zur Kategorie.
+
+
 
 ## Audio
 
