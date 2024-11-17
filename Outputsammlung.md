@@ -923,6 +923,33 @@ window.material.push({
 </script>
 
 ---
+
+### Lernpause: Freie Bildungsressourcen (Open Educational Resources, OER)
+In der 'Aufzeichung' der **LernPause** der **Universität Paderborn** zum Thema **OER**, werden **Merkmale von und Mehrwerte** OER im Vergleich zu traditionellen Lehr- und Lernmaterialien thematisiert, aufgezeigt auf wo Sie OER suchen/finden und in Ihrer Lehre einsetzen können. Zudem wird über Unterstützungsangebote zu OER an der Universität Paderborn informiert.<br><br>
+![](MaterialienIntros/Video_FreieBildungsressourcen_UPB_ALLERECHTEVORBEHALTEN.png)<br>
+**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme <br>
+**`Niveaustufe(n)`** Einsteiger (Starter)<br>
+**`Praxiskategorie(n)`** OER finden, mit OER lehren, OER einführen<br>
+**`Metadaten`** Lernpause; Hochschuldidaktik; E-Learning; elearning; e-Lehre; OER; Open Educational Resources<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Freie Bildungsressourcen (Open Educational Resources, OER); von Weber, Tassja; alle Rechte vorbehalten; Link führt zu [Videoportal Universität Paderborn](https://videos.uni-paderborn.de/channel/video/LernPause-Oktober-2022-Freie-Bildungsressourcen-OpenEducational-Resources-OER/467e2204ae07d08774da3ae9565ade0d/27)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,,
+  "praxiskategorie": "oer_finden": true,
+"oer_lehren": true,
+"oer_einfuehren": true,,
+  "media": {""video": true,": true},
+  "titel": "Freie Bildungsressourcen (Open Educational Resources, OER)",
+  "inhalt": "Das Format **LernPause** der **Universität Paderborn** widmet sich dem Thema **OER**, zeigt die **Merkmale von und Mehrwerte** OER im Vergleich zu traditionellen Lehr- und Lernmaterialien auf, zeigt auf wo Sie OER suchen/finden und in Ihrer Lehre einsetzen können und informiert über Unterstützungsangebote zu OER an der Universität Paderborn.",
+  "link": "#freie-bildungsressourcen-(open-educational-resources,-oer)"
+});
+</script>
+
+---
 ---
 
 ## Videos
@@ -953,64 +980,6 @@ window.material.push({
   "titel": "33 Minuten für… Das Konzept der Open Educational Resources (OER)",
   "inhalt": "Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.",
   "link": "#33-minuten-fuer…-das-konzept-der-open-educational-resources-(oer)"
-});
-</script>
-
----
-
-### Lernpause: Freie Bildungsressourcen (Open Educational Resources, OER)
-In der 'Aufzeichung' der **LernPause** der **Universität Paderborn** zum Thema **OER**, werden **Merkmale von und Mehrwerte** OER im Vergleich zu traditionellen Lehr- und Lernmaterialien thematisiert, aufgezeigt auf wo Sie OER suchen/finden und in Ihrer Lehre einsetzen können. Zudem wird über Unterstützungsangebote zu OER an der Universität Paderborn informiert.<br><br>
-![](MaterialienIntros/Video_FreieBildungsressourcen_UPB_ALLERECHTEVORBEHALTEN.png)<br>
-**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme <br>
-**`Niveaustufe(n)`** Einsteiger (Starter)<br>
-**`Praxiskategorie(n)`** OER finden, mit OER lehren, OER einführen<br>
-**`Metadaten`** Lernpause; Hochschuldidaktik; E-Learning; elearning; e-Lehre; OER; Open Educational Resources<br>
-
->***Zitationsvorschlag nach TULLU-Regel:***
->*Freie Bildungsressourcen (Open Educational Resources, OER); von Weber, Tassja; alle Rechte vorbehalten; Link führt zu [Videoportal Universität Paderborn](https://videos.uni-paderborn.de/channel/video/LernPause-Oktober-2022-Freie-Bildungsressourcen-OpenEducational-Resources-OER/467e2204ae07d08774da3ae9565ade0d/27)*
-
-<script>
-window.material = window.material || [];
-window.material.push({
-  "level": "einsteiger": true,,
-  "praxiskategorie": "oer_finden": true,
-"oer_lehren": true,
-"oer_einfuehren": true,,
-  "media": {""video": true,": true},
-  "titel": "Freie Bildungsressourcen (Open Educational Resources, OER)",
-  "inhalt": "Das Format **LernPause** der **Universität Paderborn** widmet sich dem Thema **OER**, zeigt die **Merkmale von und Mehrwerte** OER im Vergleich zu traditionellen Lehr- und Lernmaterialien auf, zeigt auf wo Sie OER suchen/finden und in Ihrer Lehre einsetzen können und informiert über Unterstützungsangebote zu OER an der Universität Paderborn.",
-  "link": "#freie-bildungsressourcen-(open-educational-resources,-oer)"
-});
-</script>
-
----
-
-### ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien
-Das 'Video' führt durch ein Tagungsplakat. Dieses stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Beschrieben wird der Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, **Kooperation und Austausch** zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln.<br><br>
-![](MaterialienIntros/Graphik_ORCA-Soziotechnisches-Netzwerk_CCBY.png)<br>
-**`Medienformat`** Plakat, Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme; PDF-Editor; Padlet <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
-**`Praxiskategorie(n)`** OER finden, OER herstellen, OER einführen, OER managen<br>
-**`Metadaten`** tbd<br>
-
->***Zitationsvorschlag nach TULLU-Regel:***
->*ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien; von Kobusch, Alexander; Halm, Linda; Scherer, Elisabeth; Eube, Cornelia; Liefke, Lena ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Medienportal HSBI](https://www.hsbi.de/medienportal/channel/picture/Posterbeitrag-ORCAnrw-das-sozio-technische-Netzwerk-fuer-offene-Bildungsmaterialien/bc2cd220abbac221fa7d01a44bb1c3e8/14)*
-
-<script>
-window.material = window.material || [];
-window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true, "experte": true,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_einfuehren": true,
-"oer_managen": true,,
-  "media": {"
-
-"video": true,": true},
-  "titel": "ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien",
-  "inhalt": "Das 'Video' führt durch ein Tagungsplakat. Dieses stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Beschrieben wird der Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, Kooperation und Austausch zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln.",
-  "link": "#orca.nrw-–-das-sozio-technische-netzwerk-fuer-offene-bildungsmaterialien"
 });
 </script>
 
@@ -1109,23 +1078,42 @@ window.material.push({
 ## Audio
 Diese Kategorie beinhaltet Podcasts, Musiksammlungen und nicht-bildgestützte Interviews und Vorträge, die nur auf der Tonspur verfügbar sind. Neben der Wiederverwendbarkeit der Musikstücke laden die Tondokumente ein, sich inspirieren zu lassen - beim Sport, beim Autofahren oder einfach nebenher etwas über OER zu erfahren..
 
-### zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann
+---
+
+### OER Tracks: The Best Music for Educational Videos, Volume 1 
 
 `"audio": true,`
-Im ‘Podcast‘ teilen die Geschäftsführung von ORCA.nr, dem im August 2021 gestarteten Landesportal für Studium und Lehre, sowie Vertreter:innen der beteiligten Hochschulformen (Universitäten, HAWs, Kunst- und Musikhochschulen) **Einblicke in ihre Aufgaben und Verantwortungsbereiche. Konkrete Themen sind die **Entstehung des Portals**, die **Aufgaben der Geschäftsstelle und der Netzwerkstellen**, die spezifischen **Herausforderungen der verschiedenen Hochschulformen** sowie die **Services**, die die Plattform bietet. Zudem wird erläutert, woher die Open Educational Resources (OER) kommen und wie sie genutzt werden können.
-![](MaterialienIntros/Audio_Zugehoert-080_CCBY)
-**`Medienformat`** 
+Das **Tape OER Tracks: The Best Music for Educational Videos** beinhaltet **30 frei verfügbare Musikstücke** von zehn jungen und unabhängigen Künstler:innen aus NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund **für den Einsatz in Lehr- und Lernvideos** produziert. Sie können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden - unter der Bedingung der Namensnennung der Künstler:innen.<br><br>
+![](MaterialienIntros/Audio_OER-Tracks_CCBY.png)<br>
+**`Medienformat`** Audio **`erstellt/bearbeitbar mit`** Audio-Schnittprogrammen <br>
+**`Niveaustufe(n)`** Praktiker<br>
+**`Praxiskategorie(n)`** OER herstellen, mit OER lernen, mit OER lehren<br>
+**`Metadaten`** Musik, Track; OER; Music;  Audio;  <br>
 
-Podcast
-Audio **`erstellt/bearbeitbar mit`** Audio-Schnittprogramme <br>
-**`Niveaustufe(n)`** "einsteiger": true,
-"praktiker": true,<br>
-**`Praxiskategorie(n)`** "oer_finden": true,
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*OER Tracks: The Best Music for Educational Videos, Volume 1 ; von siehe Musikstücke der Sammlung; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/collections?query=Kreuzwortr%C3%A4tsel&viewType=1&id=bf2c5cf2-e912-4112-91b4-582b687c835e)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": 
+"praktiker": true,,
+  "praxiskategorie": "oer_herstellen": true,
 "oer_lernen": true,
-"oer_lehren": true,
-"oer_einfuehren": true,
-"oer_managen": true,
-<br>
+"oer_lehren": true,,
+  "media": {""audio": true,": true},
+  "titel": "OER Tracks: The Best Music for Educational Videos, Volume 1 ",
+  "inhalt": "Das Tape "OER Tracks: The Best Music for Educational Videos" beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler*innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.",
+  "link": "#oer-tracks:-the-best-music-for-educational-videos,-volume-1-"
+});
+</script>
+
+### zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann
+In dieser ‘Podcast-Folge‘ teilen die Geschäftsführung von ORCA.nrw, dem im August 2021 gestarteten Landesportal für Studium und Lehre, sowie Vertreter:innen der beteiligten Hochschulformen (Universitäten, HAWs, Kunst- und Musikhochschulen) **Einblicke in ihre Aufgaben und Verantwortungsbereiche. Konkrete Themen sind die **Entstehung des Portals**, die **Aufgaben der Geschäftsstelle und der Netzwerkstellen**, die spezifischen **Herausforderungen der verschiedenen Hochschulformen** sowie die **Services**, die die Plattform bietet. Zudem wird erläutert, woher die Open Educational Resources (OER) kommen und wie sie genutzt werden können.
+![](MaterialienIntros/Audio_Zugehoert-080_CCBY.png)
+**`Medienformat`** Podcast, Audio **`erstellt/bearbeitbar mit`** Audio-Schnittprogrammen <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker<br>
+**`Praxiskategorie(n)`** OER finden, mit OER lernen, mit OER lehren, OER einführen, OER managen<br>
 **`Metadaten`** Netzwerk; ORCA.nrw; Service; Herausforderungen; Plattform; zugehOERt!; Podcast; Hochschule<br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
@@ -1150,54 +1138,18 @@ window.material.push({
 </script>
 
 ---
-
-### OER Tracks: The Best Music for Educational Videos, Volume 1 
-
-`"audio": true,`
-Das Tape "OER Tracks: The Best Music for Educational Videos" beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler*innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.
-![](MaterialienIntros/Audio_OER-Tracks_CCBY)
-**`Medienformat`** Audio **`erstellt/bearbeitbar mit`** Audio-Schnittprogramme <br>
-**`Niveaustufe(n)`** 
-"praktiker": true,<br>
-**`Praxiskategorie(n)`** "oer_herstellen": true,
-"oer_lernen": true,
-"oer_lehren": true,<br>
-**`Metadaten`** Musik, Track; OER; Music;  Audio;  <br>
-
->***Zitationsvorschlag nach TULLU-Regel:***
->*OER Tracks: The Best Music for Educational Videos, Volume 1 ; von siehe Musikstücke der Sammlung; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/collections?query=Kreuzwortr%C3%A4tsel&viewType=1&id=bf2c5cf2-e912-4112-91b4-582b687c835e)*
-
-<script>
-window.material = window.material || [];
-window.material.push({
-  "level": 
-"praktiker": true,,
-  "praxiskategorie": "oer_herstellen": true,
-"oer_lernen": true,
-"oer_lehren": true,,
-  "media": {""audio": true,": true},
-  "titel": "OER Tracks: The Best Music for Educational Videos, Volume 1 ",
-  "inhalt": "Das Tape "OER Tracks: The Best Music for Educational Videos" beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler*innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.",
-  "link": "#oer-tracks:-the-best-music-for-educational-videos,-volume-1-"
-});
-</script>
-
+---
 
 ### Grafiken und Bilder
-L
+Diese Kategorie umfasst Informationsgrafiken, Bilder und Werbematerialien, die flexibel einsetzbar sind. Ob zur Veranschaulichung von Themen oder zur Gestaltung eigener Inhalte – die Materialien können ganz oder in Teilen nachgenutzt und in verschiedene Formate eingebunden werden.
 
 ### ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien
-"graphic": true,`
-Das 'Plakat' stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Es beschreibt den Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, Kooperation und Austausch zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln.
-![](MaterialienIntros/Video_ORCA-Soziotechnisches-Netzwerk_CCBY)
+Das 'Plakat' stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Es beschreibt den Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, Kooperation und Austausch zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln. Dazu gibt es noch ein begleitendes Video.<br><br>
+![](MaterialienIntros/Video_ORCA-Soziotechnisches-Netzwerk_CCBY.png)<br>
 **`Medienformat`** Plakat, begleitendes Video **`erstellt/bearbeitbar mit`** PDF Editor, Padlet, Video-Schnittprogramme<br>
-**`Niveaustufe(n)`** "einsteiger": true,
-"praktiker": true, "experte": true<br>
-**`Praxiskategorie(n)`** "oer_finden": true,
-"oer_herstellen": true,
-"oer_einfuehren": true,
-"oer_managen": true,<br>
-**`Metadaten`** nan<br>
+**`Niveaustufe(n)`** "Einsteiger (Starter), Praktiker, Experte<br>
+**`Praxiskategorie(n)`** OER finden, OER herstellen, OER einführen, OER managen<br>
+**`Metadaten`** *tbd*<br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
 >*ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien; von Kobusch, Alexander; Halm, Linda; Scherer, Elisabeth; Eube, Cornelia; Liefke, Lena ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Medienportal HSBI](https://www.hsbi.de/medienportal/channel/picture/Posterbeitrag-ORCAnrw-das-sozio-technische-Netzwerk-fuer-offene-Bildungsmaterialien/bc2cd220abbac221fa7d01a44bb1c3e8/14)*
@@ -1220,32 +1172,19 @@ window.material.push({
 });
 </script>
 
-
-
-
-
-
+---
 
 ### CC-Lizenzhinweise erstellen – die TULLUBA-Regel 
-
-`"graphic": true,`
-Die Postkarte zur "TULLUBA-Regel" zeigt kompakt wie Creative-Commons-Lizenzhinweise richtig erstellt werden. Die Karte ist damit eine ideale Erinnerungs-Stütze bei der Erstellung von Open Educational Resources (OER) oder Open-Access-Materialien. Die TULLUBA-Karte ist ein Produkt der AG Werbung des Netzwerks Landesportal ORCA.nrw. Sie ist eine Bearbeitung der Grafik von Julia Eggestein nach einem Konzept von Sonja Borski und Jöran Muuß-Merholz für OERinfo – Informationsstelle OER (https://open-educational-resources.de/oer-tullu-regel/) lizenziert unter CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.de).
-![](MaterialienIntros/Grafik_Postkarte-TULLUBA_CCBY)
-**`Medienformat`** 
-
-PDF
-svg
-jpg **`erstellt/bearbeitbar mit`** PDF-Editor; Bildverarbeitungsprogramme <br>
-**`Niveaustufe(n)`** "einsteiger": true,
-"praktiker": true, "experte": true<br>
-**`Praxiskategorie(n)`** "oer_finden": true,
-"oer_herstellen": true,
-"oer_managen": true,
-"oer_einfuehren": true,<br>
+Die 'Postkarte' zur **TULLUBA-Regel** zeigt kompakt wie Creative-Commons-Lizenzhinweise richtig erstellt werden. Die Karte ist damit eine **ideale Erinnerungs-Stütze** bei der Erstellung von Open Educational Resources (OER) oder Open-Access-Materialien.
+![](MaterialienIntros/Grafik_Postkarte-TULLUBA_CCBY.png)
+**`Medienformat`** PDF, svg, jpg **`erstellt/bearbeitbar mit`** PDF-Editor; Bildverarbeitungsprogramme <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte
+**`Praxiskategorie(n)`** OER finden, OER herstellen, OER managen, OER einführen<br>
 **`Metadaten`** OER; TULLUBA; Creative Commons; CC-Lizenzen;Open Access; Open Educational Resources<br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
->*CC-Lizenzhinweise erstellen – die TULLUBA-Regel ; von Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/fcf18f89-b750-42aa-a99b-fbf1f244bfab)*
+>*CC-Lizenzhinweise erstellen – die TULLUBA-Regel ; von Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/fcf18f89-b750-42aa-a99b-fbf1f244bfab) <br>
+ Die TULLUBA-Karte ist ein Produkt der AG Werbung des Netzwerks Landesportal ORCA.nrw. Sie ist eine Bearbeitung der Grafik von Julia Eggestein nach einem Konzept von Sonja Borski und Jöran Muuß-Merholz für OERinfo – Informationsstelle OER (https://open-educational-resources.de/oer-tullu-regel/) lizenziert unter CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.de)*
 
 <script>
 window.material = window.material || [];
@@ -1263,25 +1202,14 @@ window.material.push({
 });
 </script>
 
+---
 
 ### Grafik "Was darf ich für OER verwenden?"
-
-`"graphic": true,`
-Diese Sketchnote bietet einen Überblick darüber, welche Materialien bei der Erstellung von Open Educational Resources (OER) verwendet werden können, ohne dass das Urheberrecht verletzt wird (z.B. Materialien unter Creative-Commons-Lizenz, gemeinfreie Materialien, Zitatrecht etc.). Die Grafik liegt als PNG- und Pdf-Datei vor. 
-![](MaterialienIntros/Grafik_Was-darf-ich-fuer-OER-verwenden_CCBY)
-**`Medienformat`** 
-
-PDF
-png **`erstellt/bearbeitbar mit`** 
-
-PDF-Editor
-Bildverarbeitungsprogramme <br>
-**`Niveaustufe(n)`** "einsteiger": true,
-"praktiker": true,<br>
-**`Praxiskategorie(n)`** 
-"oer_herstellen": true,
-"oer_einfuehren": true,
-<br>
+Diese 'Sketchnote' bietet einen Überblick darüber, welche Materialien bei der Erstellung von Open Educational Resources (OER) verwendet werden können, ohne dass das Urheberrecht verletzt wird (z.B. Materialien unter Creative-Commons-Lizenz, gemeinfreie Materialien, Zitatrecht etc.). Die Grafik liegt als PNG- und Pdf-Datei vor. 
+![](MaterialienIntros/Grafik_Was-darf-ich-fuer-OER-verwenden_CCBY.png)
+**`Medienformat`** PDF, png **`erstellt/bearbeitbar mit`** PDF-Editor, Bildverarbeitungsprogramme <br>
+**`Niveaustufe(n)`** Einsteiger (Starter, Praktiker<br>
+**`Praxiskategorie(n)`** OER herstellen, OER einführen<br>
 **`Metadaten`** OER; Urheberrecht; Creative Commons; Zitatrecht; Open Educational Resources; Lehrmaterialien; Medienproduktion; gemeinfrei<br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
@@ -1302,13 +1230,6 @@ window.material.push({
   "link": "#grafik-"was-darf-ich-fuer-oer-verwenden?""
 });
 </script>
-
-
-
-
-
-
-
 
 
 ---
