@@ -638,7 +638,7 @@ window.material.push({
 
 ### The ORCA Ecosystem – Advancing the mission of OER together through competences in the network
 Der **Artikel in englischer Sprache** beleuchtet das  Projekt ORCA.nrw, das als digitales Landesportal für Hochschulen in NRW **offene Bildungsressourcen (OER)** sowie **zielgruppenspezifische Informationen und Services** bereitstellt. ORCA.nrw vereint die Digitalisierungsprojekte der Hochschulen in einer gemeinsamen technischen und personellen Infrastruktur. Die **lokalen Netzwerkstellen** an den Hochschulen fördern die Nutzung und Integration der Angebote in die Lehre und stärken durch ihre Zusammenarbeit die Innovationskraft im ORCA-Ökosystem.<br><br>
-![](MaterialienIntros/Textdokument_ORCA-Ecosystem_ALLERECHTEVORBEHALTEN)<br>
+![](MaterialienIntros/Textdokument_ORCA-Ecosystem_ALLERECHTEVORBEHALTEN.png)<br>
 **`Medienformat`** PDF; Konferenz-Beitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
 **`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte
 **`Praxiskategorie(n)`** Oer finden, OER einführen, OER managen, zu OER forschen
@@ -740,48 +740,6 @@ window.material.push({
   "titel": "„Lehr- und Lernmaterialien frei Haus: Open Educational Resources.“",
   "inhalt": "Der ‘Beitrag‘ im Jahrbuch der FH Dortmund stellt **Open Educational Resources (OER)** vor und zeigt, wie frei verfügbare, lizenzierte Lehrmaterialien **den Hochschulalltag bereichern** können. Durch OER können Lehrende Inhalte flexibel nutzen, anpassen und teilen, was den **Wissensaustausch über Lehre fördert** fördert und Lernmaterialien einfach zugänglich macht. Ein besonderer Fokus liegt auf dem **Landesportal ORCA.nrw**, das Lehrenden und Studierenden in NRW eine **zentrale Anlaufstelle** für hochwertige, offene Bildungsmaterialien bietet.",
   "link": "#„lehr--und-lernmaterialien-frei-haus:-open-educational-resources.“"
-});
-</script>
-
----
-
-### OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen
-
-`Medientyp`
-Darunter steht ein **kurzer** beschreibender Satz mit **gefetteten** Schlagworten.
-![](MaterialienIntros/Textdokument_Umfrage-OER-in-NRW_CCBY40.jpg)
-`Medienformat` *PDF*  
-`erstellt/bearbeitbar mit` *PDF-Editor* <br>
-`Niveaustufe(n)` *Einsteiger (Starter); Praktiker* <br>
-***`Praxiskategorie(n)`*** *OER finden; OER herstellen; OER einführen* <br>
-`Praxiskategorie(n)` *n.a.* <br>
-`Metadaten` *OER Produktion; NRW; Netzwerkstellen; OER Umfrage; Hochschullehrende; Motivation; OER Teilen; OER Veröffentlichung; OER Nutzung; Perspektiven auf OER* <br>
-
->***Zitationsvorschlag nach TULLU-Regel:***
->*Titel; von Geurden, Bianca; Jahn, Markus; Josupeit, Christina; Schotemeier, Sarah; Weber, Tassja (unter Mitarbeit von Schäfer, S. (Fragebogen und Teilauswertung) und Krüger, A. (Teilauswertung)); [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/89bad355-8af3-48c3-bf15-aa6163127039)*
-
-
-<script>
-"level": {
-    "einsteiger": true,
-    "praktiker": true,
-    "experte": true
-  },
-  "praxiskategorie": {
-    "oer_finden": true,
-    "oer_herstellen": true,
-    "oer_lernen": true,
-    "oer_lehren": true,
-    "oer_einfuehren": true,
-    "oer_managen": true,
-    "oer_forschen": true
-  },
-  "media": {
-    "textdoc": true,
-  },
-  "titel": "OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen",
-  "inhalt": "Dies ist der Text der Subzeile = Spalte Inhalt.",
-  "link": "#oer-in-nrw---was-motiviert?-was-hindert?-ergebnisse-einer-umfrage-zur-nutzung,-produktion-und-veröffentlichung-von-open-educational-resources-an-hochschulen
 });
 </script>
 
