@@ -216,7 +216,6 @@ Hier sammeln sich digitale, code-basierte Ressourcen (vor allem HTML und Markdow
 ---
 
 ### OER Policy‐Karte und Karte der Netzwerkstellen in NRW
-
 `Webseite`<br>
 Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.<br><br>
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.png)<br>
@@ -252,7 +251,6 @@ window.material.push({
 
 
 ### infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.
-
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.<br><br>
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.png)<br>
 **`Medienformat`** E-Book, PDF, HTML **`erstellt/bearbeitbar mit`** Web-Editor <br>
@@ -286,7 +284,6 @@ window.material.push({
 ---
 
 ### Open Educational Resources in der Japanologie
-
 Der auf der 'Projektwebseite' verfügbare Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.<br><br>
 ![](MaterialienIntros/Praesentation_OER-Japanologie_CCBYSA.png)<br>
 **`Medienformat`** HTML, Präsentation **`erstellt/bearbeitbar mit`** unbekannt <br>
@@ -314,7 +311,6 @@ window.material.push({
 </script>
 
 ### OER-Policy Kit
-
 Das über 'LiaScript' bereitgestellte Policy Kit ist ein Leitfaden, der **in sieben Schritten** die Entwicklung einer OER-Policy beschreibt und **zusätzliche Materialien und Erläuterungen für Beauftragte im Erstellungsprozess** dazu bereitstellt. Dabei wird der Tatsache Rechnung getragen, dass jeder Entwicklungsprozess einer Policy - mit speziellem Blick auf den **Hochschulbereich** individuell ist und flexibel abläuft.<br><br>
 ![](MaterialienIntros/Webseite_OER-Policy-Kit_CCBYSA40.png)<br>
 
@@ -342,7 +338,6 @@ window.material.push({
 ---
 
 ## Selbstlern-Materialien
-
 Diese Kategorie enthält interaktive Inhalte, wie Selbstlernkurse und Übungen, die Informationen zu OER vermitteln wollen und dabei Lernen in eigenem Tempo ermöglichen. Vor allem eine Kategorie für Einsteiger:innen, aber auch für Praktiker:innen als Inspiration oder Vorlage für eigene Materialien.
 
 ---
@@ -379,8 +374,6 @@ Stand: August 2023",
 ---
 
 ### OER-Wissenspool
-
-`"selbstlernen": true,`
 Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educational Resources** mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für **OER-Showcases**. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen **Installationsanleitungen** zur Einbindung ins eigene LMS zur Verfügung.<br><br>
 ![](MaterialienIntros/Selbstlernkurs_OER‐Wissenspool_CCBY40.png)<br>
 **`Medienformat`** Selbstlernkurs **`erstellt/bearbeitbar mit`** Ilias, Moodle, H5P <br>
@@ -444,7 +437,6 @@ The example is based on a German network. You can find out **how the network wor
 ---
 
 ### Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB
-
 Der ‘Moodle-Kurs‘ bietet Lehrenden, Studierenden und allen Interessierten einen **Einstieg** in die Welt der Open Educational Resources (OER) und die Nutzung von Creative Commons-Lizenzen. Der Kurs besteht aus **drei unabhängig voneinander bearbeitbaren Abschnitten**: Einführung in OER, Erklärung von CC-Lizenzen und Empfehlungen zur Öffnung von Lehre und Lernen, speziell an der Ruhr-Universität Bochum. In einer Bearbeitungszeit von je 15 bis 20 Minuten pro Einheit lernen die Teilnehmenden, wie sie **OER finden, nutzen, erstellen und ihre eigenen Inhalte für eine offene Lehre gestalten** können.<br><br>
 ![](MaterialienIntros/Selbstlernkurs_Lehre-Lernen-oeffnen-OER-RUB_CCBYSA.png)<br>
 **`Medienformat`** Moodle-Kurs **`erstellt/bearbeitbar mit`** Moodle <br>
@@ -471,140 +463,128 @@ window.material.push({
 });
 </script>
 
-
-
 ---
 ---
 
 ## Textdokumente
-
-Hier folgt noch ein Einleitungstext zur Kategorie
+Egal ob Leitfäden, Checklisten oder Handreichungen – Hier bündelns sich fundierte Informationen. Perfekt für Recherche und als Quelle, Ergänzung oder Vorlage für eigene Arbeiten.
 
 ---
 
-### Praxisleitfaden: Aufzeichnung von Online‐Konferenzbeiträgen als OER    
-Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **Vorbereitung, Durchführung** und **Nachbereitung** einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.
-![](MaterialienIntros/Textdokument_Aufzeichnung-Online‐Konferenzbeitraege_OER_CCBY40.jpg)
-***`Medienformat:`*** *Textdokument* ***`erstellt/bearbeitbar mit:`*** *MS Word* <br>
-***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
-***`Praxiskategorie(n)`*** *OER herstellen; OER einführen; OER managen* <br>
-***`Metadaten:`*** *Online-Veranstaltung; Hochschuldidaktik; Leitfaden; Videoproduktion; OER-Fachtag; Konferenzorganisation; Dokumentation; Digitalisierung*
+### Aufzeichnung von Online-Konferenzbeiträgen als OER: Ein Praxisleitfaden
+Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **Vorbereitung, Durchführung** und **Nachbereitung** einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.<br><br>
+![](MaterialienIntros/Textdokument_Aufzeichnung-Online‐Konferenzbeitraege_OER_CCBY40.png)<br>
+**`Medienformat`** PDF, Textdokument **`erstellt/bearbeitbar mit`** MS Word <br>
+**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker<br>
+**`Praxiskategorie(n)`** OER herstellen, OER einführen; OER managen<br>
+**`Metadaten`** Online-Veranstaltung; Hochschuldidaktik; Leitfaden; Videoproduktion; OER-Fachtag; Konferenzorganisation; Dokumentation; Digitalisierung<br>
 
-> ***Zitationsvorschlag nach TULLU-Regel:***   
-> *Aufzeichnung von Online‐Konferenzbeiträgen als OER: Ein Praxisleitfaden; von Geurden, Bianca; Görlich, Sarah; Hützen, Nicole; Jahn, Markus; Méndez Parente, Josefine; Nitzsche, Sina; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/d7d698e4-d9e9-47fb-87e4-86283206c982)*
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Aufzeichnung von Online-Konferenzbeiträgen als OER: Ein Praxisleitfaden; von Geurden, Bianca; Görlich, Sarah; Hützen, Nicole Hützen, Jahn, Markus; Mendez Parente, Josefine; Nitzsche; Sina; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/d7d698e4-d9e9-47fb-87e4-86283206c982)*
 
 <script>
-"level": {
-    "beginner": true,
-    "praktiker": true,
-  },
-  "praxiskategorie": {
-    "oer_herstellen": true,
-    "oer_einführen": true,
-    "oer_managen": true,
-  },
-  "media": {
-    "textdoc": true,  
-  },
-  "titel": "Praxisleitfaden: Aufzeichnung von Online‐Konferenzbeiträgen als OER",
-  "inhalt": "Das Textdokument gibt Vortragenden wertvolle Tipps und Tricks für die Vorbereitung, Durchführung und Nachbereitung einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.",
-  "link": "#praxisleitfaden:-aufzeichnung-von-online‐konferenzbeiträgen-als-oer"
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+"praktiker": true,
+,
+  "praxiskategorie": "oer_herstellen": true,
+"oer_einfuehren": true,
+"oer_managen": true,,
+  "media": {""textdoc": true,": true},
+  "titel": "Aufzeichnung von Online-Konferenzbeiträgen als OER: Ein Praxisleitfaden",
+  "inhalt": "Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **Vorbereitung, Durchführung** und **Nachbereitung** einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.",
+  "link": "#aufzeichnung-von-online-konferenzbeitraegen-als-oer:-ein-praxisleitfaden"
 });
 </script>
 
 ---
 
-### Checkliste: Open Educational Resources erstellen (v2.0) 
+### Checkliste Open Educational Resources erstellen (v2.0)
 Der Zweck dieses `Textdokuments` / Leitfadens ist, Lehrenden eine **Orientierung** zu geben, welche **rechtlichen Maßgaben** sie einhalten müssen und nach welchen **Qualitätsmerkmalen** sie OER-Materialien entwickeln und beurteilen können.
-![](MaterialienIntros/Textdokument_Checkliste-OER-erstellen-v2-0_CCBY40.jpg)
-***`Medienformat:`*** *PDF; Textdokument* ***`erstellt/bearbeitbar mit:`*** *MS Word* <br>
-***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker*<br>
-***`Praxiskategorie(n)`*** *OER herstellen*<br>
-***`Metadaten:`*** *OER; Urheberrecht; Barrierefreiheit; Persönlichkeitsrecht; Produktion, Qualität*
+![](MaterialienIntros/Textdokument_Checkliste-OER-erstellen-v2-0_CCBY40.png)
+**`Medienformat`** PDF
+Textdokument **`erstellt/bearbeitbar mit`** MS Word <br>
+**`Niveaustufe(n)`** Einsteiger (Starter)<br>
+**`Praxiskategorie(n)`** OER herstellen, OER managen<br>
+**`Metadaten`** OER; Urheberrecht; Barrierefreiheit; Persönlichkeitsrecht; Produktion, Qualität<br>
 
-> ***Zitationsvorschlag nach TULLU-Regel:***   
-> *Checkliste Open Educational Resources erstellen (v2.0); von Kobusch,Alexander; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/6c1f1da2-7ff6-4dd6-b87b-0404b980cc50)*
-
-<script>
-"level": {
-    "beginner": true,
-  },
-  "praxiskategorie": {
-    "oer_herstellen": true,
-    "oer_managen": true,
-  },
-  "media": {
-    "textdoc": true,
-   
-  },
-  "titel": "Checkliste: Open Educational Resources erstellen (v2.0)",
-  "inhalt": "Der Leitfadens hat den Zweck, Lehrenden eine Orientierung zu geben, welche rechtlichen Maßgaben sie einhalten müssen und nach welchen Qualitätsmerkmalen sie OER-Materialien entwickeln und beurteilen können.
-",
-  "link": "#checkliste:-open-educational-resources-erstellen-(v2.0)"
-});
-</script>
----
-
-### Handreichung: Veröffentlichung von Lehr‐Lern‐Materialien als OER
-Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für andere (Hochschul-) Kontexte angepasst werden**. Es enthält **kompakte Informationen** zu Creative-Commons-Lizenzen und **Tipps** rund um das Urheberrecht zur Publikation von Materialien als OER.
-![](MaterialienIntros/Textdokument_Veroeffentlichung-LLM-alsOER_CCBYSA40.jpg)
-***`Medienformat:`*** *Textdokument; PDF* ***`erstellt/bearbeitbar mit:`*** *MS Word* <br>
-***`Niveaustufe(n):`*** *Praktiker<br>
-***`Praxiskategorie(n)`*** *OER herstellen*<br>
-***`Metadaten:`*** *OER; Creative Commons; Lehrmaterialien; E-Learning; Open Educational Resources*
-
-> ***Zitationsvorschlag nach TULLU-Regel:***   
-> *Veröffentlichung von Lehr‐Lern‐Materialien als OER; von Scherer, Elisabeth; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Twillo](https://www.twillo.de/edusharing/components/render/53d9ee69‐384c‐4ddb‐bfc3‐a906197f5252)*
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Checkliste Open Educational Resources erstellen (v2.0); von Kobusch,Alexander; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/6c1f1da2-7ff6-4dd6-b87b-0404b980cc50)*
 
 <script>
-"level": {
-    "praktiker": true,
-  },
-  "praxiskategorie": {
-    "oer_herstellen": true,
-  },
-  "media": {
-    "textdoc": true,
-   
-  },
-  "titel": "Handreichung: Veröffentlichung von Lehr‐Lern‐Materialien als OER",
-  "inhalt": "Das Textdokument wurde für Lehrende der HHU erstellt, kann aber leicht für andere (Hochschul-) Kontexte angepasst werden. Es enthält kompakte Informationen zu Creative-Commons-Lizenzen und Tipps rund um das Urheberrecht zur Publikation von Materialien als OER.",
-  "link": "#handreichung:-veröffentlichung-von-lehr‐lern‐materialien-als-oer"
+window.material = window.material || [];
+window.material.push({
+  "level": "einsteiger": true,
+,
+  "praxiskategorie": 
+"oer_herstellen": true,
+"oer_managen": true,
+,
+  "media": {""textdoc": true,": true},
+  "titel": "Checkliste Open Educational Resources erstellen (v2.0)",
+  "inhalt": "Der Zweck dieses `Textdokuments` / Leitfadens ist, Lehrenden eine **Orientierung** zu geben, welche **rechtlichen Maßgaben** sie einhalten müssen und nach welchen **Qualitätsmerkmalen** sie OER-Materialien entwickeln und beurteilen können.",
+  "link": "#checkliste-open-educational-resources-erstellen-(v2.0)"
 });
 </script>
 
 ---
 
-### Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien 
+### Handreichung: Veröffentlichung von Lehr-Lern-Materialien als OER
+Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für andere (Hochschul-) Kontexte angepasst werden**. Es enthält **kompakte Informationen** zu Creative-Commons-Lizenzen und **Tipps** rund um das Urheberrecht zur Publikation von Materialien als OER.<br><br>
+![](MaterialienIntros/Textdokument_Veroeffentlichung-LLM-alsOER_CCBYSA40.png)<br>
+**`Medienformat`** PDF, Textdokument **`erstellt/bearbeitbar mit`** MS Word <br>
+**`Niveaustufe(n)`** Praktiker<br>
+**`Praxiskategorie(n)`**  OER herstellen<br>
+**`Metadaten`** OER; Creative Commons; Lehrmaterialien; E-Learning; Open Educational Resources<br>
+
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Handreichung: Veröffentlichung von Lehr-Lern-Materialien als OER; von Scherer, Elisabeth; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/53d9ee69-384c-4ddb-bfc3-a906197f5252)*
+
+<script>
+window.material = window.material || [];
+window.material.push({
+  "level": "praktiker": true,
+,
+  "praxiskategorie": 
+"oer_herstellen": true,,
+  "media": {""textdoc": true,": true},
+  "titel": "Handreichung: Veröffentlichung von Lehr-Lern-Materialien als OER",
+  "inhalt": "Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für andere (Hochschul-) Kontexte angepasst werden**. Es enthält **kompakte Informationen** zu Creative-Commons-Lizenzen und **Tipps** rund um das Urheberrecht zur Publikation von Materialien als OER.",
+  "link": "#handreichung:-veroeffentlichung-von-lehr-lern-materialien-als-oer"
+});
+</script>
+
+---
+
+### Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien
 Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.
-![](MaterialienIntros/Textdokument_Erstellung-OER‐Materialien-ORCAnrw_CCBY40.jpg)
-***`Medienformat:`*** *PDF* ***`erstellt/bearbeitbar mit:`*** *PDF-Editor* <br>
-***`Niveaustufe(n):`*** *Praktiker <br>
-***`Praxiskategorie(n)`*** *OER herstellen* <br>
-***`Metadaten:`*** *Handreichung; Landesportal ORCA.nrw; Material erstellen; Creative-Commons-Lizenz; Lizenz vergeben; CC-Lizenz*
+![](MaterialienIntros/Textdokument_Erstellung-OER‐Materialien-ORCAnrw_CCBY40.png)
+**`Medienformat`** PDF, Textdokument **`erstellt/bearbeitbar mit`** MS Word <br>
+**`Niveaustufe(n)`** Praktiker<br>
+**`Praxiskategorie(n)`** OER herstellen<br>
+**`Metadaten`** Handreichung; Landesportal ORCA.nrw; Material erstellen; Creative-Commons-Lizenz; Lizenz vergeben; CC-Lizenz<br>
 
-> ***Zitationsvorschlag nach TULLU-Regel:***   
-> *Handreichung zur Erstellung von OER‐Materialien für ORCA.nrw - Schwerpunkt: Nutzung und Einbettung von nicht offen lizenzierten Materialien; von Josupeit, Christina; Funk, Christian; Anderheide, Marie-Sophie; Meyer, Elisabeth [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1ead1f94-6298-41e6-92c0-d11c30bb19a3)*
+>***Zitationsvorschlag nach TULLU-Regel:***
+>*Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien; von Josupeit, Christina; Funk, Christian; Anderheide, Marie-Sophie; Meyer, Elisabeth; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1ead1f94-6298-41e6-92c0-d11c30bb19a3)*
 
 <script>
-"level": {
-    "praktiker": true,
-  },
-  "praxiskategorie": {
-    "oer_herstellen": true,
-  },
-  "media": {
-    "textdoc": true,
-   
-  },
+window.material = window.material || [];
+window.material.push({
+  "level": "praktiker": true,,
+  "praxiskategorie": "oer_herstellen": true,,
+  "media": {""textdoc": true,": true},
   "titel": "Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien",
   "inhalt": "Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.",
   "link": "#handreichung:-schwerpunkt-nutzung-und-einbettung-von-nicht-offen-lizenzierten-materialien"
 });
 </script>
 
----
 
+
+
+---
+---
 ## Vorträge / Interviews
 
 Hier folgt noch ein Einleitungstext zur Kategorie
