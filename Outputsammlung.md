@@ -860,7 +860,6 @@ window.material.push({
 ---
 
 ### Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können
-`"textdoc": true,`
 Diese `Handreichung` ist das Ergebnis einer Kooperation im Rahmen des Netzwerks, den OER-Expert:innen der NRW-Hochschulen, im Open Resources Campus NRW (ORCA.nrw). Hierbei widmen sich die OER-Expert:innen der Etablierung und Unterstützung einer Open Educational Culture an Universitäten, Hochschulen für Angewandte Wissenschaften sowie Musik- und Kunsthochschulen und geben **praktische Tipps und Anleitungen**, wie das gelingen kann. Das vorliegende Dokument, das Teil der Handlungsempfehlungen ist, beschäftigt sich mit dem Aspekt, wie **Austauschformate** zur Förderung einer Open Educational Culture an der Hochschule beitragen können. Es richtet sich primär an **OER-Multiplikator:innen**, die an ihren Bildungseinrichtungen eine **Open Educational Culture** fördern wollen.<br><br>
 ![](MaterialienIntros/Textdokument_Austauschformate-Foerderung-OEC-HS_CCBY.png)<br>
 **`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
