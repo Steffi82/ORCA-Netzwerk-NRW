@@ -505,7 +505,7 @@ window.material.push({
 ---
 
 ## Textdokumente
-![Egal ob Leitfäden, Checklisten oder Handreichungen – Hier bündelns sich fundierte Informationen. Perfekt für Recherche und als Quelle, Ergänzung oder Vorlage für eigene Arbeiten.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Textdoc_1200x80px.png)
+![Egal ob Leitfäden, Checklisten oder Handreichungen – Hier bündelns sich fundierte Informationen. Perfekt für Recherche und als Quelle, Ergänzung oder Vorlage für eigene Arbeiten.](Bilder/Mats_Netzwerk_Kategorien_KategorieTextdoc_1200x80px.png)
 Egal ob Leitfäden, Checklisten oder Handreichungen – Hier bündelns sich fundierte Informationen. Perfekt für Recherche und als Quelle, Ergänzung oder Vorlage für eigene Arbeiten.
 
 ---
@@ -1017,14 +1017,6 @@ window.material.push({
 </script>
 
 ---
----
-
-## Videos
-![Lernvideos, Vorträge und Interviews: In dieser Kategorie finden Sie visuelle Unterstützung zu Themen und Konzepten rund um OER. Die Materialien eignen sich sowohl zur Informationsvermittlung als auch zur Weitergabe an Kolleg:innen und Muliplikator:innen – ideal, um Inhalte lebendig und nachhaltig zu präsentieren.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Video_1200x80px.png)
-Lernvideos, Vorträge und Interviews: In dieser Kategorie finden Sie visuelle Unterstützung zu Themen und Konzepten rund um OER. Die Materialien eignen sich sowohl zur Informationsvermittlung als auch zur Weitergabe an Kolleg:innen und Muliplikator:innen – ideal, um Inhalte lebendig und nachhaltig zu präsentieren.
-
----
-
 ### 33 Minuten für… Das Konzept der Open Educational Resources (OER)
 Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.<br><br>
 ![](MaterialienIntros/Video_Coffee_Lectures_Konzept-OER_CCBY40.png)<br>
@@ -1050,6 +1042,13 @@ window.material.push({
   "link": "#33-minuten-fuer…-das-konzept-der-open-educational-resources-(oer)"
 });
 </script>
+
+---
+---
+
+## Videos
+![Lernvideos, Vorträge und Interviews: In dieser Kategorie finden Sie visuelle Unterstützung zu Themen und Konzepten rund um OER. Die Materialien eignen sich sowohl zur Informationsvermittlung als auch zur Weitergabe an Kolleg:innen und Muliplikator:innen – ideal, um Inhalte lebendig und nachhaltig zu präsentieren.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Video_1200x80px.png)
+Lernvideos, Vorträge und Interviews: In dieser Kategorie finden Sie visuelle Unterstützung zu Themen und Konzepten rund um OER. Die Materialien eignen sich sowohl zur Informationsvermittlung als auch zur Weitergabe an Kolleg:innen und Muliplikator:innen – ideal, um Inhalte lebendig und nachhaltig zu präsentieren.
 
 ---
 
