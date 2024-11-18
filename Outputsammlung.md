@@ -275,7 +275,7 @@ Die **Praxiskategorien**, basierend auf [OERinfo](http://www.oer-info.de), unter
 ---
 
 ## Webseiten
-
+![Hier sammeln sich digitale, code-basierte Ressourcen (vor allem HTML und Markdown-basiert), wie Blogs oder Git-Hub-Repositorien.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Webseite_1200x80px.png)
 Hier sammeln sich digitale, code-basierte Ressourcen (vor allem HTML und Markdown-basiert), wie Blogs oder Git-Hub-Repositorien.
 
 ---
@@ -375,6 +375,7 @@ window.material.push({
 ---
 
 ## Selbstlern-Materialien
+![Diese Kategorie enthält interaktive Inhalte, wie Selbstlernkurse und Übungen, die Informationen zu OER vermitteln wollen und dabei Lernen in eigenem Tempo ermöglichen. Vor allem eine Kategorie für Einsteiger:innen, aber auch für Praktiker:innen als Inspiration oder Vorlage für eigene Materialien.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Selbstlern_1200x80px.png)
 Diese Kategorie enthält interaktive Inhalte, wie Selbstlernkurse und Übungen, die Informationen zu OER vermitteln wollen und dabei Lernen in eigenem Tempo ermöglichen. Vor allem eine Kategorie für Einsteiger:innen, aber auch für Praktiker:innen als Inspiration oder Vorlage für eigene Materialien.
 
 ---
@@ -504,6 +505,7 @@ window.material.push({
 ---
 
 ## Textdokumente
+![Egal ob Leitfäden, Checklisten oder Handreichungen – Hier bündelns sich fundierte Informationen. Perfekt für Recherche und als Quelle, Ergänzung oder Vorlage für eigene Arbeiten.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Textdoc_1200x80px.png)
 Egal ob Leitfäden, Checklisten oder Handreichungen – Hier bündelns sich fundierte Informationen. Perfekt für Recherche und als Quelle, Ergänzung oder Vorlage für eigene Arbeiten.
 
 ---
@@ -929,7 +931,7 @@ Dieser Handreichungsteil richtet sich primär an OER-Multiplikator*innen, die an
 ---
 
 ## Präsentationen
-
+![Präsentationen bündeln Wissen in visueller Form. Hier finden sich solche, zu denen die Vorträge nicht aufgezeichnet wurden oder auch, die zusätzlich zu aufgezeichneten Vorträgen bereitgesteellt wurden. Ideal zur Übernahme einzelner Aspekte oder auch roter Fäden.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Praesi_1200x80px.png)
 Präsentationen bündeln Wissen in visueller Form. Hier finden sich solche, zu denen die Vorträge nicht aufgezeichnet wurden oder auch, die zusätzlich zu aufgezeichneten Vorträgen bereitgesteellt wurden. Ideal zur Übernahme einzelner Aspekte oder auch roter Fäden.
 
 ---
@@ -1018,6 +1020,7 @@ window.material.push({
 ---
 
 ## Videos
+![Lernvideos, Vorträge und Interviews: In dieser Kategorie finden Sie visuelle Unterstützung zu Themen und Konzepten rund um OER. Die Materialien eignen sich sowohl zur Informationsvermittlung als auch zur Weitergabe an Kolleg:innen und Muliplikator:innen – ideal, um Inhalte lebendig und nachhaltig zu präsentieren.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Video_1200x80px.png)
 Lernvideos, Vorträge und Interviews: In dieser Kategorie finden Sie visuelle Unterstützung zu Themen und Konzepten rund um OER. Die Materialien eignen sich sowohl zur Informationsvermittlung als auch zur Weitergabe an Kolleg:innen und Muliplikator:innen – ideal, um Inhalte lebendig und nachhaltig zu präsentieren.
 
 ---
@@ -1141,7 +1144,8 @@ window.material.push({
 ---
 
 ## Audio
-Diese Kategorie beinhaltet Podcasts, Musiksammlungen und nicht-bildgestützte Interviews und Vorträge, die nur auf der Tonspur verfügbar sind. Neben der Wiederverwendbarkeit der Musikstücke laden die Tondokumente ein, sich inspirieren zu lassen - beim Sport, beim Autofahren oder einfach nebenher etwas über OER zu erfahren..
+![Diese Kategorie beinhaltet Podcasts, Musiksammlungen und nicht-bildgestützte Interviews und Vorträge, die nur auf der Tonspur verfügbar sind. Neben der Wiederverwendbarkeit der Musikstücke laden die Tondokumente ein, sich inspirieren zu lassen - beim Sport, beim Autofahren oder einfach nebenher etwas über OER zu erfahren.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Audio_1200x80px.png)
+Diese Kategorie beinhaltet Podcasts, Musiksammlungen und nicht-bildgestützte Interviews und Vorträge, die nur auf der Tonspur verfügbar sind. Neben der Wiederverwendbarkeit der Musikstücke laden die Tondokumente ein, sich inspirieren zu lassen - beim Sport, beim Autofahren oder einfach nebenher etwas über OER zu erfahren.
 
 ---
 
@@ -1206,6 +1210,7 @@ window.material.push({
 ---
 
 ### Grafiken und Bilder
+![Diese Kategorie umfasst Informationsgrafiken, Bilder und Werbematerialien, die flexibel einsetzbar sind. Ob zur Veranschaulichung von Themen oder zur Gestaltung eigener Inhalte – die Materialien können ganz oder in Teilen nachgenutzt und in verschiedene Formate eingebunden werden.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_GraphikBilder_1200x80px.png)
 Diese Kategorie umfasst Informationsgrafiken, Bilder und Werbematerialien, die flexibel einsetzbar sind. Ob zur Veranschaulichung von Themen oder zur Gestaltung eigener Inhalte – die Materialien können ganz oder in Teilen nachgenutzt und in verschiedene Formate eingebunden werden.
 
 ### ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien
