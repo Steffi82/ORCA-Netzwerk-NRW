@@ -2,7 +2,7 @@
 author:   Netzwerk ORCA.nrw
 email:    your@mail.org
 
-icon:     Bilder/Mats_Netzwerk_Logo.png
+icon:     Bilder/Mats_Netzwerk_Logo_120x16px.png
 
 version:  0.0.1
 
