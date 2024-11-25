@@ -1,4 +1,8 @@
+Lnk zum Liascript: https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/Steffi82/ORCA-Netzwerk-NRW/main/Outputsammlung.md
+
 Die Outputsammlung ist noch im Aufbau. Entsprechend gilt sie aktuell noch nicht als veröffentlicht.
+
+
 Feedback ist immer gerne willkommen.
 
 
