@@ -493,9 +493,9 @@ window.material.push({
   "media": {
     "selbstlernen": true,
       }
-  "titel": "Learning Snacks: "ORCA.nrw: A University Network for OER"",
+  "titel": "Learning Snacks: "ORCA.nrw: A University Network for OER",
   "inhalt": "You can find out **how the german ORCA.nrw-network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.",
-  "link": "#learning-snacks:-"orca.nrw:-a-university-network-for-oer""
+  "link": "#learning-snacks:-"orca.nrw:-a-university-networkn-for-OER"
 });
 </script>
 ---
@@ -591,13 +591,16 @@ Textdokument `erstellt/bearbeitbar mit` MS Word <br>
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-,
-  "praxiskategorie": 
-"oer_herstellen": true,
-"oer_managen": true,
-,
-  "media": {"textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+    "oer_managen": true,
+  },
+  "media": {
+    "textdoc": true,
+    },
   "titel": "Checkliste Open Educational Resources erstellen (v2.0)",
   "inhalt": "Der Zweck dieses `Textdokuments` / Leitfadens ist, Lehrenden eine **Orientierung** zu geben, welche **rechtlichen Maßgaben** sie einhalten müssen und nach welchen **Qualitätsmerkmalen** sie OER-Materialien entwickeln und beurteilen können.",
   "link": "#checkliste-open-educational-resources-erstellen-(v2.0)"
