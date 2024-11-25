@@ -318,28 +318,34 @@ window.material.push({
 ### infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.<br><br>
 ![](MaterialienIntros/Webseite_infOERmiert-Netzwerk-Landesportal_CCBY40.png)<br>
-**`Medienformat`** E-Book, PDF, HTML **`erstellt/bearbeitbar mit`** Web-Editor <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
-**`Praxiskategorie(n)`** OER finden; OER herstellen; mit OER Lernen, mit OER lehren, OER einführen, OER managen, über OER forschen<br>
-**`Metadaten`** OER; ORCA.nrw; Materialtipp; Praxiswerkstatt; Creative Commons; CC-Lizenz; Lizenzhinweis; OER-Policy; OER-Content<br>
+`Medienformat` E-Book, PDF, HTML `erstellt/bearbeitbar mit` Web-Editor <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker, Experte<br>
+`Praxiskategorie(n)` OER finden; OER herstellen; mit OER Lernen, mit OER lehren, OER einführen, OER managen, über OER forschen<br>
+`Metadaten` OER; ORCA.nrw; Materialtipp; Praxiswerkstatt; Creative Commons; CC-Lizenz; Lizenzhinweis; OER-Policy; OER-Content<br>
 
 >***Zitationsvorschlag nach TULLU-Regel:***
->*infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.; von Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [OERSI](https://oersi.org/resources/aHR0cHM6Ly9saW5kYWhhbG0taHNiaS5naXRodWIuaW8vaW5mT0VSbWllcnQ= )*
+>*infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.; von Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [OERSI](https://oersi.org/resources/aHR0cHM6Ly9saW5kYWhhbG0taHNiaS5naXRodWIuaW8vaW5mT0VSbWllcnQ=)*
 
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true,
-"experte": true,,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_lernen": true,
-"oer_lehren": true,
-"oer_einfuehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""webseite": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+    "experte": true,
+  },
+  "praxiskategorie": { 
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true,
+  },
+  "media": {
+    "webseite": true,
+  },
   "titel": "infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.",
   "inhalt": "Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.",
   "link": "#infoermiert-‐-der-oer‐blog-vom-netzwerk-landesportal-orca.nrw."
