@@ -368,9 +368,17 @@ Das über 'LiaScript' bereitgestellte Policy Kit ist ein Leitfaden, der **in sie
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": {"praktiker": true, "experte": true},
-  "praxiskategorie": {"oer_einfuehren": true, "oer_managen": true},
-  "media": {"textdokument": true},
+  "level": {
+    "praktiker": true,
+    "experte": true
+  },
+  "praxiskategorie": {
+    "oer_einfuehren": true, 
+    "oer_managen": true
+  },
+  "media": {
+    "textdokument": true
+  },
   "titel": "OER-Policy Kit",
   "inhalt": "Immer mehr Hochschulen bekennen sich zu Openness und wollen mit einer OER-Policy das Erstellen und Teilen von OER unterstützen. Das Policy Kit ist ein Leitfaden, der sieben Schritte für die Entwicklung einer OER-Policy beschreibt und Materialien wie eine Muster-Policy oder Mailvorlagen enthält.",
   "link": "#oer-policy-kit"
@@ -387,13 +395,13 @@ Diese Kategorie enthält interaktive Inhalte, wie Selbstlernkurse und Übungen, 
 ---
 
 ### OER‐Glossar   
-Dieses `Nachschlagewerk` erläutert **52 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). <br> 
-Stand: August 2023<br><br> 
+Dieses `Nachschlagewerk` erläutert **55 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). <br> 
+Stand: Oktober 2024<br> 
 ![](MaterialienIntros/Selbstlernkurs_OER-Glossar_CCBY40.png)<br>
-***`Medienformat:`*** *Selbstlernkurs* ***`erstellt/bearbeitbar mit:`*** *ILIAS; Moodle, HTML* <br>
-***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker; Experte* <br>
-***`Praxiskategorie(n)`*** *tbd*<br>
-***`Metadaten:`*** *Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium*
+`Medienformat:` Selbstlernkurs `erstellt/bearbeitbar mit:` ILIAS; Moodle, HTML <br>
+`Niveaustufe(n):` Einsteiger (Starter); Praktiker; Experte <br>
+`Praxiskategorie(n)` OER finden, OER herstellen, mit OER lernen, mit OER lehren<br>
+`Metadaten:* Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium
 
 > ***Zitationsvorschlag nach TULLU-Regel:***   
 > *OER‐Glossar; von Gödecke, Svenja; Halm, Linda; Homp, Frank; Kobusch, Alexander; Schaffeld, Laura; Spaude, Magdalena; Weber, Tassja; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [ILIAS der Uni zu Köln](https://www.edulabs.uni‐koeln.de/goto.php?target=crs_2218&client_id=iliasedulabs)*
@@ -401,16 +409,22 @@ Stand: August 2023<br><br>
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true,
-"experte": true,,
-  "praxiskategorie": "oer_einfuehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""selbstlernen": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+    "experte": true,
+  },
+ "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+  },
+  "media": {
+    "selbstlernen": true,
+  },
   "titel": "OER-Glossar",
-  "inhalt": "Dieses `Nachschlagewerk` erläutert **52 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). <br> 
-Stand: August 2023",
+  "inhalt": "Dieses `Nachschlagewerk` erläutert **55 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). Stand: Oktober 2024",
   "link": "#oer-glossar"
 });
 </script>
