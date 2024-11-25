@@ -1209,13 +1209,16 @@ In diesem ‘Video‘ geben die Netzwerkstellen eine umfassende **Einführung in
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": 
-"praktiker": true,,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,,
-  "media": {"
-
-"video": true,": true},
+  "level":{
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+  },
+  "media": {
+    "video": true,
+  },
   "titel": "OER & CC-Lizenzen. Ein Bespiel für einfache ppt-Videoproduktionen",
   "inhalt": "In diesem ‘Video‘ geben die Netzwerkstellen eine umfassende **Einführung in die Welt der Open Educational Resources** (OER) und **Creative Commons-Lizenzen**. Der Clou: DieUmsetzung erfolgt als Video einer vertonten Folienpräsentation. Jede Netzwerkstelle übernimmt dabei einen speziellen **Themenbereich**: von der grundlegenden Erklärung, was OER bedeutet, über die Prinzipien der offenen Lizensierung und mögliche Einschränkungen der „5 Freiheiten“ durch die verschiedenen CC-Lizenzmodule bis hin zur Kombination der Module. **Konkrete Beispiele und Layoutvorschläge für die Darstellung der Lizenzangaben** runden den Vortrag ab und bieten praktische Anwendungshilfen für die eigene OER-Erstellung.",
   "link": "#oer-&-cc-lizenzen.-ein-bespiel-fuer-einfache-ppt-videoproduktionen"
@@ -1238,14 +1241,16 @@ Die 'Video-Reihe' **OER-Testimonials** ist im Rahmen des Dortmunder OER-Zirkels(
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": 
-"praktiker": true, ,
-  "praxiskategorie": 
-"oer_herstellen": true,
-"oer_lehren": true,,
-  "media": {"
-
-"video": true,": true},
+  "level": {
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+    "oer_lehren": true,
+  },
+  "media": {
+    "video": true,
+  },
   "titel": "OER-Testimonials: Materials Caching ",
   "inhalt": "Die Reihe "OER-Testimonials" ist im Rahmen des Dortmunder OER-Zirkels(Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH und TU Dortmund). Die Reihe stellt Produzent*innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources, OER) vor. Hier Beispielhaft das Projekt Material Caching, das im Rahmen des DigiFellow.... ",
   "link": "#oer-testimonials:-materials-caching-"
@@ -1266,16 +1271,21 @@ In dieser 'Aufzeichnung des **moderierten Kamingesprächs** diskutieren Expert:i
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true, "experte": true,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_lehren": true,
-"oer_einfuehren": true,
-"oer_managen": true,,
-  "media": {"
-
-"video": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+  },
+  "media": {
+    "video": true,
+  },
   "titel": "Virtuelles Kamingespräch: OER in der Hochschule",
   "inhalt": "In diesem moderierten Kamingespräch diskutieren Expert:innen in lockerer Runde zum Thema "OER in der Hochschullehre".Teilnehmende konnten darüber hinaus Fragen stellen und sich miteinbringen! Die Runde geht unter anderem den Fragen nach, wieder Weg von einer Idee zur Produktion einer nachhaltig nutzbaren freien Bildungsressource institutionell begleitet werden kann, wie eine OER zur gemeinsamen Reflexion von Videos aussehen kann und wie eine OER-Community funktionieren kann.",
   "link": "#virtuelles-kamingespraech:-oer-in-der-hochschule"
@@ -1307,12 +1317,16 @@ Das **Tape OER Tracks: The Best Music for Educational Videos** beinhaltet **30 f
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": 
-"praktiker": true,,
-  "praxiskategorie": "oer_herstellen": true,
-"oer_lernen": true,
-"oer_lehren": true,,
-  "media": {""audio": true,": true},
+  "level": {
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,"oer_lernen": true,
+    "oer_lehren": true,
+  },
+  "media": {
+    "audio": true,
+  },
   "titel": "OER Tracks: The Best Music for Educational Videos, Volume 1 ",
   "inhalt": "Das Tape "OER Tracks: The Best Music for Educational Videos" beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler*innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.",
   "link": "#oer-tracks:-the-best-music-for-educational-videos,-volume-1-"
@@ -1333,15 +1347,20 @@ In dieser ‘Podcast-Folge‘ teilen die Geschäftsführung von ORCA.nrw, dem im
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true,,
-  "praxiskategorie": "oer_finden": true,
-"oer_lernen": true,
-"oer_lehren": true,
-"oer_einfuehren": true,
-"oer_managen": true,
-,
-  "media": {""audio": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+  },
+  "media": {
+    "audio": true,
+  },
   "titel": "zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann",
   "inhalt": "Im ‘Podcast‘ teilen die Geschäftsführung von ORCA.nr, dem im August 2021 gestarteten Landesportal für Studium und Lehre, sowie Vertreter:innen der beteiligten Hochschulformen (Universitäten, HAWs, Kunst- und Musikhochschulen) **Einblicke in ihre Aufgaben und Verantwortungsbereiche. Konkrete Themen sind die **Entstehung des Portals**, die **Aufgaben der Geschäftsstelle und der Netzwerkstellen**, die spezifischen **Herausforderungen der verschiedenen Hochschulformen** sowie die **Services**, die die Plattform bietet. Zudem wird erläutert, woher die Open Educational Resources (OER) kommen und wie sie genutzt werden können.",
   "link": "#zugehoert-080:-im-gespraech-mit-alexander-kobusch,-gabi-reichardt,-magdalena-spaude-und-markus-deimann"
@@ -1369,15 +1388,20 @@ Das 'Plakat' stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene B
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true, "experte": true,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_einfuehren": true,
-"oer_managen": true,,
-  "media": {"
-
-"graphic": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+  },
+  "media": {
+    "graphic": true,
+  },
   "titel": "ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien",
   "inhalt": "Das 'Plakat' stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Es beschreibt den Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, Kooperation und Austausch zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln.",
   "link": "#orca.nrw-–-das-sozio-technische-netzwerk-fuer-offene-bildungsmaterialien"
@@ -1401,13 +1425,20 @@ Die 'Postkarte' zur **TULLUBA-Regel** zeigt kompakt wie Creative-Commons-Lizenzh
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true, "experte": true,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_managen": true,
-"oer_einfuehren": true,,
-  "media": {""graphic": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_managen": true,
+    "oer_einfuehren": true,
+  },
+  "media": {
+    "graphic": true,
+  },
   "titel": "CC-Lizenzhinweise erstellen – die TULLUBA-Regel ",
   "inhalt": "Die Postkarte zur "TULLUBA-Regel" zeigt kompakt wie Creative-Commons-Lizenzhinweise richtig erstellt werden. Die Karte ist damit eine ideale Erinnerungs-Stütze bei der Erstellung von Open Educational Resources (OER) oder Open-Access-Materialien. Die TULLUBA-Karte ist ein Produkt der AG Werbung des Netzwerks Landesportal ORCA.nrw. Sie ist eine Bearbeitung der Grafik von Julia Eggestein nach einem Konzept von Sonja Borski und Jöran Muuß-Merholz für OERinfo – Informationsstelle OER (https://open-educational-resources.de/oer-tullu-regel/) lizenziert unter CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.de).",
   "link": "#cc-lizenzhinweise-erstellen-–-die-tulluba-regel "
@@ -1430,13 +1461,17 @@ Diese 'Sketchnote' bietet einen Überblick darüber, welche Materialien bei der 
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true,,
-  "praxiskategorie": 
-"oer_herstellen": true,
-"oer_einfuehren": true,
-,
-  "media": {""graphic": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+    "oer_einfuehren": true,
+  },
+  "media": {
+    "graphic": true,
+  },
   "titel": "Grafik "Was darf ich für OER verwenden?"",
   "inhalt": "Diese Sketchnote bietet einen Überblick darüber, welche Materialien bei der Erstellung von Open Educational Resources (OER) verwendet werden können, ohne dass das Urheberrecht verletzt wird (z.B. Materialien unter Creative-Commons-Lizenz, gemeinfreie Materialien, Zitatrecht etc.). Die Grafik liegt als PNG- und Pdf-Datei vor. ",
   "link": "#grafik-"was-darf-ich-fuer-oer-verwenden?""
