@@ -465,7 +465,7 @@ window.material.push({
 
 ---
 
-### Learning Snacks: "ORCA.nrw: A University Network for OER" 
+### Learning Snacks: ORCA.nrw: A University Network for OER
 `Lernspiel` `Edu-Game`:
 The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.<br><br>
 ![](MaterialienIntros/Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40.png)<br>
@@ -475,7 +475,7 @@ The example is based on a German network. You can find out **how the network wor
 `Metadaten:` OER; OER consultation; OER network; University; Higher Education
 
 > **Zitationsvorschlag nach TULLU-Regel:**   
-> *Learning Snacks: "ORCA.nrw: A University Network for OER"; von *Eube, Cornelia; Kobusch, Alexander; Niemann, Andrea; Nitzsche, Sina; Scherer, Elisabeth; Spaude, Magdalena*; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Learning Snacks](https://www.learningsnacks.de/share/218584/)*
+> *Learning Snacks: ORCA.nrw: A University Network for OER; von *Eube, Cornelia; Kobusch, Alexander; Niemann, Andrea; Nitzsche, Sina; Scherer, Elisabeth; Spaude, Magdalena*; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Learning Snacks](https://www.learningsnacks.de/share/218584/)*
 
 <script>
 window.material = window.material || [];
@@ -493,9 +493,9 @@ window.material.push({
   "media": {
     "selbstlernen": true,
       }
-  "titel": "Learning Snacks: "ORCA.nrw: A University Network for OER",
+  "titel": "Learning Snacks: ORCA.nrw: A University Network for OER",
   "inhalt": "You can find out **how the german ORCA.nrw-network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.",
-  "link": "#learning-snacks:-"orca.nrw:-a-university-networkn-for-OER"
+  "link": "#learning-snacks:-orca.nrw:-a-university-network-for-OER"
 });
 </script>
 ---
@@ -934,7 +934,7 @@ window.material.push({
     "textdoc": true,
   },
   "titel": "Unser Werteverständnis - Open Educational Culture",
-  "inhalt": "Was bedeutet eine "Open Educational Culture" im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema "Open Educational Culture", seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der kondensierten Werte, Einstellungen und Verhaltensweisen, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert*innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede*n Einzelne*n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur*innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.",
+  "inhalt": "Was bedeutet eine Open Educational Culture im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema "Open Educational Culture", seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der kondensierten Werte, Einstellungen und Verhaltensweisen, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert*innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede*n Einzelne*n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur*innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.",
   "link": "#unser-werteverstaendnis---open-educational-culture"
 });
 </script>
@@ -1040,9 +1040,7 @@ window.material.push({
     "textdoc": true,
   },
   "titel": "Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können",
-  "inhalt": "Diese Handreichung ist das Ergebnis einer Kooperation im Rahmen des Netzwerks, den OER-Expert*innen der NRW-Hochschulen, im Open Resources Campus NRW (ORCA.nrw). Hierbei widmen sich die OER-Expert*innen der Etablierung und Unterstützung einer Open Educational Culture an Universitäten, Hochschulen für Angewandte Wissenschaften sowie Musik- und Kunsthochschulen und geben praktische Tipps und Anleitungen, wie das gelingen kann.
-Im vorliegenden Dokument, das Teil der Handlungsempfehlungen ist, beschäftigen wir uns mit dem Aspekt, wie Austauschformate zur Förderung einer Open Educational Culture an der Hochschule beitragen können.
-Dieser Handreichungsteil richtet sich primär an OER-Multiplikator*innen, die an ihren Bildungseinrichtungen eine Open Educational Culture fördern wollen.",
+  "inhalt": "Diese Handreichung ist das Ergebnis einer Kooperation im Rahmen des Netzwerks, den OER-Expert*innen der NRW-Hochschulen, im Open Resources Campus NRW (ORCA.nrw). Hierbei widmen sich die OER-Expert*innen der Etablierung und Unterstützung einer Open Educational Culture an Universitäten, Hochschulen für Angewandte Wissenschaften sowie Musik- und Kunsthochschulen und geben praktische Tipps und Anleitungen, wie das gelingen kann. Im vorliegenden Dokument, das Teil der Handlungsempfehlungen ist, beschäftigen wir uns mit dem Aspekt, wie Austauschformate zur Förderung einer Open Educational Culture an der Hochschule beitragen können. Dieser Handreichungsteil richtet sich primär an OER-Multiplikator*innen, die an ihren Bildungseinrichtungen eine Open Educational Culture fördern wollen.",
   "link": "#wie-austauschformate-zur-foerderung-einer-open-educational-culture-an-hochschulen-beitragen-koennen"
 });
 </script>
