@@ -20,9 +20,9 @@ const baseURL = (new URL("img", window.location.search.substr(1))).href
 
 window["filter"] = {
   level: {
-    beginner: null,
-    praktiker: null,
-    experte: null
+    "beginner": null,
+    "praktiker": null,
+    "experte": null
   },
 
   praxiskategorie: {
