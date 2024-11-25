@@ -1227,7 +1227,7 @@ window.material.push({
 
 ---
 
-### OER-Testimonials: Materials Caching 
+### OER-Testimonials: Materials Caching
 Die 'Video-Reihe' **OER-Testimonials** ist im Rahmen des Dortmunder OER-Zirkels(Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH und TU Dortmund) entstanden. Die Reihe stellt Produzent:innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources) vor. Hier Beispielhaft das **Projekt Material Caching**, das im Rahmen der DigiFellowship-Förderlinie entstand.<br><br>
 ![](MaterialienIntros/Video_OER-Testimonials_DO_CCBY.png)<br>
 `Medienformat` Video `erstellt/bearbeitbar mit` Video-Schnittprogramme <br>
@@ -1236,7 +1236,7 @@ Die 'Video-Reihe' **OER-Testimonials** ist im Rahmen des Dortmunder OER-Zirkels(
 `Metadaten` innovative Lehre; Open Educational Resources; oer; zukunftswerkstatt; geocaching; TU Dortmund; Digifellows; Abteilung Innovative Lehre<br>
 
 >**Zitationsvorschlag nach TULLU-Regel:**
->*OER-Testimonials: Materials Caching ; von Jahn, Markus; Kilian, David; Molke, Sven; Nitzsche, Sina ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Videoportal FH Dortmund](https://video.fh-dortmund.de/video/OER-Testimonials-Materials-Caching-/4743018d281568afa0e5b6903b3f204e)*
+>*OER-Testimonials: Materials Caching; von Jahn, Markus; Kilian, David; Molke, Sven; Nitzsche, Sina ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Videoportal FH Dortmund](https://video.fh-dortmund.de/video/OER-Testimonials-Materials-Caching-/4743018d281568afa0e5b6903b3f204e)*
 
 <script>
 window.material = window.material || [];
@@ -1251,9 +1251,9 @@ window.material.push({
   "media": {
     "video": true,
   },
-  "titel": "OER-Testimonials: Materials Caching ",
-  "inhalt": "Die Reihe "OER-Testimonials" ist im Rahmen des Dortmunder OER-Zirkels(Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH und TU Dortmund). Die Reihe stellt Produzent*innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources, OER) vor. Hier Beispielhaft das Projekt Material Caching, das im Rahmen des DigiFellow.... ",
-  "link": "#oer-testimonials:-materials-caching-"
+  "titel": "OER-Testimonials: Materials Caching",
+  "inhalt": "Die Reihe OER-Testimonials ist im Rahmen des Dortmunder OER-Zirkels(Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH und TU Dortmund). Die Reihe stellt Produzent*innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources, OER) vor. Hier Beispielhaft das Projekt Material Caching, das im Rahmen des DigiFellow",
+  "link": "#oer-testimonials:-materials-caching"
 });
 </script>
 
@@ -1287,7 +1287,7 @@ window.material.push({
     "video": true,
   },
   "titel": "Virtuelles Kamingespräch: OER in der Hochschule",
-  "inhalt": "In diesem moderierten Kamingespräch diskutieren Expert:innen in lockerer Runde zum Thema "OER in der Hochschullehre".Teilnehmende konnten darüber hinaus Fragen stellen und sich miteinbringen! Die Runde geht unter anderem den Fragen nach, wieder Weg von einer Idee zur Produktion einer nachhaltig nutzbaren freien Bildungsressource institutionell begleitet werden kann, wie eine OER zur gemeinsamen Reflexion von Videos aussehen kann und wie eine OER-Community funktionieren kann.",
+  "inhalt": "In diesem moderierten Kamingespräch diskutieren Expert*innen in lockerer Runde zum Thema OER in der Hochschullehre. Teilnehmende konnten darüber hinaus Fragen stellen und sich miteinbringen! Die Runde geht unter anderem den Fragen nach, wieder Weg von einer Idee zur Produktion einer nachhaltig nutzbaren freien Bildungsressource institutionell begleitet werden kann, wie eine OER zur gemeinsamen Reflexion von Videos aussehen kann und wie eine OER-Community funktionieren kann.",
   "link": "#virtuelles-kamingespraech:-oer-in-der-hochschule"
 });
 </script>
