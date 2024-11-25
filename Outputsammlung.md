@@ -1301,8 +1301,7 @@ Diese Kategorie beinhaltet Podcasts, Musiksammlungen und nicht-bildgestützte In
 
 ---
 
-### OER Tracks: The Best Music for Educational Videos, Volume 1 
-
+### OER Tracks: The Best Music for Educational Videos, Volume 1
 `"audio": true,`
 Das **Tape OER Tracks: The Best Music for Educational Videos** beinhaltet **30 frei verfügbare Musikstücke** von zehn jungen und unabhängigen Künstler:innen aus NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund **für den Einsatz in Lehr- und Lernvideos** produziert. Sie können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden - unter der Bedingung der Namensnennung der Künstler:innen.<br><br>
 ![](MaterialienIntros/Audio_OER-Tracks_CCBY.png)<br>
@@ -1312,7 +1311,7 @@ Das **Tape OER Tracks: The Best Music for Educational Videos** beinhaltet **30 f
 `Metadaten` Musik, Track; OER; Music;  Audio;  <br>
 
 >**Zitationsvorschlag nach TULLU-Regel:**
->*OER Tracks: The Best Music for Educational Videos, Volume 1 ; von siehe Musikstücke der Sammlung; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/collections?query=Kreuzwortr%C3%A4tsel&viewType=1&id=bf2c5cf2-e912-4112-91b4-582b687c835e)*
+>*OER Tracks: The Best Music for Educational Videos, Volume 1; von siehe Musikstücke der Sammlung; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/collections?query=Kreuzwortr%C3%A4tsel&viewType=1&id=bf2c5cf2-e912-4112-91b4-582b687c835e)*
 
 <script>
 window.material = window.material || [];
@@ -1327,9 +1326,9 @@ window.material.push({
   "media": {
     "audio": true,
   },
-  "titel": "OER Tracks: The Best Music for Educational Videos, Volume 1 ",
-  "inhalt": "Das Tape "OER Tracks: The Best Music for Educational Videos" beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler*innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.",
-  "link": "#oer-tracks:-the-best-music-for-educational-videos,-volume-1-"
+  "titel": "OER Tracks: The Best Music for Educational Videos, Volume 1",
+  "inhalt": "Das Tape OER Tracks: The Best Music for Educational Videos beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler*innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.",
+  "link": "#oer-tracks:-the-best-music-for-educational-videos,-volume-1"
 });
 </script>
 
@@ -1410,7 +1409,7 @@ window.material.push({
 
 ---
 
-### CC-Lizenzhinweise erstellen – die TULLUBA-Regel 
+### CC-Lizenzhinweise erstellen – die TULLUBA-Regel
 Die 'Postkarte' zur **TULLUBA-Regel** zeigt kompakt wie Creative-Commons-Lizenzhinweise richtig erstellt werden. Die Karte ist damit eine **ideale Erinnerungs-Stütze** bei der Erstellung von Open Educational Resources (OER) oder Open-Access-Materialien.
 ![](MaterialienIntros/Grafik_Postkarte-TULLUBA_CCBY.png)
 `Medienformat` PDF, svg, jpg `erstellt/bearbeitbar mit` PDF-Editor; Bildverarbeitungsprogramme <br>
@@ -1419,7 +1418,7 @@ Die 'Postkarte' zur **TULLUBA-Regel** zeigt kompakt wie Creative-Commons-Lizenzh
 `Metadaten` OER; TULLUBA; Creative Commons; CC-Lizenzen;Open Access; Open Educational Resources<br>
 
 >**Zitationsvorschlag nach TULLU-Regel:**
->*CC-Lizenzhinweise erstellen – die TULLUBA-Regel ; von Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/fcf18f89-b750-42aa-a99b-fbf1f244bfab) <br>
+>*CC-Lizenzhinweise erstellen – die TULLUBA-Regel; von Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/fcf18f89-b750-42aa-a99b-fbf1f244bfab) <br>
  Die TULLUBA-Karte ist ein Produkt der AG Werbung des Netzwerks Landesportal ORCA.nrw. Sie ist eine Bearbeitung der Grafik von Julia Eggestein nach einem Konzept von Sonja Borski und Jöran Muuß-Merholz für OERinfo – Informationsstelle OER (https://open-educational-resources.de/oer-tullu-regel/) lizenziert unter CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.de)*
 
 <script>
@@ -1439,9 +1438,9 @@ window.material.push({
   "media": {
     "graphic": true,
   },
-  "titel": "CC-Lizenzhinweise erstellen – die TULLUBA-Regel ",
+  "titel": "CC-Lizenzhinweise erstellen – die TULLUBA-Regel",
   "inhalt": "Die Postkarte zur "TULLUBA-Regel" zeigt kompakt wie Creative-Commons-Lizenzhinweise richtig erstellt werden. Die Karte ist damit eine ideale Erinnerungs-Stütze bei der Erstellung von Open Educational Resources (OER) oder Open-Access-Materialien. Die TULLUBA-Karte ist ein Produkt der AG Werbung des Netzwerks Landesportal ORCA.nrw. Sie ist eine Bearbeitung der Grafik von Julia Eggestein nach einem Konzept von Sonja Borski und Jöran Muuß-Merholz für OERinfo – Informationsstelle OER (https://open-educational-resources.de/oer-tullu-regel/) lizenziert unter CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.de).",
-  "link": "#cc-lizenzhinweise-erstellen-–-die-tulluba-regel "
+  "link": "#cc-lizenzhinweise-erstellen-–-die-tulluba-regel"
 });
 </script>
 
