@@ -270,7 +270,7 @@ Die **Praxiskategorien**, basierend auf [OERinfo](http://www.oer-info.de), unter
   <strong>Über OER forschen:</strong> Ressourcen und Studien, um das Potenzial und die Wirkung von OER zu analysieren.
 </div>
 <br>
-**Dr. Jamal Groenstein**, Protagonist einiger Materialien des Netzwerks ORCA.nrw, begleitet Sie mit praxisnahen Hinweisen und Tipps, wie die Materialien sinnvoll genutzt werden können – sei es für die eigene Weiterbildung, die Lehre oder zur Weitergabe an Kolleg:innen.
+**Dr. Jamal Groenstein**, Protagonist einiger Materialien des Netzwerks ORCA.nrw, begleitet Sie mit praxisnahen Hinweisen und Tipps, wie die Materialien sinnvoll genutzt werden können – sei es für die eigene Weiterbildung, die Lehre oder zur Weitergabe an Kolleg*innen.
 
 ---
 
