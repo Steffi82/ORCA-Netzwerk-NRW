@@ -654,9 +654,15 @@ Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nic
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "praktiker": true,,
-  "praxiskategorie": "oer_herstellen": true,,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien",
   "inhalt": "Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.",
   "link": "#handreichung:-schwerpunkt-nutzung-und-einbettung-von-nicht-offen-lizenzierten-materialien"
@@ -680,11 +686,17 @@ Das 'Kurzportrait' zum Landesportal ORCA.nrw bringt die Vorzüge der sozio-techn
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true, ,
-  "praxiskategorie": "oer_einfuehren": true,
-"oer_managen": true,,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_einfuehren": true,
+    "oer_managen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "ORCA.nrw: Strategische Ansätze zur Entwicklung von OER-Policies an Hochschulen in NRW. ",
   "inhalt": "Das Kurzportraut zum Landesportal ORCA.nrw bringt die Vorzüge der sozio-technischen Infrastrukturmaßnahme auf den Punkt.",
   "link": "#orca.nrw:-strategische-ansaetze-zur-entwicklung-von-oer-policies-an-hochschulen-in-nrw.-"
@@ -708,9 +720,16 @@ Der 'Beitrag' beleuchtet die **Entwicklung des Landesportals ORCA.nrw**, das ein
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "praktiker": true, "experte": true,
-  "praxiskategorie": "oer_managen": true,,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "praktiker": true, 
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_managen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "Das Landesportal ORCA.nrw. Eine Plattform – 37 Hochschulen – ein Netzwerk",
   "inhalt": "Der 'Beitrag' beleuchtet die **Entwicklung des Landesportals ORCA.nrw**, das eine zentrale Plattform für Open Educational Resources (OER) für Hochschulen in Nordrhein-Westfalen bereitstellt. Ziel ist es, durch eine **gemeinschaftlich getragene Infrastruktur** Lehrmaterialien, Informationen und Services digital zugänglich zu machen und die **Zusammenarbeit zwischen Hochschulen** zu fördern. Die **lokale Vernetzung und institutionelle Begleitung** der Lehrenden unterstützen die Nutzung und Erstellung von OER und tragen zur digitalen Transformation im Bildungsbereich bei.",
   "link": "#das-landesportal-orca.nrw.-eine-plattform-–-37-hochschulen-–-ein-netzwerk"
@@ -733,13 +752,20 @@ Der **Artikel in englischer Sprache** beleuchtet das  Projekt ORCA.nrw, das als 
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true, "experte": true,
-  "praxiskategorie": "oer_finden": true,
-"oer_einfuehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true, 
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "The ORCA Ecosystem – Advancing the mission of OER together through competences in the network.",
   "inhalt": "Der **Artikel** beleuchtet das  Projekt ORCA.nrw, das als digitales Landesportal für Hochschulen in NRW **offene Bildungsressourcen (OER)** sowie **zielgruppenspezifische Informationen und Services** bereitstellt. ORCA.nrw vereint die Digitalisierungsprojekte der Hochschulen in einer gemeinsamen technischen und personellen Infrastruktur. Die **lokalen Netzwerkstellen** an den Hochschulen fördern die Nutzung und Integration der Angebote in die Lehre und stärken durch ihre Zusammenarbeit die Innovationskraft im ORCA-Ökosystem.",
   "link": "#the-orca-ecosystem-–-advancing-the-mission-of-oer-together-through-competences-in-the-network."
@@ -762,12 +788,18 @@ Diese ‘Publikation‘ präsentiert Ergebnisse einer Umfrage unter Hochschul-Le
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true,,
-  "praxiskategorie": "oer_einfuehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen",
   "inhalt": "Diese ‘Publikation‘ präsentiert Ergebnisse einer Umfrage unter Hochschul-Lehrenden in NRW aus 2021, die Motivationen und Hürden rund um OER untersucht. Im Hochschulbereich lässt sich seit einiger Zeit. In NRW steht dafür das Landesportal ORCA.nrw zur Verfügung, das **Lehrende und Studierende** im Hochschulbereich unterstützt, an der beobachtbar zunehmenden Bedeutung und Förderung von offen lizenzierten Bildungsressourcen (OER) zu partizipieren. Befragt wurden **167 Teilnehmende** zu ihrer **Nutzung**, **Produktion** und **Veröffentlichung** von OER sowie ihren Unterstützungsbedarfen. Als **zentrale Motivation** zeigt sich eine positive Einstellung zum Teilen, aber auch finanzielle Anreize werden als wichtig angesehen. Als **größte Herausforderung** werden Kenntnisse zu OER, vor allem zu den rechtlichen Rahmenbedingungen, in allen OER-Handlungsbereichen offenbar.",
   "link": "#oer-in-nrw---was-motiviert?-was-hindert?-ergebnisse-einer-umfrage-zur-nutzung,-produktion-und-veroeffentlichung-von-open-educational-resources-an-hochschulen"
@@ -790,10 +822,16 @@ Die 'hochschuldidaktische Beilage', in der der Artikel erscheint, widmet sich **
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,,
-  "praxiskategorie": "oer_lehren": true,
-"oer_einfuehren": true,,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+  },
+  "praxiskategorie": {
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "Das Potenzial freier Bildungsmaterialien. ",
   "inhalt": "Die hochschuldidaktische Beilage, in der der Artikel erscheint, widmet sich insgesamt demPotenzial und der Förderung von Open Educational Resources (OER) in der Hochschullehre und hebt die Bedeutung einer „Kultur des Teilens“ hervor. Lehrende profitieren von der kollaborativen Nutzung und Weiterentwicklung offen lizensierter Materialien. Die Vernetzung und der Erfahrungsaustausch, gefördert durch das Landesportal ORCA.nrw und die Community of Practice, stärken innovative Lehr- und Lernansätze.",
   "link": "#das-potenzial-freier-bildungsmaterialien.-"
@@ -816,10 +854,16 @@ Der ‘Beitrag‘ im Jahrbuch der FH Dortmund stellt **Open Educational Resource
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,,
-  "praxiskategorie": "oer_lehren": true,
-"oer_einfuehren": true,,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+  },
+  "praxiskategorie": {
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "„Lehr- und Lernmaterialien frei Haus: Open Educational Resources.“",
   "inhalt": "Der ‘Beitrag‘ im Jahrbuch der FH Dortmund stellt **Open Educational Resources (OER)** vor und zeigt, wie frei verfügbare, lizenzierte Lehrmaterialien **den Hochschulalltag bereichern** können. Durch OER können Lehrende Inhalte flexibel nutzen, anpassen und teilen, was den **Wissensaustausch über Lehre fördert** fördert und Lernmaterialien einfach zugänglich macht. Ein besonderer Fokus liegt auf dem **Landesportal ORCA.nrw**, das Lehrenden und Studierenden in NRW eine **zentrale Anlaufstelle** für hochwertige, offene Bildungsmaterialien bietet.",
   "link": "#„lehr--und-lernmaterialien-frei-haus:-open-educational-resources.“"
@@ -842,12 +886,19 @@ window.material.push({
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true, "experte": true,
-  "praxiskategorie": "oer_lehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true, 
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_lehren": true,
+    "oer_managen": true,
+    "oer_forschen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "Sichtbarkeit von Open Educational Culture an Hochschulen",
   "inhalt": "Open Educational Culture (OEC) bedeutet, dass Wissen und Ressourcen frei und offen geteilt werden, um den Bildungszugang für alle leichter zu machen. In diesen Texten wird aufgezeigt, wo eine solche Open Educational Culture an Hochschulen sichtbar wird und weshalb sie sinnvoll ist.",
   "link": "#sichtbarkeit-von-open-educational-culture-an-hochschulen"
@@ -870,12 +921,18 @@ window.material.push({
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
- "experte": true,
-  "praxiskategorie": "oer_einfuehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "Unser Werteverständnis - Open Educational Culture",
   "inhalt": "Was bedeutet eine "Open Educational Culture" im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema "Open Educational Culture", seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der kondensierten Werte, Einstellungen und Verhaltensweisen, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert*innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede*n Einzelne*n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur*innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.",
   "link": "#unser-werteverstaendnis---open-educational-culture"
@@ -898,12 +955,19 @@ window.material.push({
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true, "experte": true,
-  "praxiskategorie": "oer_einfuehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true, 
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true,
+  },
+  "media": {
+    "textdoc": true,
+    },
   "titel": "Den Bedenken zu OER begegnen",
   "inhalt": "Wer darüber nachdenkt, Open Educational Resources (OER) selbst zu nutzen, zu bearbeiten oder neu zu erstellen, entdeckt schnell, dass es eine Reihe von technischen, inhaltlichen oder rechtlichen Bedenken hierzu geben kann. In diesem Text geht es darum, sie  aufzugreifen, zu beleuchten und ihnen konstruktiv zu begegnen. Aus der Diversität der Perspektiven auf das Thema resultieren unterschiedliche Herangehensweisen und Stilrichtungen in den einzelnen Kapiteln.",
   "link": "#den-bedenken-zu-oer-begegnen"
@@ -926,14 +990,20 @@ window.material.push({
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true, "experte": true,
-  "praxiskategorie": 
-"oer_herstellen": true,
-"oer_lehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true, 
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+    "oer_lehren": true,
+    "oer_managen": true,
+    "oer_forschen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "Trainingskonzept: Feedback zu OER geben mit dem OER-Feedbackrad",
   "inhalt": "Mit dem OER-Feedbackrad trainieren Lehrende, sich gegenseitig zu einer selbst erstellten Open Educational Resource Feedback zu geben. Dabei können sie den Fokus im Gespräch auf unterschiedliche Kategorien legen. Alternativ kann hiermit zu einer gefundenen/bereitgestellten OER Feedback gegeben werden.",
   "link": "#trainingskonzept:-feedback-zu-oer-geben-mit-dem-oer-feedbackrad"
@@ -956,13 +1026,19 @@ Diese `Handreichung` ist das Ergebnis einer Kooperation im Rahmen des Netzwerks,
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": 
-"praktiker": true, "experte": true,
-  "praxiskategorie": "oer_finden": true,
-"oer_lehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "praktiker": true, 
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_lehren": true,
+    "oer_managen": true,
+    "oer_forschen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können",
   "inhalt": "Diese Handreichung ist das Ergebnis einer Kooperation im Rahmen des Netzwerks, den OER-Expert*innen der NRW-Hochschulen, im Open Resources Campus NRW (ORCA.nrw). Hierbei widmen sich die OER-Expert*innen der Etablierung und Unterstützung einer Open Educational Culture an Universitäten, Hochschulen für Angewandte Wissenschaften sowie Musik- und Kunsthochschulen und geben praktische Tipps und Anleitungen, wie das gelingen kann.
 Im vorliegenden Dokument, das Teil der Handlungsempfehlungen ist, beschäftigen wir uns mit dem Aspekt, wie Austauschformate zur Förderung einer Open Educational Culture an der Hochschule beitragen können.
@@ -993,13 +1069,19 @@ Der auf der 'Projektwebseite' verfügbare Vortrag „Open Educational Resources 
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_lernen": true,
-"oer_lehren": true,
-"oer_einfuehren": true,,
-  "media": {""webseite": true,": true},
+  "level": {
+    "einsteiger": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+  },
+  "media": {
+    "webseite": true,
+  },
   "titel": "Open Educational Resources in der Japanologie",
   "inhalt": "Der Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.",
   "link": "#open-educational-resources-in-der-japanologie"
@@ -1021,12 +1103,18 @@ Die ‘Präsentation‘ richtet sich an **Hochschulvertreter:innen und Verantwor
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": 
-"praktiker": true, "experte": true,
-  "praxiskategorie": "oer_einfuehren": true,
-"oer_managen": true,
-"oer_forschen": true,
-  "media": {""presentation": true,": true},
+  "level": {
+    "praktiker": true, 
+    "experte": true,
+  },
+  "praxiskategorie": {
+    "oer_einfuehren": true,
+    "oer_managen": true,
+    "oer_forschen": true,
+  },
+  "media": {
+    "presentation": true,
+  },
   "titel": "OER-Policy – wieso jetzt, wozu, wie, wohin?",
   "inhalt": "Die ‘Präsentation‘ richtet sich an Hochschulvertreter:innen und Verantwortliche im Bildungsbereich. Sie wurde im Rahmen eines virtuellen Treffens der KNOER-AG OER-Policies gehalten und gibt einen Überblick über den aktuellen Stand der OER-Policies an verschiedenen Hochschulen in Nordrhein-Westfalen. Die Inhalte umfassen die Bedeutung einer OER-Policy, den Entstehungsprozess und die Vorteile von partizipativen Ansätzen sowie Beispiele aus der Universität und FH Bielefeld. Schwerpunkte sind die Förderung einer Kultur des Teilens und die strategische Vernetzung zur Umsetzung von OER-Initiativen.",
   "link": "#oer-policy-–-wieso-jetzt,-wozu,-wie,-wohin?"
@@ -1049,11 +1137,17 @@ In der 'Aufzeichung' der **LernPause** der **Universität Paderborn** zum Thema 
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,,
-  "praxiskategorie": "oer_finden": true,
-"oer_lehren": true,
-"oer_einfuehren": true,,
-  "media": {""video": true,": true},
+  "level": {
+    "einsteiger": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_lehren": true,
+    "oer_einfuehren": true,
+  },
+  "media": {
+    "video": true,
+  },
   "titel": "Freie Bildungsressourcen (Open Educational Resources, OER)",
   "inhalt": "Das Format **LernPause** der **Universität Paderborn** widmet sich dem Thema **OER**, zeigt die **Merkmale von und Mehrwerte** OER im Vergleich zu traditionellen Lehr- und Lernmaterialien auf, zeigt auf wo Sie OER suchen/finden und in Ihrer Lehre einsetzen können und informiert über Unterstützungsangebote zu OER an der Universität Paderborn.",
   "link": "#freie-bildungsressourcen-(open-educational-resources,-oer)"
@@ -1075,12 +1169,17 @@ Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept v
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_einfuehren": true,,
-  "media": {""video": true,": true},
+  "level": {
+    "einsteiger": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_einfuehren": true,
+  },
+  "media": {
+    "video": true,
+  },
   "titel": "33 Minuten für… Das Konzept der Open Educational Resources (OER)",
   "inhalt": "Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.",
   "link": "#33-minuten-fuer…-das-konzept-der-open-educational-resources-(oer)"
