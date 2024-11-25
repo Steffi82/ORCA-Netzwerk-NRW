@@ -478,7 +478,9 @@ The example is based on a German network. You can find out **how the network wor
 > *Learning Snacks: "ORCA.nrw: A University Network for OER"; von *Eube, Cornelia; Kobusch, Alexander; Niemann, Andrea; Nitzsche, Sina; Scherer, Elisabeth; Spaude, Magdalena*; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Learning Snacks](https://www.learningsnacks.de/share/218584/)*
 
 <script>
-"level": {
+window.material = window.material || [];
+window.material.push({
+  "level": {
     "beginner": true,
     "praktiker": true,
     "experte": true
@@ -490,13 +492,12 @@ The example is based on a German network. You can find out **how the network wor
   },
   "media": {
     "selbstlernen": true,
-  },
+      }
   "titel": "Learning Snacks: "ORCA.nrw: A University Network for OER"",
   "inhalt": "You can find out **how the german ORCA.nrw-network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.",
   "link": "#learning-snacks:-"orca.nrw:-a-university-network-for-oer""
 });
-</script>                                                                                                                                                                                               
-                                                                                                                                                                                               
+</script>
 ---
 
 ### Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB
@@ -555,13 +556,18 @@ Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **V
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true,
-,
-  "praxiskategorie": "oer_herstellen": true,
-"oer_einfuehren": true,
-"oer_managen": true,,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+    "oer_einfuehren": true,
+    "oer_managen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "Aufzeichnung von Online-Konferenzbeiträgen als OER: Ein Praxisleitfaden",
   "inhalt": "Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **Vorbereitung, Durchführung** und **Nachbereitung** einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.",
   "link": "#aufzeichnung-von-online-konferenzbeitraegen-als-oer:-ein-praxisleitfaden"
