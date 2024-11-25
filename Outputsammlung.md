@@ -465,7 +465,7 @@ window.material.push({
 
 ---
 
-### Learning Snacks: ORCA.nrw: A University Network for OER
+### Learning Snacks - ORCA.nrw - A University Network for OER
 `Lernspiel` `Edu-Game`:
 The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.<br><br>
 ![](MaterialienIntros/Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40.png)<br>
@@ -493,9 +493,9 @@ window.material.push({
   "media": {
     "selbstlernen": true,
       }
-  "titel": "Learning Snacks: ORCA.nrw: A University Network for OER",
+  "titel": "Learning Snacks - ORCA.nrw - A University Network for OER",
   "inhalt": "You can find out **how the german ORCA.nrw-network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.",
-  "link": "#learning-snacks:-orca.nrw:-a-university-network-for-OER"
+  "link": "#learning-snacks---orca.nrw---a-university-network-for-oer"
 });
 </script>
 ---
