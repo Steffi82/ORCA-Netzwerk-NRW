@@ -20,9 +20,9 @@ const baseURL = (new URL("img", window.location.search.substr(1))).href
 
 window["filter"] = {
   level: {
-    "beginner": null,
-    "praktiker": null,
-    "experte": null
+    beginner: null,
+    praktiker: null,
+    experte: null
   },
 
   praxiskategorie: {
@@ -270,7 +270,7 @@ Die **Praxiskategorien**, basierend auf [OERinfo](http://www.oer-info.de), unter
   <strong>Über OER forschen:</strong> Ressourcen und Studien, um das Potenzial und die Wirkung von OER zu analysieren.
 </div>
 <br>
-**Dr. Jamal Groenstein**, Protagonist einiger Materialien des Netzwerks ORCA.nrw, begleitet Sie mit praxisnahen Hinweisen und Tipps, wie die Materialien sinnvoll genutzt werden können – sei es für die eigene Weiterbildung, die Lehre oder zur Weitergabe an Kolleg*innen.
+Dr. Jamal Groenstein, Protagonist einiger Materialien des Netzwerks ORCA.nrw, begleitet Sie mit praxisnahen Hinweisen und Tipps, wie die Materialien sinnvoll genutzt werden können – sei es für die eigene Weiterbildung, die Lehre oder zur Weitergabe an Kolleg*innen.
 
 ---
 
@@ -282,7 +282,7 @@ Hier sammeln sich digitale, code-basierte Ressourcen (vor allem HTML und Markdow
 
 ### OER Policy‐Karte und Karte der Netzwerkstellen in NRW
 `Webseite`<br>
-Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.<br><br>
+Die Karte zeigt **Hochschulstandorte** der DH.NRW und kennzeichnet solche, die eine **OER Policy veröffentlicht** haben.<br><br>
 ![](MaterialienIntros/Webseite_Karte-OER-Policy‐Netzwerkstellen-NRW_CCBY40.png)<br>
 `Medienformat` HTML  
 `erstellt/bearbeitbar mit` Web-Editor<br>
