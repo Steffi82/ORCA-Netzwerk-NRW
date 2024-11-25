@@ -1208,7 +1208,7 @@ window.material.push({
 ---
 ---
 
-### Grafiken und Bilder
+## Grafiken und Bilder
 ![Diese Kategorie umfasst Informationsgrafiken, Bilder und Werbematerialien, die flexibel einsetzbar sind. Ob zur Veranschaulichung von Themen oder zur Gestaltung eigener Inhalte – die Materialien können ganz oder in Teilen nachgenutzt und in verschiedene Formate eingebunden werden.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_GraphikBilder_1200x80px.png)
 Diese Kategorie umfasst Informationsgrafiken, Bilder und Werbematerialien, die flexibel einsetzbar sind. Ob zur Veranschaulichung von Themen oder zur Gestaltung eigener Inhalte – die Materialien können ganz oder in Teilen nachgenutzt und in verschiedene Formate eingebunden werden.
 
