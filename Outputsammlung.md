@@ -399,8 +399,8 @@ Stand: Oktober 2024<br>
 ![](MaterialienIntros/Selbstlernkurs_OER-Glossar_CCBY40.png)<br>
 `Medienformat:` Selbstlernkurs `erstellt/bearbeitbar mit:` ILIAS; Moodle, HTML <br>
 `Niveaustufe(n):` Einsteiger (Starter); Praktiker; Experte <br>
-`Praxiskategorie(n)` OER finden, OER herstellen, mit OER lernen, mit OER lehren<br>
-`Metadaten:* Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium
+`Praxiskategorie(n):` OER finden, OER herstellen, mit OER lernen, mit OER lehren<br>
+`Metadaten:` Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium
 
 > **Zitationsvorschlag nach TULLU-Regel:**   
 > *OER‐Glossar; von Gödecke, Svenja; Halm, Linda; Homp, Frank; Kobusch, Alexander; Schaffeld, Laura; Spaude, Magdalena; Weber, Tassja; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [ILIAS der Uni zu Köln](https://www.edulabs.uni-koeln.de/goto_iliasedulabs_crs_2218.html)*
@@ -623,11 +623,15 @@ Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "praktiker": true,
-,
-  "praxiskategorie": 
-"oer_herstellen": true,,
-  "media": {""textdoc": true,": true},
+  "level": {
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_herstellen": true,
+  },
+  "media": {
+    "textdoc": true,
+  },
   "titel": "Handreichung: Veröffentlichung von Lehr-Lern-Materialien als OER",
   "inhalt": "Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für andere (Hochschul-) Kontexte angepasst werden**. Es enthält **kompakte Informationen** zu Creative-Commons-Lizenzen und **Tipps** rund um das Urheberrecht zur Publikation von Materialien als OER.",
   "link": "#handreichung:-veroeffentlichung-von-lehr-lern-materialien-als-oer"
