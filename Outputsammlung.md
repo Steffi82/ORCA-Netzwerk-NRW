@@ -288,9 +288,9 @@ Die Karte zeigt **Hochschulstandorte** der DH.nrw und kennzeichnet solche, die e
 `erstellt/bearbeitbar mit` Web-Editor<br>
 `Niveaustufe(n)` Einsteiger (Starter)<br> 
 `Praxiskategorie(n)`OER managen<br>
-`Metadaten` Karte; HTML; Farbschema; OER-Policy; DH.nrw<br>
+`Metadaten` Karte; HTML; Farbschema; OER-Policy; DH.NRW<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*OER Policy‐Karte und Karte der Netzwerkstellen in NRW; von Wenzel, Marko; Homp, Frank; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1b355de9-849c-44ab-a219-42c325748eee)*
 
 
@@ -307,13 +307,12 @@ window.material.push({
     "webseite": true,
   },
   "titel": "OER Policy‐Karte und Karte der Netzwerkstellen in NRW",
-  "inhalt": "Die Karte zeigt Hochschulstandorte der DH.nrw und kennzeichnet solche, die eine OER Policy veröffentlicht haben.",
+  "inhalt": "Die Karte zeigt Hochschulstandorte der DH.NRW und kennzeichnet solche, die eine OER Policy veröffentlicht haben.",
   "link": "#oer-policy‐karte-und-karte-der-netzwerkstellen-in-nrw"
 });
 </script>
 
 ---
-
 
 ### infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw
 Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden. **Der Blog bleibt offen und wird fortlaufend erweitert**.<br><br>
@@ -323,7 +322,7 @@ Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprüngli
 `Praxiskategorie(n)` OER finden; OER herstellen; mit OER Lernen, mit OER lehren, OER einführen, OER managen, über OER forschen<br>
 `Metadaten` OER; ORCA.nrw; Materialtipp; Praxiswerkstatt; Creative Commons; CC-Lizenz; Lizenzhinweis; OER-Policy; OER-Content<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.; von Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [OERSI](https://oersi.org/resources/aHR0cHM6Ly9saW5kYWhhbG0taHNiaS5naXRodWIuaW8vaW5mT0VSbWllcnQ=)*
 
 <script>
@@ -358,12 +357,12 @@ window.material.push({
 Das über 'LiaScript' bereitgestellte Policy Kit ist ein Leitfaden, der **in sieben Schritten** die Entwicklung einer OER-Policy beschreibt und **zusätzliche Materialien und Erläuterungen für Beauftragte im Erstellungsprozess** dazu bereitstellt. Dabei wird der Tatsache Rechnung getragen, dass jeder Entwicklungsprozess einer Policy - mit speziellem Blick auf den **Hochschulbereich** individuell ist und flexibel abläuft.<br><br>
 ![](MaterialienIntros/Webseite_OER-Policy-Kit_CCBYSA40.png)<br>
 
-**`Medienformat`** PDF, Textdatei **`erstellt/bearbeitbar mit`** Texteditor, Markdown <br>
-**`Niveaustufe(n)`** Praktiker, Experte<br>
-**`Praxiskategorie(n)`** OER einführen, OER managen<br>
-**`Metadaten`** OER-Policy; Hochschule; Leitfaden; Prozessentwicklung; Materialien<br>
+`Medienformat` PDF, Textdatei `erstellt/bearbeitbar mit` Texteditor, Markdown <br>
+`Niveaustufe(n)` Praktiker, Experte<br>
+`Praxiskategorie(n)` OER einführen, OER managen<br>
+`Metadaten` OER-Policy; Hochschule; Leitfaden; Prozessentwicklung; Materialien<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***  
+>**Zitationsvorschlag nach TULLU-Regel:**  
 >*OER-Policy Kit; von Dreyer, Astrid; Hörmann, Irina; Homp, Frank; Legler, Stefanie; Czerwinski, Silvia; Loose, Yulia; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0); Link führt zu [twillo](https://www.twillo.de)*
 <script>
 window.material = window.material || [];
@@ -403,8 +402,8 @@ Stand: Oktober 2024<br>
 `Praxiskategorie(n)` OER finden, OER herstellen, mit OER lernen, mit OER lehren<br>
 `Metadaten:* Urheberrecht; Werk; Barrierefreiheit; Zitat; Untertitel; Creative Commons; Lizenz; CC; Lehre, Repositorium
 
-> ***Zitationsvorschlag nach TULLU-Regel:***   
-> *OER‐Glossar; von Gödecke, Svenja; Halm, Linda; Homp, Frank; Kobusch, Alexander; Schaffeld, Laura; Spaude, Magdalena; Weber, Tassja; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [ILIAS der Uni zu Köln](https://www.edulabs.uni‐koeln.de/goto.php?target=crs_2218&client_id=iliasedulabs)*
+> **Zitationsvorschlag nach TULLU-Regel:**   
+> *OER‐Glossar; von Gödecke, Svenja; Halm, Linda; Homp, Frank; Kobusch, Alexander; Schaffeld, Laura; Spaude, Magdalena; Weber, Tassja; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zum [ILIAS der Uni zu Köln](https://www.edulabs.uni-koeln.de/goto_iliasedulabs_crs_2218.html)*
 
 <script>
 window.material = window.material || [];
@@ -424,7 +423,7 @@ window.material.push({
     "selbstlernen": true,
   },
   "titel": "OER-Glossar",
-  "inhalt": "Dieses `Nachschlagewerk` erläutert **55 zentrale Begriffe** rund um das Thema Open Educational Resources (OER). Stand: Oktober 2024",
+  "inhalt": "Dieses Nachschlagewerk erläutert 55 zentrale Begriffe rund um das Thema Open Educational Resources (OER). Stand: Oktober 2024",
   "link": "#oer-glossar"
 });
 </script>
@@ -434,25 +433,30 @@ window.material.push({
 ### OER-Wissenspool
 Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educational Resources** mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für **OER-Showcases**. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen **Installationsanleitungen** zur Einbindung ins eigene LMS zur Verfügung.<br><br>
 ![](MaterialienIntros/Selbstlernkurs_OER‐Wissenspool_CCBY40.png)<br>
-**`Medienformat`** Selbstlernkurs **`erstellt/bearbeitbar mit`** Ilias, Moodle, H5P <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker<br>
-**`Praxiskategorie(n)`** OER finden, OER herstellen, mit OER lernen, mit OER lehren<br>
-**`Metadaten`** OER erstellen; H5P; OER Basiswissen; OER-Supportmaterial<br>
+`Medienformat` Selbstlernkurs `erstellt/bearbeitbar mit` Ilias, Moodle, H5P <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker<br>
+`Praxiskategorie(n)` OER finden, OER herstellen, mit OER lernen, mit OER lehren<br>
+`Metadaten` OER erstellen; H5P; OER Basiswissen; OER-Supportmaterial<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*OER-Wissenspool; von Nitzsche, Sina; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/2345cca5-7ef3-4a5c-90cb-1433b3401b47)*
 
 <script>
 window.material = window.material || [];
 window.material.push({
-  "level": "einsteiger": true,
-"praktiker": true,
-,
-  "praxiskategorie": "oer_finden": true,
-"oer_herstellen": true,
-"oer_lernen": true,
-"oer_lehren": true,,
-  "media": {""selbstlernen": true,": true},
+  "level": {
+    "einsteiger": true,
+    "praktiker": true,
+  },
+  "praxiskategorie": {
+    "oer_finden": true,
+    "oer_herstellen": true,
+    "oer_lernen": true,
+    "oer_lehren": true,
+  },
+  "media": {
+    "selbstlernen": true,
+  },
   "titel": "OER-Wissenspool",
   "inhalt": "Der `Selbstlernkurs` vermittelt in fünf Kategorien **Basiswissen zu Open Educational Resources** mit NRW-spezifischen Empfehlungen. Zudem enthält er eine OER-Bibliothek und einen Bereich für **OER-Showcases**. Der Kurs kann auf die eigene Insitution angepasst werden. Es stehen **Installationsanleitungen** zur Einbindung ins eigene LMS zur Verfügung.",
   "link": "#oer-wissenspool"
@@ -465,11 +469,11 @@ window.material.push({
 `Lernspiel` `Edu-Game`:
 The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.<br><br>
 ![](MaterialienIntros/Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40.png)<br>
-***`Medienformat:`*** *interaktive Web-Anwendung* ***`erstellt/bearbeitbar mit:`*** *Webanwendung [LearningSnacks](https://www.learningsnacks.de)* <br>
-***`Niveaustufe(n):`*** *Einsteiger (Starter); Praktiker* <br>
-***`Praxiskategorie(n)`*** *OER finden; OER herstellen; mit OER lernen; mit OER lehren; OER einführen; OER managen*<br>
-***`Metadaten:`*** *OER; OER consultation; OER network; University; Higher Education*
-> ***Zitationsvorschlag nach TULLU-Regel:***   
+**`Medienformat:`** *interaktive Web-Anwendung* **`erstellt/bearbeitbar mit:`** *Webanwendung [LearningSnacks](https://www.learningsnacks.de)* <br>
+**`Niveaustufe(n):`** *Einsteiger (Starter); Praktiker* <br>
+*`Praxiskategorie(n)`* *OER finden; OER herstellen; mit OER lernen; mit OER lehren; OER einführen; OER managen*<br>
+**`Metadaten:`** *OER; OER consultation; OER network; University; Higher Education*
+> **Zitationsvorschlag nach TULLU-Regel:**   
 > *Learning Snacks: "ORCA.nrw: A University Network for OER"; von *Eube, Cornelia; Kobusch, Alexander; Niemann, Andrea; Nitzsche, Sina; Scherer, Elisabeth; Spaude, Magdalena*; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Learning Snacks](https://www.learningsnacks.de/share/218584/)*
 
 <script>
@@ -497,12 +501,12 @@ The example is based on a German network. You can find out **how the network wor
 ### Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB
 Der ‘Moodle-Kurs‘ bietet Lehrenden, Studierenden und allen Interessierten einen **Einstieg** in die Welt der Open Educational Resources (OER) und die Nutzung von Creative Commons-Lizenzen. Der Kurs besteht aus **drei unabhängig voneinander bearbeitbaren Abschnitten**: Einführung in OER, Erklärung von CC-Lizenzen und Empfehlungen zur Öffnung von Lehre und Lernen, speziell an der Ruhr-Universität Bochum. In einer Bearbeitungszeit von je 15 bis 20 Minuten pro Einheit lernen die Teilnehmenden, wie sie **OER finden, nutzen, erstellen und ihre eigenen Inhalte für eine offene Lehre gestalten** können.<br><br>
 ![](MaterialienIntros/Selbstlernkurs_Lehre-Lernen-oeffnen-OER-RUB_CCBYSA.png)<br>
-**`Medienformat`** Moodle-Kurs **`erstellt/bearbeitbar mit`** Moodle <br>
-**`Niveaustufe(n)`** Einsteiger<br>
-**`Praxiskategorie(n)`** OER finden, OER herstellen, mit OER lernen; mit OER lehren, OER einführen<br>
-**`Metadaten`** OER; Open Educational Resources; Lehren; Lernen; Creative Commons; Lizenzen<br>
+`Medienformat` Moodle-Kurs `erstellt/bearbeitbar mit` Moodle <br>
+`Niveaustufe(n)` Einsteiger<br>
+`Praxiskategorie(n)` OER finden, OER herstellen, mit OER lernen; mit OER lehren, OER einführen<br>
+`Metadaten` OER; Open Educational Resources; Lehren; Lernen; Creative Commons; Lizenzen<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB; von Fuchs, Michael; Ergänzungen von: Braungardt, Kathrin; Görlich, Sarah; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Moodle RUB](https://moodle.ruhr-uni-bochum.de/course/view.php?id=21966)*
 
 <script>
@@ -533,12 +537,12 @@ Egal ob Leitfäden, Checklisten oder Handreichungen – Hier bündelns sich fund
 ### Aufzeichnung von Online-Konferenzbeiträgen als OER: Ein Praxisleitfaden
 Das `Textdokument` gibt **Vortragenden** wertvolle Tipps und Tricks für die **Vorbereitung, Durchführung** und **Nachbereitung** einer digitalen Veranstaltung, die aufgezeichnet werden und anschließend als OER veröffentlicht werden kann.<br><br>
 ![](MaterialienIntros/Textdokument_Aufzeichnung-Online‐Konferenzbeitraege_OER_CCBY40.png)<br>
-**`Medienformat`** PDF, Textdokument **`erstellt/bearbeitbar mit`** MS Word <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker<br>
-**`Praxiskategorie(n)`** OER herstellen, OER einführen; OER managen<br>
-**`Metadaten`** Online-Veranstaltung; Hochschuldidaktik; Leitfaden; Videoproduktion; OER-Fachtag; Konferenzorganisation; Dokumentation; Digitalisierung<br>
+`Medienformat` PDF, Textdokument `erstellt/bearbeitbar mit` MS Word <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker<br>
+`Praxiskategorie(n)` OER herstellen, OER einführen; OER managen<br>
+`Metadaten` Online-Veranstaltung; Hochschuldidaktik; Leitfaden; Videoproduktion; OER-Fachtag; Konferenzorganisation; Dokumentation; Digitalisierung<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Aufzeichnung von Online-Konferenzbeiträgen als OER: Ein Praxisleitfaden; von Geurden, Bianca; Görlich, Sarah; Hützen, Nicole Hützen, Jahn, Markus; Mendez Parente, Josefine; Nitzsche; Sina; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/d7d698e4-d9e9-47fb-87e4-86283206c982)*
 
 <script>
@@ -562,13 +566,13 @@ window.material.push({
 ### Checkliste Open Educational Resources erstellen (v2.0)
 Der Zweck dieses `Textdokuments` / Leitfadens ist, Lehrenden eine **Orientierung** zu geben, welche **rechtlichen Maßgaben** sie einhalten müssen und nach welchen **Qualitätsmerkmalen** sie OER-Materialien entwickeln und beurteilen können.
 ![](MaterialienIntros/Textdokument_Checkliste-OER-erstellen-v2-0_CCBY40.png)
-**`Medienformat`** PDF
-Textdokument **`erstellt/bearbeitbar mit`** MS Word <br>
-**`Niveaustufe(n)`** Einsteiger (Starter)<br>
-**`Praxiskategorie(n)`** OER herstellen, OER managen<br>
-**`Metadaten`** OER; Urheberrecht; Barrierefreiheit; Persönlichkeitsrecht; Produktion, Qualität<br>
+`Medienformat` PDF
+Textdokument `erstellt/bearbeitbar mit` MS Word <br>
+`Niveaustufe(n)` Einsteiger (Starter)<br>
+`Praxiskategorie(n)` OER herstellen, OER managen<br>
+`Metadaten` OER; Urheberrecht; Barrierefreiheit; Persönlichkeitsrecht; Produktion, Qualität<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Checkliste Open Educational Resources erstellen (v2.0); von Kobusch,Alexander; Halm, Linda; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/6c1f1da2-7ff6-4dd6-b87b-0404b980cc50)*
 
 <script>
@@ -592,12 +596,12 @@ window.material.push({
 ### Handreichung: Veröffentlichung von Lehr-Lern-Materialien als OER
 Das `Textdokument` wurde für Lehrende der HHU erstellt, kann aber **leicht für andere (Hochschul-) Kontexte angepasst werden**. Es enthält **kompakte Informationen** zu Creative-Commons-Lizenzen und **Tipps** rund um das Urheberrecht zur Publikation von Materialien als OER.<br><br>
 ![](MaterialienIntros/Textdokument_Veroeffentlichung-LLM-alsOER_CCBYSA40.png)<br>
-**`Medienformat`** PDF, Textdokument **`erstellt/bearbeitbar mit`** MS Word <br>
-**`Niveaustufe(n)`** Praktiker<br>
-**`Praxiskategorie(n)`**  OER herstellen<br>
-**`Metadaten`** OER; Creative Commons; Lehrmaterialien; E-Learning; Open Educational Resources<br>
+`Medienformat` PDF, Textdokument `erstellt/bearbeitbar mit` MS Word <br>
+`Niveaustufe(n)` Praktiker<br>
+`Praxiskategorie(n)`  OER herstellen<br>
+`Metadaten` OER; Creative Commons; Lehrmaterialien; E-Learning; Open Educational Resources<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Handreichung: Veröffentlichung von Lehr-Lern-Materialien als OER; von Scherer, Elisabeth; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/53d9ee69-384c-4ddb-bfc3-a906197f5252)*
 
 <script>
@@ -619,12 +623,12 @@ window.material.push({
 ### Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien
 Der Schwerpunkt des `Textdokuments` liegt auf dem **Nutzen und Einbetten von nicht offen lizensierten Materialien**, die damit zunächst nicht ausdrücklich zur freien Weiterverwendung freigegeben sind. Die Handreichung ist an alle gerichtet, die OER-Material erstellen und diese auf einer (evtl. öffentlich zugänglichen) Plattform **veröffentlichen** wollen.<br><br>
 ![](MaterialienIntros/Textdokument_Erstellung-OER‐Materialien-ORCAnrw_CCBY40.png)<br>
-**`Medienformat`** PDF, Textdokument **`erstellt/bearbeitbar mit`** MS Word <br>
-**`Niveaustufe(n)`** Praktiker<br>
-**`Praxiskategorie(n)`** OER herstellen<br>
-**`Metadaten`** Handreichung; Landesportal ORCA.nrw; Material erstellen; Creative-Commons-Lizenz; Lizenz vergeben; CC-Lizenz<br>
+`Medienformat` PDF, Textdokument `erstellt/bearbeitbar mit` MS Word <br>
+`Niveaustufe(n)` Praktiker<br>
+`Praxiskategorie(n)` OER herstellen<br>
+`Metadaten` Handreichung; Landesportal ORCA.nrw; Material erstellen; Creative-Commons-Lizenz; Lizenz vergeben; CC-Lizenz<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Handreichung: Schwerpunkt Nutzung und Einbettung von nicht offen lizenzierten Materialien; von Josupeit, Christina; Funk, Christian; Anderheide, Marie-Sophie; Meyer, Elisabeth; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/1ead1f94-6298-41e6-92c0-d11c30bb19a3)*
 
 <script>
@@ -645,12 +649,12 @@ window.material.push({
 
 Das 'Kurzportrait' zum Landesportal ORCA.nrw bringt die Vorzüge der sozio-technischen Infrastrukturmaßnahme auf den Punkt.<br><br>
 ![](MaterialienIntros/Textdokument_ORCA-StrategischeAnsaetze-Entwicklung-OER-Policy-NRW_CCBYSA.png)<br>
-**`Medienformat`** PDF; Konferenz-Beitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
-**`Niveaustufe(n)`** Einsteiger, Praktiker<br>
-**`Praxiskategorie(n)`** OER einführen, OER managen<br>
-**`Metadaten`** Open Educational Resources; OER; Strategie; Policy; OER-Policy; NRW<br>
+`Medienformat` PDF; Konferenz-Beitrag (Publikation) `erstellt/bearbeitbar mit` PDF-Editor <br>
+`Niveaustufe(n)` Einsteiger, Praktiker<br>
+`Praxiskategorie(n)` OER einführen, OER managen<br>
+`Metadaten` Open Educational Resources; OER; Strategie; Policy; OER-Policy; NRW<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*ORCA.nrw: Strategische Ansätze zur Entwicklung von OER-Policies an Hochschulen in NRW. ; von Kobusch, Alexander; Halm, Linda; Nitzsche, Sina; Scherer, Elisabeth; Görlich, Sarah; Hörman, Irina; Liebscher, Julia; Schaffeld, Laura; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [HFD](https://hochschulforumdigitalisierung.de/sites/default/files/dateien/SD_03_Einzel.pdf)*
 
 <script>
@@ -673,12 +677,12 @@ window.material.push({
 
 Der 'Beitrag' beleuchtet die **Entwicklung des Landesportals ORCA.nrw**, das eine zentrale Plattform für Open Educational Resources (OER) für Hochschulen in Nordrhein-Westfalen bereitstellt. Ziel ist es, durch eine **gemeinschaftlich getragene Infrastruktur** Lehrmaterialien, Informationen und Services digital zugänglich zu machen und die **Zusammenarbeit zwischen Hochschulen** zu fördern. Die **lokale Vernetzung und institutionelle Begleitung** der Lehrenden unterstützen die Nutzung und Erstellung von OER und tragen zur digitalen Transformation im Bildungsbereich bei.<br><br>
 ![](MaterialienIntros/Textdokument_Landesportal-ORCA-Netzwerk-CCBYNCND.png)<br>
-**`Medienformat`** PDF, Tagungsbeitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
-**`Niveaustufe(n)`** Praktiker, Experte<br>
-**`Praxiskategorie(n)`** "oer_managen": true,<br>
-**`Metadaten`** OER; Zusammenarbeit; Digitalisierung der Hochschullehre; Netzwerk; ORCA.nrw; Community-Building<br>
+`Medienformat` PDF, Tagungsbeitrag (Publikation) `erstellt/bearbeitbar mit` PDF-Editor <br>
+`Niveaustufe(n)` Praktiker, Experte<br>
+`Praxiskategorie(n)` "oer_managen": true,<br>
+`Metadaten` OER; Zusammenarbeit; Digitalisierung der Hochschullehre; Netzwerk; ORCA.nrw; Community-Building<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Das Landesportal ORCA.nrw. Eine Plattform – 37 Hochschulen – ein Netzwerk; von Eube, Cornelia; Kobusch, Alexander; Rosenthal, Florian; Scherer, Elisabeth; Spaude, Magdalena; [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/); Link führt zu [Zenodo](https://zenodo.org/records/5004445)*
 
 <script>
@@ -698,12 +702,12 @@ window.material.push({
 ### The ORCA Ecosystem – Advancing the mission of OER together through competences in the network
 Der **Artikel in englischer Sprache** beleuchtet das  Projekt ORCA.nrw, das als digitales Landesportal für Hochschulen in NRW **offene Bildungsressourcen (OER)** sowie **zielgruppenspezifische Informationen und Services** bereitstellt. ORCA.nrw vereint die Digitalisierungsprojekte der Hochschulen in einer gemeinsamen technischen und personellen Infrastruktur. Die **lokalen Netzwerkstellen** an den Hochschulen fördern die Nutzung und Integration der Angebote in die Lehre und stärken durch ihre Zusammenarbeit die Innovationskraft im ORCA-Ökosystem.<br><br>
 ![](MaterialienIntros/Textdokument_ORCA-Ecosystem_ALLERECHTEVORBEHALTEN.png)<br>
-**`Medienformat`** PDF; Konferenz-Beitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte
-**`Praxiskategorie(n)`** Oer finden, OER einführen, OER managen, zu OER forschen
-**`Metadaten`** Open Educational Resources; OER; network; portal; digital transformation; ecosystem; local network points; culture of sharing; Offene Bildungsressourcen; OER; Digitale Transformation; Ökosystem; Netzwerk; Kultur des Teilens; Infrastruktur<br>
+`Medienformat` PDF; Konferenz-Beitrag (Publikation) `erstellt/bearbeitbar mit` PDF-Editor <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker, Experte
+`Praxiskategorie(n)` Oer finden, OER einführen, OER managen, zu OER forschen
+`Metadaten` Open Educational Resources; OER; network; portal; digital transformation; ecosystem; local network points; culture of sharing; Offene Bildungsressourcen; OER; Digitale Transformation; Ökosystem; Netzwerk; Kultur des Teilens; Infrastruktur<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*The ORCA Ecosystem – Advancing the mission of OER together through competences in the network.; von Niemann, Andrea; Schotemeier, Sarah;  Funk, Christian; alle Rechte vorbehalten; Link führt zu [iated Digital Library](https://library.iated.org/view/NIEMANN2022ORC)*
 
 <script>
@@ -727,12 +731,12 @@ window.material.push({
 ### OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen
 Diese ‘Publikation‘ präsentiert Ergebnisse einer Umfrage unter Hochschul-Lehrenden in NRW aus 2021, die Motivationen und Hürden rund um OER untersucht. Im Hochschulbereich lässt sich seit einiger Zeit. In NRW steht dafür das Landesportal ORCA.nrw zur Verfügung, das **Lehrende und Studierende** im Hochschulbereich unterstützt, an der beobachtbar zunehmenden Bedeutung und Förderung von offen lizenzierten Bildungsressourcen (OER) zu partizipieren. Befragt wurden **167 Teilnehmende** zu ihrer **Nutzung**, **Produktion** und **Veröffentlichung** von OER sowie ihren Unterstützungsbedarfen. Als **zentrale Motivation** zeigt sich eine positive Einstellung zum Teilen, aber auch finanzielle Anreize werden als wichtig angesehen. Als **größte Herausforderung** werden Kenntnisse zu OER, vor allem zu den rechtlichen Rahmenbedingungen, in allen OER-Handlungsbereichen offenbar.<br><br>
 ![](MaterialienIntros/Textdokument_Umfrage-OER-in-NRW_CCBY40.png)<br>
-**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker<br>
-**`Praxiskategorie(n)`** OER einführen, OER managen, zu OER forschen<br>
-**`Metadaten`** OER Produktion; NRW; Netzwerkstellen; OER Umfrage; Hochschullehrende; Motivation; OER Teilen; OER Veröffentlichung; OER Nutzung; Perspektiven auf OER<br>
+`Medienformat` PDF `erstellt/bearbeitbar mit` PDF-Editor <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker<br>
+`Praxiskategorie(n)` OER einführen, OER managen, zu OER forschen<br>
+`Metadaten` OER Produktion; NRW; Netzwerkstellen; OER Umfrage; Hochschullehrende; Motivation; OER Teilen; OER Veröffentlichung; OER Nutzung; Perspektiven auf OER<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*OER in NRW - Was motiviert? Was hindert? Ergebnisse einer Umfrage zur Nutzung, Produktion und Veröffentlichung von Open Educational Resources an Hochschulen; von Geurden, Bianca; Jahn, Markus; Josupeit, Christina; Schotemeier, Sarah; Weber, Tassja (unter Mitarbeit von Schäfer, S. (Fragebogen und Teilauswertung) und Krüger, A. (Teilauswertung)); [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/89bad355-8af3-48c3-bf15-aa6163127039)*
 
 <script>
@@ -755,12 +759,12 @@ window.material.push({
 ### Das Potenzial freier Bildungsmaterialien
 Die 'hochschuldidaktische Beilage', in der der Artikel erscheint, widmet sich **dem Potenzial und der Förderung von Open Educational Resources** (OER) in der Hochschullehre und hebt die Bedeutung einer **Kultur des Teilens** hervor. Lehrende profitieren von der kollaborativen Nutzung und Weiterentwicklung offen lizensierter Materialien. Die **Vernetzung und der Erfahrungsaustausch**, gefördert durch das Landesportal ORCA.nrw und die Community of Practice, stärken innovative Lehr- und Lernansätze.<br><br>
 ![](MaterialienIntros/Textdokument_Potenzial-LeNi_ALLERECHTEVORBEHALTEN.png)<br>
-**`Medienformat`** PDF; Artikel-Beitrag (Publikation) **`erstellt/bearbeitbar mit`** PDF-Editor <br>
-**`Niveaustufe(n)`** Einsteiger (Starter)
-**`Praxiskategorie(n)`** mit OER lehren, OER einführen
-**`Metadaten`** OER; Lehr-Lern-Kultur; Kulturwandel; Hochschuldidaktik; Potenzial; Open Educational Resources; Kultur des Teilens<br>
+`Medienformat` PDF; Artikel-Beitrag (Publikation) `erstellt/bearbeitbar mit` PDF-Editor <br>
+`Niveaustufe(n)` Einsteiger (Starter)
+`Praxiskategorie(n)` mit OER lehren, OER einführen
+`Metadaten` OER; Lehr-Lern-Kultur; Kulturwandel; Hochschuldidaktik; Potenzial; Open Educational Resources; Kultur des Teilens<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Das Potenzial freier Bildungsmaterialien. ; von Hörmann, Irina; Scheele, Sandra; alle Rechte vorbehalten; Link führt zu [Webauftritt HS Niederrhein](https://www.hs-niederrhein.de/fileadmin/dateien/hll/hochschuldidaktik/LeNi-Beilage_in_der_NIU/Le_Ni_Beilage_2_Wandel_der_Lehr-_und_Lernkultur_durch_OER.pdf)*
 
 <script>
@@ -781,12 +785,12 @@ window.material.push({
 ### Lehr- und Lernmaterialien frei Haus: Open Educational Resources
 Der ‘Beitrag‘ im Jahrbuch der FH Dortmund stellt **Open Educational Resources (OER)** vor und zeigt, wie frei verfügbare, lizenzierte Lehrmaterialien **den Hochschulalltag bereichern** können. Durch OER können Lehrende Inhalte flexibel nutzen, anpassen und teilen, was den **Wissensaustausch über Lehre fördert** fördert und Lernmaterialien einfach zugänglich macht. Ein besonderer Fokus liegt auf dem **Landesportal ORCA.nrw**, das Lehrenden und Studierenden in NRW eine **zentrale Anlaufstelle** für hochwertige, offene Bildungsmaterialien bietet.<br><br>
 ![](MaterialienIntros/Textdokument_LLM-frei-Haus-OER_CCBY.png)<br>
-**`Medienformat`** E-Zine **`erstellt/bearbeitbar mit`** unbekannt <br>
-**`Niveaustufe(n)`** Einsteiger (Starter)<br>
-**`Praxiskategorie(n)`** mit OER lehren, OER einführen<br>
-**`Metadaten`** Open Educational Resources; OER; Creative Commons Lizenzen; CC Lizenzen; Landesportal; ORCA.nrw; Austausch; Kultur des Teilens<br>
+`Medienformat` E-Zine `erstellt/bearbeitbar mit` unbekannt <br>
+`Niveaustufe(n)` Einsteiger (Starter)<br>
+`Praxiskategorie(n)` mit OER lehren, OER einführen<br>
+`Metadaten` Open Educational Resources; OER; Creative Commons Lizenzen; CC Lizenzen; Landesportal; ORCA.nrw; Austausch; Kultur des Teilens<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*„Lehr- und Lernmaterialien frei Haus: Open Educational Resources.“; von Nietzsche, Sina; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Heyzine Flipbooks](https://heyzine.com/flip-book/11b57ddf01.html#page/169)*
 
 <script>
@@ -807,12 +811,12 @@ window.material.push({
 ### Sichtbarkeit von Open Educational Culture an Hochschulen
 `Textdokument`: Open Educational Culture (OEC) bedeutet, dass Wissen und Ressourcen frei und offen geteilt werden, um den Bildungszugang für alle leichter zu machen. In diesen Texten wird aufgezeigt, wo eine solche Open Educational Culture an Hochschulen sichtbar wird und weshalb sie sinnvoll ist.<br><br>
 ![](MaterialienIntros/Textdokument_Sichtbarkeit-OEC-an-HS_CCBY.png)<br>
-**`Medienformat`** Word-Dokument **`erstellt/bearbeitbar mit`** MS Word <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
-**`Praxiskategorie(n)`** Mit OER lehren, OER managen, zu OER forschen<br>
-**`Metadaten`** tbd<br>
+`Medienformat` Word-Dokument `erstellt/bearbeitbar mit` MS Word <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker, Experte<br>
+`Praxiskategorie(n)` Mit OER lehren, OER managen, zu OER forschen<br>
+`Metadaten` tbd<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Sichtbarkeit von Open Educational Culture an Hochschulen; von Jahn, Markus; Kober, Sabine; Reichardt, Gabi; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/aa67b800-5e36-40bf-a4d0-590ec4f40b11 )*
 
 <script>
@@ -835,12 +839,12 @@ window.material.push({
 ### Unser Werteverständnis - Open Educational Culture
 `Textdokument`zur Frage: Was bedeutet eine "Open Educational Culture" im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema **Open Educational Culture**, seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der **kondensierten Werte, Einstellungen und Verhaltensweisen**, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert:innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede:n Einzelne:n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur*innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.<br><br>
 ![](MaterialienIntros/Textdokument_Werteverstaendnis-OEC_CCBY.png)<br>
-**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Experte<br>
-**`Praxiskategorie(n)`** OER einführen, OER managen, zu OER forschen<br>
-**`Metadaten`** tbd<br>
+`Medienformat` PDF `erstellt/bearbeitbar mit` PDF-Editor <br>
+`Niveaustufe(n)` Einsteiger (Starter), Experte<br>
+`Praxiskategorie(n)` OER einführen, OER managen, zu OER forschen<br>
+`Metadaten` tbd<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Unser Werteverständnis - Open Educational Culture; von Geurden, Bianca; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/0aec2d6e-e83e-4124-91ee-39a2b2449e0c)*
 
 <script>
@@ -863,12 +867,12 @@ window.material.push({
 ### Den Bedenken zu OER begegnen
 `Textdokument`: Wer darüber nachdenkt, Open Educational Resources (OER) selbst zu nutzen, zu bearbeiten oder neu zu erstellen, entdeckt schnell, dass es eine Reihe von technischen, inhaltlichen oder rechtlichen Bedenken hierzu geben kann. In diesem Text geht es darum, sie  aufzugreifen, zu beleuchten und ihnen konstruktiv zu begegnen. Aus der Diversität der Perspektiven auf das Thema resultieren unterschiedliche Herangehensweisen und Stilrichtungen in den einzelnen Kapiteln.<br><br>
 ![](MaterialienIntros/Textdokument_Bedenken-zu-OER-begegnen_CCBY.png)<br>
-**`Medienformat`** Word-Dokument **`erstellt/bearbeitbar mit`** PDF-Editor<br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
-**`Praxiskategorie(n)`** OER einführen, OER managen, zu OER forschen<br>
-**`Metadaten`** OER Produktion; Open Educational Culture; Kultur des Teilens; Rechtlicher Rahmen; KI; Bedenken begegnen; Persönliche Bedenken; OER-Inhalt; Technik<br>
+`Medienformat` Word-Dokument `erstellt/bearbeitbar mit` PDF-Editor<br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker, Experte<br>
+`Praxiskategorie(n)` OER einführen, OER managen, zu OER forschen<br>
+`Metadaten` OER Produktion; Open Educational Culture; Kultur des Teilens; Rechtlicher Rahmen; KI; Bedenken begegnen; Persönliche Bedenken; OER-Inhalt; Technik<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Den Bedenken zu OER begegnen; von Jahn, Markus; Kober, Sabine; Schotemeier, Sarah;  Schütgens; Robin; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/6d7baa1b-07cf-497a-a10b-69e3deb0489d)*
 
 <script>
@@ -891,12 +895,12 @@ window.material.push({
 ### Trainingskonzept: Feedback zu OER geben mit dem OER-Feedbackrad
 `Textdokument`: Mit dem OER-Feedbackrad trainieren Lehrende, sich gegenseitig zu einer selbst erstellten Open Educational Resource Feedback zu geben. Dabei können sie den Fokus im Gespräch auf unterschiedliche Kategorien legen. Alternativ kann hiermit zu einer gefundenen/bereitgestellten OER Feedback gegeben werden.<br><br>
 ![](MaterialienIntros/Textdokument_Feedbackrad_CCBY.png)<br>
-**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
-**`Praxiskategorie(n)`** OER herstellen, mit OER lehren, OER managen, zu OER forschen<br>
-**`Metadaten`** Feedback; Feedbackkultur; OER-Feedbackrad; Open Educationals Culture; OEC; Kultur des Teilens; OER; Trainingskonzept<br>
+`Medienformat` PDF `erstellt/bearbeitbar mit` PDF-Editor <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker, Experte<br>
+`Praxiskategorie(n)` OER herstellen, mit OER lehren, OER managen, zu OER forschen<br>
+`Metadaten` Feedback; Feedbackkultur; OER-Feedbackrad; Open Educationals Culture; OEC; Kultur des Teilens; OER; Trainingskonzept<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Trainingskonzept: Feedback zu OER geben mit dem OER-Feedbackrad; von Geurden, Bianca; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/f1ae38bf-aa63-4116-a607-dbd9ce02c0a5)*
 
 <script>
@@ -921,12 +925,12 @@ window.material.push({
 ### Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können
 Diese `Handreichung` ist das Ergebnis einer Kooperation im Rahmen des Netzwerks, den OER-Expert:innen der NRW-Hochschulen, im Open Resources Campus NRW (ORCA.nrw). Hierbei widmen sich die OER-Expert:innen der Etablierung und Unterstützung einer Open Educational Culture an Universitäten, Hochschulen für Angewandte Wissenschaften sowie Musik- und Kunsthochschulen und geben **praktische Tipps und Anleitungen**, wie das gelingen kann. Das vorliegende Dokument, das Teil der Handlungsempfehlungen ist, beschäftigt sich mit dem Aspekt, wie **Austauschformate** zur Förderung einer Open Educational Culture an der Hochschule beitragen können. Es richtet sich primär an **OER-Multiplikator:innen**, die an ihren Bildungseinrichtungen eine **Open Educational Culture** fördern wollen.<br><br>
 ![](MaterialienIntros/Textdokument_Austauschformate-Foerderung-OEC-HS_CCBY.png)<br>
-**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
-**`Niveaustufe(n)`** Praktiker<br>
-**`Praxiskategorie(n)`** OER finden, mit OER lehren, OER managen, zu OER forschen<br>
-**`Metadaten`** OER; Open Educationals Cuture; Kultur des Teilens; Offenheit; Austauschformate; Beratung; Innovation; Diffusionstheorie<br>
+`Medienformat` PDF `erstellt/bearbeitbar mit` PDF-Editor <br>
+`Niveaustufe(n)` Praktiker<br>
+`Praxiskategorie(n)` OER finden, mit OER lehren, OER managen, zu OER forschen<br>
+`Metadaten` OER; Open Educationals Cuture; Kultur des Teilens; Offenheit; Austauschformate; Beratung; Innovation; Diffusionstheorie<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können; von Heckmann, Henrike; Hörmann, Irina; Jahn,  Markus; Méndez Parente, Josefine; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/528057a1-414b-4fd0-a39d-f49b10a3adaf )*
 
 <script>
@@ -958,12 +962,12 @@ Präsentationen bündeln Wissen in visueller Form. Hier finden sich solche, zu d
 ### Open Educational Resources in der Japanologie
 Der auf der 'Projektwebseite' verfügbare Vortrag „Open Educational Resources (OER) und ihr Potenzial für die Japanologie“ bot einen umfassenden Überblick über verschiedene online verfügbare Materialien für Studierende und Forschende der Japanologie, von vollständigen Kursen, Videos und Büchern bis hin zu Materialien von Museen und japanischen Sprachressourcen wie dem Kyoto University OpenCourseWare. Abschließend gab sie einen kurzen Überblick über den aktuellen Stand der OER-Angebote in der Japanologie, führte potenzielle Ressourcen für das Fach auf und skizzierte Best-Practice-Leitlinien zur Förderung von OER und offener Wissenschaft.<br><br>
 ![](MaterialienIntros/Praesentation_OER-Japanologie_CCBYSA.png)<br>
-**`Medienformat`** HTML, Präsentation **`erstellt/bearbeitbar mit`** unbekannt <br>
-**`Niveaustufe(n)`** Einsteiger (Starter)<br>
-**`Praxiskategorie(n)`** OER finden; OER hersellen; mit OER lernen; mit OER lehren; OER einführen<br>
-**`Metadaten`** Open Educational Resources; OER; Japanologie; Creative Commons; Kultur des Teilens; Digitale Lehrmaterialien; Digitale Lernmaterialien; Bildungsmaterialien<br>
+`Medienformat` HTML, Präsentation `erstellt/bearbeitbar mit` unbekannt <br>
+`Niveaustufe(n)` Einsteiger (Starter)<br>
+`Praxiskategorie(n)` OER finden; OER hersellen; mit OER lernen; mit OER lehren; OER einführen<br>
+`Metadaten` Open Educational Resources; OER; Japanologie; Creative Commons; Kultur des Teilens; Digitale Lehrmaterialien; Digitale Lernmaterialien; Bildungsmaterialien<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Open Educational Resources in der Japanologie; von Scherer, Elisabeth; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Projektwebseite JVMG](https://jvmg.iuk.hdm-stuttgart.de/2022/09/07/presenting-at-the-18-deutschsprachigen-japanologentag/)*
 
 <script>
@@ -986,12 +990,12 @@ window.material.push({
 ### OER-Policy – wieso jetzt, wozu, wie, wohin?
 Die ‘Präsentation‘ richtet sich an **Hochschulvertreter:innen und Verantwortliche im Bildungsbereich**. Die **Inhalte** umfassen die Bedeutung einer OER-Policy, den Entstehungsprozess und die **Vorteile von partizipativen Ansätzen** sowie Beispiele aus der Universität Bielefeld sowie der FH Bielefeld. **Schwerpunkte** sind die Förderung einer Kultur des Teilens und die strategische Vernetzung zur Umsetzung von OER-Initiativen.<br><br>
 ![](MaterialienIntros/Praesentation_OER-Policy-Fragen_ALLERECHTEVORBEHALTEN.png)<br>
-**`Medienformat`** PDF **`erstellt/bearbeitbar mit`** PDF-Editor <br>
-**`Niveaustufe(n)`** Praktiker, Experte<br>
-**`Praxiskategorie(n)`** OER einführen, OER managen, zu OER forschen<br>
-**`Metadaten`** OER; Policy; Bildungsstrategie; Hochschulentwicklung; KnOER; Vernetzung; Kultur des Teilens<br>
+`Medienformat` PDF `erstellt/bearbeitbar mit` PDF-Editor <br>
+`Niveaustufe(n)` Praktiker, Experte<br>
+`Praxiskategorie(n)` OER einführen, OER managen, zu OER forschen<br>
+`Metadaten` OER; Policy; Bildungsstrategie; Hochschulentwicklung; KnOER; Vernetzung; Kultur des Teilens<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*OER-Policy – wieso jetzt, wozu, wie, wohin?; von Homp, Frank; Kobusch, Alexander; alle Rechte vorbehalten; Link führt zu [Internetauftritt KnOER](https://kn-oer.de/wp-content/uploads/2023/02/2023-03-15_KNOER-AG-OER-Policy_Homp-Kobusch.pdf)*
 
 <script>
@@ -1014,12 +1018,12 @@ window.material.push({
 ### Lernpause: Freie Bildungsressourcen (Open Educational Resources, OER)
 In der 'Aufzeichung' der **LernPause** der **Universität Paderborn** zum Thema **OER**, werden **Merkmale von und Mehrwerte** OER im Vergleich zu traditionellen Lehr- und Lernmaterialien thematisiert, aufgezeigt auf wo Sie OER suchen/finden und in Ihrer Lehre einsetzen können. Zudem wird über Unterstützungsangebote zu OER an der Universität Paderborn informiert.<br><br>
 ![](MaterialienIntros/Video_FreieBildungsressourcen_UPB_ALLERECHTEVORBEHALTEN.png)<br>
-**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme <br>
-**`Niveaustufe(n)`** Einsteiger (Starter)<br>
-**`Praxiskategorie(n)`** OER finden, mit OER lehren, OER einführen<br>
-**`Metadaten`** Lernpause; Hochschuldidaktik; E-Learning; elearning; e-Lehre; OER; Open Educational Resources<br>
+`Medienformat` Video `erstellt/bearbeitbar mit` Video-Schnittprogramme <br>
+`Niveaustufe(n)` Einsteiger (Starter)<br>
+`Praxiskategorie(n)` OER finden, mit OER lehren, OER einführen<br>
+`Metadaten` Lernpause; Hochschuldidaktik; E-Learning; elearning; e-Lehre; OER; Open Educational Resources<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Freie Bildungsressourcen (Open Educational Resources, OER); von Weber, Tassja; alle Rechte vorbehalten; Link führt zu [Videoportal Universität Paderborn](https://videos.uni-paderborn.de/channel/video/LernPause-Oktober-2022-Freie-Bildungsressourcen-OpenEducational-Resources-OER/467e2204ae07d08774da3ae9565ade0d/27)*
 
 <script>
@@ -1040,12 +1044,12 @@ window.material.push({
 ### 33 Minuten für… Das Konzept der Open Educational Resources (OER)
 Im `Video` zum Vortragsformat der **Coffee Lectures** lernen Sie das **Konzept von OER** kennen, erfahren, wo Sie **OER finden** und wie Sie selber die **eigenen Lehrmaterialien mit einer Creative-Commons-Lizenz teilen**.<br><br>
 ![](MaterialienIntros/Video_Coffee_Lectures_Konzept-OER_CCBY40.png)<br>
-**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme<br>
-**`Niveaustufe(n)`** Einsteiger (Starter)<br>
-**`Praxiskategorie(n)`** OER finden, OER herstellen, OER einführen<br>
-**`Metadaten`** Creative Commons Lizenzen; CC-Lizenzen<br>
+`Medienformat` Video `erstellt/bearbeitbar mit` Video-Schnittprogramme<br>
+`Niveaustufe(n)` Einsteiger (Starter)<br>
+`Praxiskategorie(n)` OER finden, OER herstellen, OER einführen<br>
+`Metadaten` Creative Commons Lizenzen; CC-Lizenzen<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*33 Minuten für… Das Konzept der Open Educational Resources (OER); von Spaude, Magdalena; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Opencast Uni zu Köln](https://player.opencast.uni-koeln.de/822648aa-2cba-422a-9df4-5f6acaede4b3)*
 
 <script>
@@ -1075,12 +1079,12 @@ Lernvideos, Vorträge und Interviews: In dieser Kategorie finden Sie visuelle Un
 ### OER & CC-Lizenzen. Ein Bespiel für einfache ppt-Videoproduktionen
 In diesem ‘Video‘ geben die Netzwerkstellen eine umfassende **Einführung in die Welt der Open Educational Resources** (OER) und **Creative Commons-Lizenzen**. Der Clou: Die Umsetzung erfolgt als Video einer vertonten Folienpräsentation. Jede Netzwerkstelle übernimmt dabei einen speziellen **Themenbereich**: von der grundlegenden Erklärung, was OER bedeutet, über die Prinzipien der offenen Lizensierung und mögliche Einschränkungen der „5 Freiheiten“ durch die verschiedenen CC-Lizenzmodule bis hin zur Kombination der Module. **Konkrete Beispiele und Layoutvorschläge für die Darstellung der Lizenzangaben** runden den Vortrag ab und bieten praktische Anwendungshilfen für die eigene OER-Erstellung.<br><br>
 ![](MaterialienIntros/Video_ORCA-CC-Lizenzen_PPT-Videoproduktion_CCBY.png)<br>
-**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme <br>
-**`Niveaustufe(n)`** Praktiker<br>
-**`Praxiskategorie(n)`** OER finden, OER herstellen<br>
-**`Metadaten`** OER; OpenEducationalResources; ORCA; ORCA.nrw<br>
+`Medienformat` Video `erstellt/bearbeitbar mit` Video-Schnittprogramme <br>
+`Niveaustufe(n)` Praktiker<br>
+`Praxiskategorie(n)` OER finden, OER herstellen<br>
+`Metadaten` OER; OpenEducationalResources; ORCA; ORCA.nrw<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*OER & CC-Lizenzen. Ein Bespiel für einfache ppt-Videoproduktionen; von Kobusch, Alexander; Geurden, Bianca; Homp, Frank; Spaude, Magdalena; Dobosz, Nicole; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Videoportal Universität Bielefeld](https://uni-bielefeld.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3bf8cf42-3839-436a-93d2-af86010d5df5)*
 
 <script>
@@ -1104,12 +1108,12 @@ window.material.push({
 ### OER-Testimonials: Materials Caching 
 Die 'Video-Reihe' **OER-Testimonials** ist im Rahmen des Dortmunder OER-Zirkels(Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH und TU Dortmund) entstanden. Die Reihe stellt Produzent:innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources) vor. Hier Beispielhaft das **Projekt Material Caching**, das im Rahmen der DigiFellowship-Förderlinie entstand.<br><br>
 ![](MaterialienIntros/Video_OER-Testimonials_DO_CCBY.png)<br>
-**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme <br>
-**`Niveaustufe(n)`** Praktiker<br>
-**`Praxiskategorie(n)`** OER herstellen, mit OER lehren<br>
-**`Metadaten`** innovative Lehre; Open Educational Resources; oer; zukunftswerkstatt; geocaching; TU Dortmund; Digifellows; Abteilung Innovative Lehre<br>
+`Medienformat` Video `erstellt/bearbeitbar mit` Video-Schnittprogramme <br>
+`Niveaustufe(n)` Praktiker<br>
+`Praxiskategorie(n)` OER herstellen, mit OER lehren<br>
+`Metadaten` innovative Lehre; Open Educational Resources; oer; zukunftswerkstatt; geocaching; TU Dortmund; Digifellows; Abteilung Innovative Lehre<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*OER-Testimonials: Materials Caching ; von Jahn, Markus; Kilian, David; Molke, Sven; Nitzsche, Sina ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Videoportal FH Dortmund](https://video.fh-dortmund.de/video/OER-Testimonials-Materials-Caching-/4743018d281568afa0e5b6903b3f204e)*
 
 <script>
@@ -1132,12 +1136,12 @@ window.material.push({
 ### Virtuelles Kamingespräch: OER in der Hochschule
 In dieser 'Aufzeichnung des **moderierten Kamingesprächs** diskutieren Expert:innen in lockerer Runde zum Thema **OER in der Hochschullehre**. Teilnehmende konnten darüber hinaus Fragen stellen und sich miteinbringen. Die Runde geht unter anderem den Fragen nach, wie der **Weg von einer Idee bis zur Produktion** einer nachhaltig nutzbaren freien Bildungsressource institutionell begleitet werden kann, wie eine OER zur **gemeinsamen Reflexion von Videos** aussehen kann und wie eine **OER-Community** funktionieren kann.<br><br>
 ![](MaterialienIntros/Video_Kamingespraech-OER-Hochschule_CCBY.png)<br>
-**`Medienformat`** Video **`erstellt/bearbeitbar mit`** Video-Schnittprogramme <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte<br>
-**`Praxiskategorie(n)`** OER finden, OER herstellen, mit OER lehren, OER einführen, OER managen<br>
-**`Metadaten`** Open Educational Resources; OER; Hochschullehre; Nachhaltigkeit; institutionelle Begleitung; Community; Expertenrunde<br>
+`Medienformat` Video `erstellt/bearbeitbar mit` Video-Schnittprogramme <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker, Experte<br>
+`Praxiskategorie(n)` OER finden, OER herstellen, mit OER lehren, OER einführen, OER managen<br>
+`Metadaten` Open Educational Resources; OER; Hochschullehre; Nachhaltigkeit; institutionelle Begleitung; Community; Expertenrunde<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Virtuelles Kamingespräch: OER in der Hochschule; von Schwabl, Gerlinde (Moderation); Hackl, Claudia; Handle-Pfeiffer, Daniel; Kober, Sabine; Scherer, Elisabeth; Urban, André; Schlote, Elke; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Youtube](https://www.youtube.com/watch?v=U9LH7OVjqIw&list=PLFdAwreFK7AK5_h3yYxqX43PQdm4xB5F7)*
 
 <script>
@@ -1173,12 +1177,12 @@ Diese Kategorie beinhaltet Podcasts, Musiksammlungen und nicht-bildgestützte In
 `"audio": true,`
 Das **Tape OER Tracks: The Best Music for Educational Videos** beinhaltet **30 frei verfügbare Musikstücke** von zehn jungen und unabhängigen Künstler:innen aus NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund **für den Einsatz in Lehr- und Lernvideos** produziert. Sie können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden - unter der Bedingung der Namensnennung der Künstler:innen.<br><br>
 ![](MaterialienIntros/Audio_OER-Tracks_CCBY.png)<br>
-**`Medienformat`** Audio **`erstellt/bearbeitbar mit`** Audio-Schnittprogrammen <br>
-**`Niveaustufe(n)`** Praktiker<br>
-**`Praxiskategorie(n)`** OER herstellen, mit OER lernen, mit OER lehren<br>
-**`Metadaten`** Musik, Track; OER; Music;  Audio;  <br>
+`Medienformat` Audio `erstellt/bearbeitbar mit` Audio-Schnittprogrammen <br>
+`Niveaustufe(n)` Praktiker<br>
+`Praxiskategorie(n)` OER herstellen, mit OER lernen, mit OER lehren<br>
+`Metadaten` Musik, Track; OER; Music;  Audio;  <br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*OER Tracks: The Best Music for Educational Videos, Volume 1 ; von siehe Musikstücke der Sammlung; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/collections?query=Kreuzwortr%C3%A4tsel&viewType=1&id=bf2c5cf2-e912-4112-91b4-582b687c835e)*
 
 <script>
@@ -1199,12 +1203,12 @@ window.material.push({
 ### zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann
 In dieser ‘Podcast-Folge‘ teilen die Geschäftsführung von ORCA.nrw, dem im August 2021 gestarteten Landesportal für Studium und Lehre, sowie Vertreter:innen der beteiligten Hochschulformen (Universitäten, HAWs, Kunst- und Musikhochschulen) **Einblicke in ihre Aufgaben und Verantwortungsbereiche. Konkrete Themen sind die **Entstehung des Portals**, die **Aufgaben der Geschäftsstelle und der Netzwerkstellen**, die spezifischen **Herausforderungen der verschiedenen Hochschulformen** sowie die **Services**, die die Plattform bietet. Zudem wird erläutert, woher die Open Educational Resources (OER) kommen und wie sie genutzt werden können.
 ![](MaterialienIntros/Audio_Zugehoert-080_CCBY.png)
-**`Medienformat`** Podcast, Audio **`erstellt/bearbeitbar mit`** Audio-Schnittprogrammen <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker<br>
-**`Praxiskategorie(n)`** OER finden, mit OER lernen, mit OER lehren, OER einführen, OER managen<br>
-**`Metadaten`** Netzwerk; ORCA.nrw; Service; Herausforderungen; Plattform; zugehOERt!; Podcast; Hochschule<br>
+`Medienformat` Podcast, Audio `erstellt/bearbeitbar mit` Audio-Schnittprogrammen <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker<br>
+`Praxiskategorie(n)` OER finden, mit OER lernen, mit OER lehren, OER einführen, OER managen<br>
+`Metadaten` Netzwerk; ORCA.nrw; Service; Herausforderungen; Plattform; zugehOERt!; Podcast; Hochschule<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann; von Grimm, Susanne; Kobusch, Alexander; Reichardt, Gabi; Spaude, Magdalena; Deimann, Markus; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [OER-Info](https://open-educational-resources.de/zugehoert-080-orca-nrw/ )*
 
 <script>
@@ -1235,12 +1239,12 @@ Diese Kategorie umfasst Informationsgrafiken, Bilder und Werbematerialien, die f
 ### ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien
 Das 'Plakat' stellt ORCA.nrw vor, ein **sozio-technisches Netzwerk für offene Bildungsressourcen (OER)** in Nordrhein-Westfalen. Es beschreibt den Prozess von der Idee zur Veröffentlichung von Lehrmaterialien über ORCA.nrw **in fünf Schritten**: von der ersten Idee, OER in der Lehre einzusetzen, über die Unterstützung durch Netzwerkstellen und die Nutzung bestehender Materialien, bis hin zur Veröffentlichung und dem Teilen der Inhalte. Ziel ist es, Kooperation und Austausch zwischen den Hochschulen zu fördern und Lehrmaterialien gemeinsam zu nutzen und weiterzuentwickeln. Dazu gibt es noch ein begleitendes Video.<br><br>
 ![](MaterialienIntros/Video_ORCA-Soziotechnisches-Netzwerk_CCBY.png)<br>
-**`Medienformat`** Plakat, begleitendes Video **`erstellt/bearbeitbar mit`** PDF Editor, Padlet, Video-Schnittprogramme<br>
-**`Niveaustufe(n)`** "Einsteiger (Starter), Praktiker, Experte<br>
-**`Praxiskategorie(n)`** OER finden, OER herstellen, OER einführen, OER managen<br>
-**`Metadaten`** *tbd*<br>
+`Medienformat` Plakat, begleitendes Video `erstellt/bearbeitbar mit` PDF Editor, Padlet, Video-Schnittprogramme<br>
+`Niveaustufe(n)` "Einsteiger (Starter), Praktiker, Experte<br>
+`Praxiskategorie(n)` OER finden, OER herstellen, OER einführen, OER managen<br>
+`Metadaten` *tbd*<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*ORCA.nrw – das sozio-technische Netzwerk für offene Bildungsmaterialien; von Kobusch, Alexander; Halm, Linda; Scherer, Elisabeth; Eube, Cornelia; Liefke, Lena ; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Medienportal HSBI](https://www.hsbi.de/medienportal/channel/picture/Posterbeitrag-ORCAnrw-das-sozio-technische-Netzwerk-fuer-offene-Bildungsmaterialien/bc2cd220abbac221fa7d01a44bb1c3e8/14)*
 
 <script>
@@ -1266,12 +1270,12 @@ window.material.push({
 ### CC-Lizenzhinweise erstellen – die TULLUBA-Regel 
 Die 'Postkarte' zur **TULLUBA-Regel** zeigt kompakt wie Creative-Commons-Lizenzhinweise richtig erstellt werden. Die Karte ist damit eine **ideale Erinnerungs-Stütze** bei der Erstellung von Open Educational Resources (OER) oder Open-Access-Materialien.
 ![](MaterialienIntros/Grafik_Postkarte-TULLUBA_CCBY.png)
-**`Medienformat`** PDF, svg, jpg **`erstellt/bearbeitbar mit`** PDF-Editor; Bildverarbeitungsprogramme <br>
-**`Niveaustufe(n)`** Einsteiger (Starter), Praktiker, Experte
-**`Praxiskategorie(n)`** OER finden, OER herstellen, OER managen, OER einführen<br>
-**`Metadaten`** OER; TULLUBA; Creative Commons; CC-Lizenzen;Open Access; Open Educational Resources<br>
+`Medienformat` PDF, svg, jpg `erstellt/bearbeitbar mit` PDF-Editor; Bildverarbeitungsprogramme <br>
+`Niveaustufe(n)` Einsteiger (Starter), Praktiker, Experte
+`Praxiskategorie(n)` OER finden, OER herstellen, OER managen, OER einführen<br>
+`Metadaten` OER; TULLUBA; Creative Commons; CC-Lizenzen;Open Access; Open Educational Resources<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*CC-Lizenzhinweise erstellen – die TULLUBA-Regel ; von Netzwerk Landesportal ORCA.nrw; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/fcf18f89-b750-42aa-a99b-fbf1f244bfab) <br>
  Die TULLUBA-Karte ist ein Produkt der AG Werbung des Netzwerks Landesportal ORCA.nrw. Sie ist eine Bearbeitung der Grafik von Julia Eggestein nach einem Konzept von Sonja Borski und Jöran Muuß-Merholz für OERinfo – Informationsstelle OER (https://open-educational-resources.de/oer-tullu-regel/) lizenziert unter CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.de)*
 
@@ -1296,12 +1300,12 @@ window.material.push({
 ### Grafik "Was darf ich für OER verwenden?"
 Diese 'Sketchnote' bietet einen Überblick darüber, welche Materialien bei der Erstellung von Open Educational Resources (OER) verwendet werden können, ohne dass das Urheberrecht verletzt wird (z.B. Materialien unter Creative-Commons-Lizenz, gemeinfreie Materialien, Zitatrecht etc.). Die Grafik liegt als PNG- und Pdf-Datei vor. 
 ![](MaterialienIntros/Grafik_Was-darf-ich-fuer-OER-verwenden_CCBY.png)
-**`Medienformat`** PDF, png **`erstellt/bearbeitbar mit`** PDF-Editor, Bildverarbeitungsprogramme <br>
-**`Niveaustufe(n)`** Einsteiger (Starter, Praktiker<br>
-**`Praxiskategorie(n)`** OER herstellen, OER einführen<br>
-**`Metadaten`** OER; Urheberrecht; Creative Commons; Zitatrecht; Open Educational Resources; Lehrmaterialien; Medienproduktion; gemeinfrei<br>
+`Medienformat` PDF, png `erstellt/bearbeitbar mit` PDF-Editor, Bildverarbeitungsprogramme <br>
+`Niveaustufe(n)` Einsteiger (Starter, Praktiker<br>
+`Praxiskategorie(n)` OER herstellen, OER einführen<br>
+`Metadaten` OER; Urheberrecht; Creative Commons; Zitatrecht; Open Educational Resources; Lehrmaterialien; Medienproduktion; gemeinfrei<br>
 
->***Zitationsvorschlag nach TULLU-Regel:***
+>**Zitationsvorschlag nach TULLU-Regel:**
 >*Grafik "Was darf ich für OER verwenden?"; von Scherer, Elisabeth; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/c33ec60c-3d55-4052-913d-322fb759e540)*
 
 <script>
