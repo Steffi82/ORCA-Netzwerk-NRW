@@ -465,41 +465,6 @@ window.material.push({
 
 ---
 
-### Learning Snacks - ORCA.nrw - A University Network for OER
-`Lernspiel` `Edu-Game`:
-The example is based on a German network. You can find out **how the network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.<br><br>
-![](MaterialienIntros/Selbstlernkurs_LearningSnack_ORCAnrw-UniversityNetwork-for-OER_CCBYSA40.png)<br>
-`Medienformat:` interaktive Web-Anwendung `erstellt/bearbeitbar mit:` Webanwendung [LearningSnacks](https://www.learningsnacks.de) <br>
-`Niveaustufe(n):` Einsteiger (Starter); Praktiker <br>
-`Praxiskategorie(n)` OER finden; OER herstellen; mit OER lernen; mit OER lehren; OER einführen; OER managen<br>
-`Metadaten:` OER; OER consultation; OER network; University; Higher Education
-
-> **Zitationsvorschlag nach TULLU-Regel:**   
-> *Learning Snacks: ORCA.nrw: A University Network for OER; von *Eube, Cornelia; Kobusch, Alexander; Niemann, Andrea; Nitzsche, Sina; Scherer, Elisabeth; Spaude, Magdalena*; [CC BY‐SA 4.0](https://creativecommons.org/licenses/by‐sa/4.0/); Link führt zu *[Learning Snacks](https://www.learningsnacks.de/share/218584/)*
-
-<script>
-window.material = window.material || [];
-window.material.push({
-  "level": {
-    "beginner": true,
-    "praktiker": true,
-    "experte": true
-  },
-  "praxiskategorie": {
-    "oer_einfuehren": true,
-    "oer_managen": true,
-    "oer_forschen": true
-  },
-  "media": {
-    "selbstlernen": true,
-      }
-  "titel": "Learning Snacks - ORCA.nrw - A University Network for OER",
-  "inhalt": "You can find out **how the german ORCA.nrw-network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.",
-  "link": "#learning-snacks---orca.nrw---a-university-network-for-oer"
-});
-</script>
----
-
 ### Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB
 Der ‘Moodle-Kurs‘ bietet Lehrenden, Studierenden und allen Interessierten einen **Einstieg** in die Welt der Open Educational Resources (OER) und die Nutzung von Creative Commons-Lizenzen. Der Kurs besteht aus **drei unabhängig voneinander bearbeitbaren Abschnitten**: Einführung in OER, Erklärung von CC-Lizenzen und Empfehlungen zur Öffnung von Lehre und Lernen, speziell an der Ruhr-Universität Bochum. In einer Bearbeitungszeit von je 15 bis 20 Minuten pro Einheit lernen die Teilnehmenden, wie sie **OER finden, nutzen, erstellen und ihre eigenen Inhalte für eine offene Lehre gestalten** können.<br><br>
 ![](MaterialienIntros/Selbstlernkurs_Lehre-Lernen-oeffnen-OER-RUB_CCBYSA.png)<br>
