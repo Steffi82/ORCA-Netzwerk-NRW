@@ -1447,7 +1447,7 @@ window.material.push({
 
 ---
 
-### Grafik "Was darf ich für OER verwenden?"
+### Grafik Was darf ich für OER verwenden?
 Diese 'Sketchnote' bietet einen Überblick darüber, welche Materialien bei der Erstellung von Open Educational Resources (OER) verwendet werden können, ohne dass das Urheberrecht verletzt wird (z.B. Materialien unter Creative-Commons-Lizenz, gemeinfreie Materialien, Zitatrecht etc.). Die Grafik liegt als PNG- und Pdf-Datei vor. 
 ![](MaterialienIntros/Grafik_Was-darf-ich-fuer-OER-verwenden_CCBY.png)
 `Medienformat` PDF, png `erstellt/bearbeitbar mit` PDF-Editor, Bildverarbeitungsprogramme <br>
@@ -1456,7 +1456,7 @@ Diese 'Sketchnote' bietet einen Überblick darüber, welche Materialien bei der 
 `Metadaten` OER; Urheberrecht; Creative Commons; Zitatrecht; Open Educational Resources; Lehrmaterialien; Medienproduktion; gemeinfrei<br>
 
 >**Zitationsvorschlag nach TULLU-Regel:**
->*Grafik "Was darf ich für OER verwenden?"; von Scherer, Elisabeth; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/c33ec60c-3d55-4052-913d-322fb759e540)*
+>*Grafik Was darf ich für OER verwenden?; von Scherer, Elisabeth; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [Twillo](https://www.twillo.de/edu-sharing/components/render/c33ec60c-3d55-4052-913d-322fb759e540)*
 
 <script>
 window.material = window.material || [];
@@ -1472,9 +1472,9 @@ window.material.push({
   "media": {
     "graphic": true,
   },
-  "titel": "Grafik "Was darf ich für OER verwenden?"",
+  "titel": "Grafik Was darf ich für OER verwenden?",
   "inhalt": "Diese Sketchnote bietet einen Überblick darüber, welche Materialien bei der Erstellung von Open Educational Resources (OER) verwendet werden können, ohne dass das Urheberrecht verletzt wird (z.B. Materialien unter Creative-Commons-Lizenz, gemeinfreie Materialien, Zitatrecht etc.). Die Grafik liegt als PNG- und Pdf-Datei vor. ",
-  "link": "#grafik-"was-darf-ich-fuer-oer-verwenden?""
+  "link": "#grafik-was-darf-ich-fuer-oer-verwenden?"
 });
 </script>
 
@@ -1501,11 +1501,11 @@ Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend ent
 
 ### Urheberrecht
 
-ERstmal unterliegt der Inhalt dem deutschen Urheberrecht.
+Erstmal unterliegt der Inhalt dem deutschen Urheberrecht.
 Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
 Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet.
-Insbesondere werden Inhalte Dritter als solche gekennzeichnet.Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis.
+Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis.
 Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
 </article>
