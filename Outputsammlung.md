@@ -189,6 +189,8 @@ __Praxiskategorie__
 
 <details>
 
+<summary> Medienart </summary>
+
 __Medienart__
 
 @[button(media,audio,Audio)](Bilder/M-1.png)
