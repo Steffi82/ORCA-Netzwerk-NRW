@@ -49,8 +49,6 @@ window["filter"] = {
 
 <script>
 window.material = window.material || []; 
-  }
-]
 
 window["button"] = function(title, active, image) {
   const color = active ? '#f0842c' : "black";  
