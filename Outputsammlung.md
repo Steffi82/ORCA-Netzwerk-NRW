@@ -42,13 +42,26 @@ window["filter"] = {
     selbstlernen: null,
     webseite: null,
     h5p: null,
-    presentation: null,
-    graphik: null
+    presentation: null
   }
 }
 
-<script>
-window.material = window.material || [];
+window.material = [
+  { level: {beginner: true},
+    praxiskategorie: {oer_finden: true},
+    media: {webseite: true},
+    titel: "OER Policy‐Karte und Karte der Netzwerkstellen in NRW",
+    inhalt: "Die Karte zeigt Hochschulstandorte der DH.nrw und kennzeichnet solche, die eine OER Policy veröffentlicht haben.",
+    link: "1"
+  },
+  { level: {experte: true},
+    praxiskategorie: {oer_finden: true},
+    media: {selbstlernen: true},
+    titel: "infOERmiert ‐ Der OER‐Blog vom Netzwerk Landesportal ORCA.nrw.",
+    inhalt: "Der Blog enthält kurze informative Beiträge rund um OER, die ursprünglich in der zugangsbeschränkten Community of Practice auf ORCA.nrw veröffentlicht wurden.",
+    link: "2"
+  }
+]
 
 window["button"] = function(title, active, image) {
   const color = active ? '#f0842c' : "black";  
@@ -107,7 +120,6 @@ window.material_filter = function() {
     div.innerHTML = list
   }
 }
-</script>
 
 @end
 
@@ -138,6 +150,8 @@ window.material_filter = function() {
 @end
 
 -->
+
+
 
 # Material-Finder | Output Netzwerk ORCA.
 
