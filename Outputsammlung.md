@@ -298,7 +298,7 @@ Die Karte zeigt **Hochschulstandorte** der DH.NRW und kennzeichnet solche, die e
 window.material = window.material || [];
 window.material.push({
   "level": {
-    "beginner": true,
+    "einsteiger": true,
   },
   "praxiskategorie": {
     "oer_managen": true,
@@ -329,7 +329,7 @@ Der `Blog` enthält **kurze informative Beiträge rund um OER**, die ursprüngli
 window.material = window.material || [];
 window.material.push({
   "level": {
-    "beginner": true,
+    "einsteiger": true,
     "praktiker": true,
     "experte": true,
   },
@@ -409,7 +409,7 @@ Stand: Oktober 2024<br>
 window.material = window.material || [];
 window.material.push({
   "level": {
-    "beginner": true,
+    "einsteiger": true,
     "praktiker": true,
     "experte": true,
   },
