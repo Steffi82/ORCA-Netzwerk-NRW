@@ -508,7 +508,7 @@ Der ‘Moodle-Kurs‘ bietet Lehrenden, Studierenden und allen Interessierten ei
 `Metadaten` OER; Selbstlernkurs; Moodle; Creative Commons<br>
 
 >**Zitationsvorschlag nach TULLU-Regel:**
->*Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB; von Fuchs, Michael; Ergänzungen von: Braungardt, Kathrin; Görlich, Sarah; [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Moodle RUB](https://moodle.ruhr-uni-bochum.de/course/view.php?id=21966)*
+>*Lehre und Lernen öffnen: Open Educational Resources (OER) - OpenRUB; von Fuchs, Michael; Ergänzungen von: Braungardt, Kathrin; Görlich, Sarah; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zu [Moodle RUB](https://moodle.ruhr-uni-bochum.de/course/view.php?id=21966)*
 
 <script>
 window.material = window.material || [];
@@ -543,7 +543,7 @@ In diesem Kurs werden Sie mit dem Konzept der Open Educational Resources (OER) v
 `Metadaten` OER; Open Educational Resources; Lehren; Lernen; Creative Commons; Lizenzen<br>
 
 >**Zitationsvorschlag nach TULLU-Regel:**
->*DEC@UoC – Einführung in Open Educational Resources; von Magdalena Spaude Universität zu Köln, [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zum [ILIAS Edulabs Köln](https://www.edulabs.uni-koeln.de/goto_iliasedulabs_crs_16513.html)*
+>*DEC@UoC – Einführung in Open Educational Resources; von Magdalena Spaude Universität zu Köln; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); Link führt zum [ILIAS Edulabs Köln](https://www.edulabs.uni-koeln.de/goto_iliasedulabs_crs_16513.html)*
 
 <script>
 window.material = window.material || [];
@@ -632,9 +632,9 @@ window.material.push({
   "media": {
     "selbstlernen": true,
       }
-  "titel": "Learning Snacks: ORCA.nrw: A University Network for OER",
+  "titel": "Learning Snacks - ORCA.nrw - A University Network for OER",
   "inhalt": "You can find out **how the german ORCA.nrw-network works** and how it **advises on OER** together with the teacher Dr Jamal Groenstein, who gets to know the network as a protagonist.",
-  "link": "#learning-snacks:-orca.nrw:-a-university-network-for-oer"
+  "link": "#learning-snacks---orca.nrw---a-university-network-for-oer"
 });
 </script>
 ---
@@ -1173,7 +1173,9 @@ Das Netzwerk ORCA.nrw präsentiert hier fünf kurze und prägnante Foliensätze 
 
 
 <script>
-"level": {
+window.material = window.material || [];
+window.material.push({
+  "level": {
     "einsteiger": true,
     "praktiker": true,
   },
@@ -1513,7 +1515,7 @@ In dieser ‘Podcast-Folge‘ teilen die Geschäftsführung von ORCA.nrw, dem im
 `Metadaten` Netzwerk; ORCA.nrw; Service; Herausforderungen; Plattform; zugehOERt!; Podcast; Hochschule<br>
 
 >**Zitationsvorschlag nach TULLU-Regel:**
->*zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann; von Grimm, Susanne; Kobusch, Alexander; Reichardt, Gabi; Spaude, Magdalena; Deimann, Markus; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [OER-Info](https://open-educational-resources.de/zugehoert-080-orca-nrw/ )*
+>*zugehOERt 080: Im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann; von Grimm, Susanne; Kobusch, Alexander; Reichardt, Gabi; Spaude, Magdalena; Deimann, Markus; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); Link führt zu [OER-Info](https://open-educational-resources.de/zugehoert-080-orca-nrw/)*
 
 <script>
 window.material = window.material || [];
