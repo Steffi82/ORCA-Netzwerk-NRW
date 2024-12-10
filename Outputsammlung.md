@@ -143,7 +143,7 @@ window.material_filter = function() {
 Willkommen beim Output des Netzwerk ORCA.nrw! <br>
 
 Das **Netzwerk ORCA.nrw** hat während seiner Projektlaufzeit (2020 bis 2024) zahlreiche Materialien rund um offene Bildungsmaterialien (OER) entwickelt und gesammelt. Ziel war es, Lehrende und Lernende dabei zu unterstützen, OER in der Praxis einzusetzen und weiterzuentwickeln.<br>
-Diese Sammlung bietet Ihnen Orientierung und Ideen: **Einsteiger*innen** finden einen leichten Zugang zum Thema OER, **Praktiker*innen** Vorlagen und Muster zur Nachnutzung, und **Expert*innen** können sich inspirieren lassen oder neue Anknüpfungspunkte entdecken. Wir betrachten diese Rollen als fließend – entscheiden Sie situativ und nutzen Sie die Materialien so, wie es für Sie passt!<br>
+Diese Sammlung bietet Ihnen Orientierung und Ideen: **Einsteiger:innen** finden einen leichten Zugang zum Thema OER, **Praktiker:innen** Vorlagen und Muster zur Nachnutzung, und **Expert:innen** können sich inspirieren lassen oder neue Anknüpfungspunkte entdecken. Wir betrachten diese Rollen als fließend – entscheiden Sie situativ und nutzen Sie die Materialien so, wie es für Sie passt!<br>
 
 Transparenz liegt uns am Herzen: Nicht alle Materialien, die das Netzwerk produziert hat, stehen unter freier Lizenz. Einige verlinken wir trotzdem, um sie sichtbar zu machen und so für mehr Offenheit in der Bildungslandschaft zu sorgen.
 Stöbern Sie durch die Medientypen oder nutzen Sie die Suchfunktion, um gezielt nach Materialien zu suchen. Wenn die Suche Sie überrascht oder herausfordert, freuen wir uns über Ihre Gedanken, um sie noch besser gestalten zu können.<br>
@@ -216,21 +216,21 @@ __Medienart__
 
 Jedes Material wird übersichtlich präsentiert: Eine kurze **Beschreibung**, **ein Screenshot** und die **Lizenzangabe** geben Orientierung, während sich die acht Farben der acht **Medienarten** auf das Banner unter dem Vorschaubild übertragen.
 <br>
-Die Materialien sind zusätzlich nach **Niveaustufen** eingeordnet, um sie passend zum Erfahrungsstand der Nutzer*innen zu kategorisieren:
+Die Materialien sind zusätzlich nach **Niveaustufen** eingeordnet, um sie passend zum Erfahrungsstand der Nutzer:innen zu kategorisieren:
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="Bilder/L-Einsteiger-150x130px.png" alt="Einsteiger" style="height: 50px; margin-right: 10px;">
-  <strong>Einsteiger*innen:</strong> erhalten grundlegende Anleitungen.
+  <strong>Einsteiger:innen:</strong> erhalten grundlegende Anleitungen.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="Bilder/L-Praktiker-150x75px.png" alt="Praktiker" style="height: 50px; margin-right: 10px;">
-  <strong>Praktiker*innen:</strong> finden praxisnahe Vorlagen.
+  <strong>Praktiker:innen:</strong> finden praxisnahe Vorlagen.
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="Bilder/L-Experte-150x130px.png" alt="Expert*innen" style="height: 50px; margin-right: 10px;">
-  <strong>Expert*innen:</strong> können spezialisierte Inhalte und Analysen entdecken.
+  <img src="Bilder/L-Experte-150x130px.png" alt="Expert:innen" style="height: 50px; margin-right: 10px;">
+  <strong>Expert:innen:</strong> können spezialisierte Inhalte und Analysen entdecken.
 </div>
 <br>
 Die **Praxiskategorien**, basierend auf [OERinfo](http://www.oer-info.de), unterstützen dabei, OER in unterschiedlichen Bereichen einzusetzen und weiterzuentwickeln:
@@ -270,7 +270,7 @@ Die **Praxiskategorien**, basierend auf [OERinfo](http://www.oer-info.de), unter
   <strong>Über OER forschen:</strong> Ressourcen und Studien, um das Potenzial und die Wirkung von OER zu analysieren.
 </div>
 <br>
-Dr. Jamal Groenstein, Protagonist einiger Materialien des Netzwerks ORCA.nrw, begleitet Sie mit praxisnahen Hinweisen und Tipps, wie die Materialien sinnvoll genutzt werden können – sei es für die eigene Weiterbildung, die Lehre oder zur Weitergabe an Kolleg*innen.
+Dr. Jamal Groenstein, Protagonist einiger Materialien des Netzwerks ORCA.nrw, begleitet Sie mit praxisnahen Hinweisen und Tipps, wie die Materialien sinnvoll genutzt werden können – sei es für die eigene Weiterbildung, die Lehre oder zur Weitergabe an Kolleg:innen.
 
 ---
 
@@ -422,8 +422,8 @@ window.material.push({
 ---
 
 ## Selbstlern-Materialien
-![Diese Kategorie enthält interaktive Inhalte, wie Selbstlernkurse und Übungen, die Informationen zu OER vermitteln wollen und dabei Lernen in eigenem Tempo ermöglichen. Vor allem eine Kategorie für Einsteiger*innen, aber auch für Praktiker*innen als Inspiration oder Vorlage für eigene Materialien.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Selbstlern_1200x80px.png)
-Diese Kategorie enthält interaktive Inhalte, wie Selbstlernkurse und Übungen, die Informationen zu OER vermitteln wollen und dabei Lernen in eigenem Tempo ermöglichen. Vor allem eine Kategorie für Einsteiger*innen, aber auch für Praktiker*innen als Inspiration oder Vorlage für eigene Materialien.
+![Diese Kategorie enthält interaktive Inhalte, wie Selbstlernkurse und Übungen, die Informationen zu OER vermitteln wollen und dabei Lernen in eigenem Tempo ermöglichen. Vor allem eine Kategorie für Einsteiger:innen, aber auch für Praktiker:innen als Inspiration oder Vorlage für eigene Materialien.](Bilder/Mats_Netzwerk_Kategorien_Kategorie_Selbstlern_1200x80px.png)
+Diese Kategorie enthält interaktive Inhalte, wie Selbstlernkurse und Übungen, die Informationen zu OER vermitteln wollen und dabei Lernen in eigenem Tempo ermöglichen. Vor allem eine Kategorie für Einsteiger:innen, aber auch für Praktiker:innen als Inspiration oder Vorlage für eigene Materialien.
 
 ---
 
@@ -1012,7 +1012,7 @@ window.material.push({
 ---
 
 ### Unser Werteverständnis - Open Educational Culture
-`Textdokument`zur Frage: Was bedeutet eine "Open Educational Culture" im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema **Open Educational Culture**, seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der **kondensierten Werte, Einstellungen und Verhaltensweisen**, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert:Innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede:n Einzelne:n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur*innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.<br><br>
+`Textdokument`zur Frage: Was bedeutet eine "Open Educational Culture" im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema **Open Educational Culture**, seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der **kondensierten Werte, Einstellungen und Verhaltensweisen**, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert:Innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede:n Einzelne:n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur:innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.<br><br>
 ![](MaterialienIntros/Textdokument_Werteverstaendnis-OEC_CCBY.png)<br>
 `Medienformat` PDF `erstellt/bearbeitbar mit` PDF-Editor <br>
 `Niveaustufe(n)` Einsteiger (Starter), Experte<br>
@@ -1038,7 +1038,7 @@ window.material.push({
     "textdoc": true,
   },
   "titel": "Unser Werteverständnis - Open Educational Culture",
-  "inhalt": "Was bedeutet eine Open Educational Culture im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema Open Educational Culture, seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der kondensierten Werte, Einstellungen und Verhaltensweisen, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert*innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede*n Einzelne*n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur*innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.",
+  "inhalt": "Was bedeutet eine Open Educational Culture im Kontext von Open Educational Resources? Mit dieser Frage haben sich die Netzwerkstellen des Landesportals, im Kern eine Arbeitsgruppe zum Thema Open Educational Culture, seit Beginn des Jahres 2021 beschäftigt. Das Nachfolgende ist ein Ausdruck der kondensierten Werte, Einstellungen und Verhaltensweisen, die aus Sicht der Netzwerkstellen und gleichzeitigen OER-Expert:innen grundlegend sind, um eine Open Educational Culture (OEC) aktiv zu leben. Gerade das Vorleben dieser Werte (durch jede*n Einzelne*n) schafft neue Erfahrungsräume und fördert eine Open Educational Culture. Sie ermöglichen es jedoch auch, zu spüren und zu beobachten, wo im System der Hochschule und bei ihren jeweiligen Akteur:innen eine Open Educational Culture bereits stattfindet oder aber sich zu entwickeln beginnt. Die Schärfung des Verständnisses einer Open Educational Culture stellt letztlich eine gemeinsame Leitlinie im Themenfeld OER und im Handlungsfeld Lehre bereit.",
   "link": "#unser-werteverstaendnis---open-educational-culture"
 });
 </script>
@@ -1144,7 +1144,7 @@ window.material.push({
     "textdoc": true,
   },
   "titel": "Wie Austauschformate zur Förderung einer Open Educational Culture an Hochschulen beitragen können",
-  "inhalt": "Diese Handreichung ist das Ergebnis einer Kooperation im Rahmen des Netzwerks, den OER-Expert*innen der NRW-Hochschulen, im Open Resources Campus NRW (ORCA.nrw). Hierbei widmen sich die OER-Expert*innen der Etablierung und Unterstützung einer Open Educational Culture an Universitäten, Hochschulen für Angewandte Wissenschaften sowie Musik- und Kunsthochschulen und geben praktische Tipps und Anleitungen, wie das gelingen kann. Im vorliegenden Dokument, das Teil der Handlungsempfehlungen ist, beschäftigen wir uns mit dem Aspekt, wie Austauschformate zur Förderung einer Open Educational Culture an der Hochschule beitragen können. Dieser Handreichungsteil richtet sich primär an OER-Multiplikator*innen, die an ihren Bildungseinrichtungen eine Open Educational Culture fördern wollen.",
+  "inhalt": "Diese Handreichung ist das Ergebnis einer Kooperation im Rahmen des Netzwerks, den OER-Expert:innen der NRW-Hochschulen, im Open Resources Campus NRW (ORCA.nrw). Hierbei widmen sich die OER-Expert:innen der Etablierung und Unterstützung einer Open Educational Culture an Universitäten, Hochschulen für Angewandte Wissenschaften sowie Musik- und Kunsthochschulen und geben praktische Tipps und Anleitungen, wie das gelingen kann. Im vorliegenden Dokument, das Teil der Handlungsempfehlungen ist, beschäftigen wir uns mit dem Aspekt, wie Austauschformate zur Förderung einer Open Educational Culture an der Hochschule beitragen können. Dieser Handreichungsteil richtet sich primär an OER-Multiplikator:innen, die an ihren Bildungseinrichtungen eine Open Educational Culture fördern wollen.",
   "link": "#wie-austauschformate-zur-foerderung-einer-open-educational-culture-an-hochschulen-beitragen-koennen"
 });
 </script>
@@ -1402,7 +1402,7 @@ window.material.push({
 
 
 ### OER-Testimonials: Materials Caching
-Im Interview mit dem **Projekt Material Caching** wird eine Lern-App für das strukturierte Selbststudium der Werkstofftechnologie vorgestellt, das sich in spielerischer Form an das Grundprinzip von Geocaching anlehnt. Die **Video-Reihe OER-Testimonials** stellt Produzent*innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources, OER) vor. Die Reihe ist im Rahmen des Dortmunder OER-Zirkels entstanden, einem Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH Dortmund und TU Dortmund.<br><br>
+Im Interview mit dem **Projekt Material Caching** wird eine Lern-App für das strukturierte Selbststudium der Werkstofftechnologie vorgestellt, das sich in spielerischer Form an das Grundprinzip von Geocaching anlehnt. Die **Video-Reihe OER-Testimonials** stellt Produzent:innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources, OER) vor. Die Reihe ist im Rahmen des Dortmunder OER-Zirkels entstanden, einem Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH Dortmund und TU Dortmund.<br><br>
 ![](MaterialienIntros/Video_OER-Testimonials_DO_CCBY.png)<br>
 `Medienformat` Video `erstellt/bearbeitbar mit` Video-Schnittprogramme <br>
 `Niveaustufe(n)` Praktiker<br>
@@ -1426,7 +1426,7 @@ window.material.push({
     "video": true,
   },
   "titel": "OER-Testimonials: Materials Caching",
-  "inhalt": "Im Interview mit dem **Projekt Material Caching** wird eine Lern-App für das strukturierte Selbststudium der Werkstofftechnologie vorgestellt, das sich in spielerischer Form an das Grundprinzip von Geocaching anlehnt. Die **Video-Reihe OER-Testimonials** stellt Produzent*innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources, OER) vor. Die Reihe ist im Rahmen des Dortmunder OER-Zirkels entstanden, einem Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH Dortmund und TU Dortmund.",
+  "inhalt": "Im Interview mit dem **Projekt Material Caching** wird eine Lern-App für das strukturierte Selbststudium der Werkstofftechnologie vorgestellt, das sich in spielerischer Form an das Grundprinzip von Geocaching anlehnt. Die **Video-Reihe OER-Testimonials** stellt Produzent:innen von innovativen frei verfügbaren Lehrmaterialien (Open Educational Resources, OER) vor. Die Reihe ist im Rahmen des Dortmunder OER-Zirkels entstanden, einem Kooperationsprojekt der Netzwerkstellen ORCA.nrw an der FH Dortmund und TU Dortmund.",
   "link": "#oer-testimonials:-materials-caching"
 });
 </script>
@@ -1461,7 +1461,7 @@ window.material.push({
     "video": true,
   },
   "titel": "Virtuelles Kamingespräch: OER in der Hochschule",
-  "inhalt": "In diesem moderierten Kamingespräch diskutieren Expert*innen in lockerer Runde zum Thema OER in der Hochschullehre. Teilnehmende konnten darüber hinaus Fragen stellen und sich miteinbringen! Die Runde geht unter anderem den Fragen nach, wieder Weg von einer Idee zur Produktion einer nachhaltig nutzbaren freien Bildungsressource institutionell begleitet werden kann, wie eine OER zur gemeinsamen Reflexion von Videos aussehen kann und wie eine OER-Community funktionieren kann.",
+  "inhalt": "In diesem moderierten Kamingespräch diskutieren Expert:innen in lockerer Runde zum Thema OER in der Hochschullehre. Teilnehmende konnten darüber hinaus Fragen stellen und sich miteinbringen! Die Runde geht unter anderem den Fragen nach, wieder Weg von einer Idee zur Produktion einer nachhaltig nutzbaren freien Bildungsressource institutionell begleitet werden kann, wie eine OER zur gemeinsamen Reflexion von Videos aussehen kann und wie eine OER-Community funktionieren kann.",
   "link": "#virtuelles-kamingespraech:-oer-in-der-hochschule"
 });
 </script>
@@ -1501,7 +1501,7 @@ window.material.push({
     "audio": true,
   },
   "titel": "OER Tracks: The Best Music for Educational Videos, Volume 1",
-  "inhalt": "Das Tape OER Tracks: The Best Music for Educational Videos beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler*innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.",
+  "inhalt": "Das Tape OER Tracks: The Best Music for Educational Videos beinhaltet dreißig frei verfügbare Musikstücke von zehn jungen und unabhängigen Künstler:innen in NRW. Die Tracks wurden im Rahmen des Corona-Soforthilfe-Programms der DH.NRW von der Fachhochschule Dortmund für den Einsatz in Lehr- und Lernvideos produziert. Sie sind unter der Lizenz CC BY 4.0 lizenziert und können von allen Interessierten in der digitalen Lehre und darüber hinaus verwendet, verarbeitet, vermischt und verbreitet werden.",
   "link": "#oer-tracks:-the-best-music-for-educational-videos,-volume-1"
 });
 </script>
