@@ -113,15 +113,15 @@ window.material_filter = function() {
   function show () {
     if (window.filter && window.button) {
 
-      if(window.filter["level"]["praxiskategorie"]["media"] === null) {
-        window.filter["level"]["praxiskategorie"]["media"] = false
+      if(window.filter["@level"]["@praxiskategorie"]["@media"] === null) {
+        window.filter["@level"]["@praxiskategorie"]["@media"] = false
       } else {
-        window.filter["level"]["praxiskategorie"]["media"]= !window.filter["level"]["praxiskategorie"]["media"]
+        window.filter["@level"]["@praxiskategorie"]["@media"]= !window.filter["@level"]["@praxiskategorie"]["@media"]
 
         window.material_filter()
       }
 
-      send.html(window.button("@3", window.filter["level"]["praxiskategorie"]["media"], "@4"))
+      send.html(window.button("@3", window.filter["@level"]["@praxiskategorie"]["@media"], "@4"))
 
     } else {
       setTimeout(function() {
