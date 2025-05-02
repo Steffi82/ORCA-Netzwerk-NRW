@@ -1,5 +1,5 @@
-Lnk zum Liascript: https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/Steffi82/ORCA-Netzwerk-NRW/main/Outputsammlung.md
-
+Lnk zum Liascript: https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/Steffi82/ORCA-Netzwerk-NRW/outputsammlung-fixing-filter/Outputsammlung.md#1
+Der Suchfilter ist derzeit im Branch <outputsammlung-fixing-filter> ausgeschaltet. Im <main>-Branch ist er noch aktiv, funktioniert aber nicht.
 Die Outputsammlung ist noch im Aufbau. Entsprechend gilt sie aktuell noch nicht als veröffentlicht.
 
 
