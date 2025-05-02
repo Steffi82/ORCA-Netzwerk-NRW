@@ -152,7 +152,8 @@ Und nun: Viel Spaß beim Entdecken und Ausprobieren! Wir  freuen uns über Rück
 
 
 ![Willkommen beim Output des Netzwerk ORCA.nrw! Während der Projektlaufzeit (2019-2024) sind zahlreiche Materialien rund um offene Bildungsmaterialien (OER) entwickelt und gesammelt. Ziel war es, Lehrende und Lernende dabei zu unterstützen, OER in der Praxis einzusetzen und weiterzuentwickeln. Diese Sammlung bietet  Orientierung und Ideen für einen leichten Zugang zum Thema OER, umfasst Vorlagen und Muster zur Nachnutzung, und eine Menge Inspiration und neue Anknüpfungspunkte, um neue Perspektiven zu erkunden. Wir betrachten diese Rollen als fließend – entscheiden Sie situativ und nutzen Sie die Materialien so, wie es für Sie passt! Stöbern Sie durch die Medientypen](2024-11-11_INTRO_Materialsuche_1200xpx.png "Fig. 1: Herzlich willkommen!")
-<!--
+
+
 <details>
 
 <summary> Level </summary>
@@ -205,7 +206,8 @@ __Medienart__
 ---
 
 <div id="results"></div>
--->
+
+
 ---
 # Legende
 
