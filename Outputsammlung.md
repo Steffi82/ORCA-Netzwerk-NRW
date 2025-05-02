@@ -113,15 +113,15 @@ window.material_filter = function() {
   function show () {
     if (window.filter && window.button) {
 
-      if(window.filter["@0"]["@1"] === null) {
-        window.filter["@0"]["@1"] = false
+      if(window.filter["level"]["praxiskategorie"]["media"] === null) {
+        window.filter["level"]["praxiskategorie"]["media"] = false
       } else {
-        window.filter["@0"]["@1"]= !window.filter["@0"]["@1"]
+        window.filter["level"]["praxiskategorie"]["media"]= !window.filter["level"]["praxiskategorie"]["media"]
 
         window.material_filter()
       }
 
-      send.html(window.button("@2", window.filter["@0"]["@1"], "@3"))
+      send.html(window.button("@3", window.filter["level"]["praxiskategorie"]["media"], "@4"))
 
     } else {
       setTimeout(function() {
