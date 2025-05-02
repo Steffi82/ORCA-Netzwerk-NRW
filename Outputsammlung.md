@@ -154,58 +154,6 @@ Und nun: Viel Spaß beim Entdecken und Ausprobieren! Wir  freuen uns über Rück
 
 ![Willkommen beim Output des Netzwerk ORCA.nrw! Während der Projektlaufzeit (2019-2024) sind zahlreiche Materialien rund um offene Bildungsmaterialien (OER) entwickelt und gesammelt. Ziel war es, Lehrende und Lernende dabei zu unterstützen, OER in der Praxis einzusetzen und weiterzuentwickeln. Diese Sammlung bietet  Orientierung und Ideen für einen leichten Zugang zum Thema OER, umfasst Vorlagen und Muster zur Nachnutzung, und eine Menge Inspiration und neue Anknüpfungspunkte, um neue Perspektiven zu erkunden. Wir betrachten diese Rollen als fließend – entscheiden Sie situativ und nutzen Sie die Materialien so, wie es für Sie passt! Stöbern Sie durch die Medientypen oder nutzen Sie die Suchfunktion, um gezielt nach Materialien zu suchen. „Wenn die Suche Sie überrascht oder herausfordert freuen wir uns über Ihre Gedanken, um sie noch besser gestalten zu können. Viel Spaß beim Entdecken und Ausprobieren!](2024-11-11_INTRO_Materialsuche_1200xpx.png "Fig. 1: Herzlich willkommen!")
 
-<details>
-
-<summary> Level </summary>
-
-__Level__
-
-@[button(level,beginner,Einsteiger)](Bilder/L-Einsteiger-150x130px.png)
-@[button(level,praktiker,Praktiker)](Bilder/L-Praktiker-150x75px.png)
-@[button(level,experte,Experte)](Bilder/L-Experte-150x130px.png)
-
-</details>
-
----
-
-<details>
-
-<summary> Praxiskategorie </summary>
-
-__Praxiskategorie__
-
-@[button(praxiskategorie,oer_finden,OER finden)](Bilder/OER-finden-100x75.png)
-@[button(praxiskategorie,oer_herstellen,OER herstellen)](Bilder/OER-herstellen-100x75.png)
-@[button(praxiskategorie,oer_lernen,Mit OER lernen)](Bilder/OER-lernen-100x75.png)
-@[button(praxiskategorie,oer_lehren,Mit OER lehren)](Bilder/OER-lehren-100x75.png)
-@[button(praxiskategorie,oer_einfuehren,OER einführen)](Bilder/OER-einfuehren-100x75.png)
-@[button(praxiskategorie,oer_managen,OER managen)](Bilder/OER-managen-100x75.png)
-@[button(praxiskategorie,oer_forschen,Über OER forschen)](Bilder/OER-erforschen-100x75.png)
-
-</details>
-
----
-
-<details>
-
-<summary> Medienart </summary>
-
-__Medienart__
-
-@[button(media,audio,Audio)](Bilder/M-1.png)
-@[button(media,video,Video)](Bilder/M-Video-75x75.png)
-@[button(media,textdoc,Textdokument)](Bilder/M-Textdoc-75x75.png)
-@[button(media,selbstlernen,Selbstlernkurs)](Bilder/M-Selbstlernmaterialien-75x75.png)
-@[button(media,webseite,Webseite)](Bilder/M-Webseiten-75x75.png)
-@[button(media,h5p,H5P)](Bilder/M-H5P-75x75.png)
-@[button(media,presentation,Praesentation)](Bilder/M-PraesiInterview-75x75.png)
-@[button(media,presentation,Bilder/Grafik)](Bilder/M-Grafiken-75x75.png)
-
-</details>
-
----
-
-<div id="results"></div>
 
 ---
 # Legende
