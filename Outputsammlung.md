@@ -17,7 +17,8 @@ link:     style.css
 @onload
 
 const baseURL = (new URL("img", window.location.search.substr(1))).href
-/*
+-->
+
 window["filter"] = {
   level: {
     beginner: null,
@@ -134,8 +135,6 @@ window.material_filter = function() {
 </script>
 @end
 
--->
-*/
 
 
 # Material-Finder | Output Netzwerk ORCA.
@@ -146,15 +145,14 @@ Das **Netzwerk ORCA.nrw** hat während seiner Projektlaufzeit (2020 bis 2024) za
 Diese Sammlung bietet Ihnen Orientierung und Ideen: **Einsteiger:innen** finden einen leichten Zugang zum Thema OER, **Praktiker:innen** Vorlagen und Muster zur Nachnutzung, und **Expert:innen** können sich inspirieren lassen oder neue Anknüpfungspunkte entdecken. Wir betrachten diese Rollen als fließend – entscheiden Sie situativ und nutzen Sie die Materialien so, wie es für Sie passt!<br>
 
 Transparenz liegt uns am Herzen: Nicht alle Materialien, die das Netzwerk produziert hat, stehen unter freier Lizenz. Einige verlinken wir trotzdem, um sie sichtbar zu machen und so für mehr Offenheit in der Bildungslandschaft zu sorgen.
-Stöbern Sie durch die Medientypen.  
-// nutzen Sie die Suchfunktion, um gezielt nach Materialien zu suchen. Wenn die Suche Sie überrascht oder herausfordert, freuen wir uns über Ihre Gedanken, um sie noch besser gestalten zu können.<br>
+Stöbern Sie durch die Medientypen. Nutzen Sie die Suchfunktion, um gezielt nach Materialien zu suchen. Wenn die Suche Sie überrascht oder herausfordert, freuen wir uns über Ihre Gedanken, um sie noch besser gestalten zu können.<br>
 
 Und nun: Viel Spaß beim Entdecken und Ausprobieren! Wir  freuen uns über Rückmeldungen, Feedback und Kommentare aller Art!<br>
 **Spread the wOERd!**
 
 
 ![Willkommen beim Output des Netzwerk ORCA.nrw! Während der Projektlaufzeit (2019-2024) sind zahlreiche Materialien rund um offene Bildungsmaterialien (OER) entwickelt und gesammelt. Ziel war es, Lehrende und Lernende dabei zu unterstützen, OER in der Praxis einzusetzen und weiterzuentwickeln. Diese Sammlung bietet  Orientierung und Ideen für einen leichten Zugang zum Thema OER, umfasst Vorlagen und Muster zur Nachnutzung, und eine Menge Inspiration und neue Anknüpfungspunkte, um neue Perspektiven zu erkunden. Wir betrachten diese Rollen als fließend – entscheiden Sie situativ und nutzen Sie die Materialien so, wie es für Sie passt! Stöbern Sie durch die Medientypen oder nutzen Sie die Suchfunktion, um gezielt nach Materialien zu suchen. „Wenn die Suche Sie überrascht oder herausfordert freuen wir uns über Ihre Gedanken, um sie noch besser gestalten zu können. Viel Spaß beim Entdecken und Ausprobieren!](2024-11-11_INTRO_Materialsuche_1200xpx.png "Fig. 1: Herzlich willkommen!")
-/*
+
 <details>
 
 <summary> Level </summary>
@@ -207,7 +205,7 @@ __Medienart__
 ---
 
 <div id="results"></div>
-*/
+
 ---
 # Legende
 
